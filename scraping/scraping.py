@@ -1,31 +1,63 @@
-from scraping_parameters import ScrapingParameters
+from scraping.scraping_parameters import ScrapingParameters
 
 import pandas as pd
-import numpy as np
 from bs4 import BeautifulSoup as b
-import urllib as url #if you are using python3+ version, import urllib.request
 import requests
-from urllib.request import urlopen as uReq
 
 
 class ScrapWeb:
-    def __init__(self, scraping_parameters_path='scraping_parameters.yml'):
+    """
+    Class used as base to scrap data from LNR website.
+    The constructor takes as an input the path to the configuration file (.yml).
+    The default file (usage recommended) is "scrapping_parameters.yml".
+    The scraping is performed successively on the pages reachable with the PATHS defined
+    in the "saison_wiki" field of the configuration file.
+
+    The 'debug' parameter launches the scraping on the last PATH only
+
+    The scraped data is loaded in the '.results' attribute
+    """
+    def __init__(self, scraping_parameters_path='scraping/scraping_parameters.yml', debug=False):
+
+        print('Creating a ScrapWeb instance with debug = {}'.format(debug))
+
+        # Initialization of the attributes
+        #       Loading the data from the configuration file
         self.scraping_parameters_path = scraping_parameters_path
         self.scraping_parameters = ScrapingParameters(self.scraping_parameters_path)
-        self.results_list = []
+
+        #       Creating an empty DataFrame to concatenate the data
         self.results = pd.DataFrame(columns=self.scraping_parameters.saison_cols)
 
+        if debug:
+            # We keep only the last PATH of the configuration file (ie the last season)
+            self.scraping_parameters.saison_wiki = [self.scraping_parameters.saison_wiki[-1]]
+
+        print('The scraping will be performed over {} seasons'
+              .format(len(self.scraping_parameters.saison_wiki)))
+
+        # For each PATH of the configuration file (ie each season)
         for season_url in self.scraping_parameters.saison_wiki:
 
+            # Create an instance of the Season class using the corresponding url
+            # For each season, the data are loaded in the .season_results attribute as a DataFrame
             current_season = Season(self.scraping_parameters.fixe + season_url,
                                     self.scraping_parameters_path)
 
+            # Append the data of the current season to main DataFrame
             self.results = self.results.append(current_season.season_results)
-            print(current_season.season_id)
+
+            print('Season {} loaded in the DataFrame'.format(current_season.season_id))
+
+        print('Initialisation of the ScrapWeb object completed')
+        print('The matchs DataFrame concatenates {} games'.format(self.results.shape[0]))
 
 
 class Season:
-    def __init__(self, url, scraping_parameters_path='scraping_parameters.yml'):
+    """
+
+    """
+    def __init__(self, url, scraping_parameters_path='scraping/scraping_parameters.yml'):
         self.scraping_parameters_path = scraping_parameters_path
         self.scraping_parameters = ScrapingParameters(self.scraping_parameters_path)
         self.season_results = pd.DataFrame(columns=self.scraping_parameters.saison_cols)
@@ -80,7 +112,7 @@ class Season:
 
 class Day:
     def __init__(self, day_url, season_id,
-                 current_day, scraping_parameters_path='scraping_parameters.yml'):
+                 current_day, scraping_parameters_path='scraping/scraping_parameters.yml'):
         self.season_id = season_id
         self.current_day = current_day
         self.scraping_parameters_path = scraping_parameters_path
@@ -96,7 +128,6 @@ class Day:
         for html_match_info in day_container[0].select('tr.info-line.after'):
             current_match = Match(html_match_info, self.season_id, self.current_day)
             self.day_results_list.append(current_match.match_results)
-
 
         # for match_info in day_container[0].select('tr.info-line.after.table-hr'):
         #     current_match = Match(match_info, season_id, current_day)
@@ -134,14 +165,20 @@ class Match:
         ]
 
 
-def main():
-    scraping = ScrapWeb()
+def main(debug=False):
+
+    print("Creating an instance of ScrapWeb Class")
+    scraping = ScrapWeb(debug=debug)
+
     print(scraping.results.head(5))
-    scraping.results.to_csv('matchs_results.csv',
-                            sep='|',
-                            encoding='utf-8',
-                            index=False)
+
+    if not debug:
+        scraping.results.to_csv('data/matchs_results.csv',
+                                sep='|',
+                                encoding='utf-8',
+                                index=False)
 
 
 if __name__ == "__main__":
-    main()
+
+    main(debug=True)
