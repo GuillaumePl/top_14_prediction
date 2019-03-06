@@ -1,0 +1,17 @@
+# Environment Definition
+name: rugby
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - python=3.7
+  - jupyter
+  - nb_conda_kernels
+  - bs4
+  - PyYAML
+  - requests

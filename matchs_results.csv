@@ -1,0 +1,2767 @@
+|season_id|season_day|date|team_dom|team_ext|score_dom|score_ext|bonus_dom|bonus_ext
+0|2004-2005|1|Mercredi 18 Août|Perpignan|Bourgoin|29|23||
+1|2004-2005|1|Mercredi 18 Août|Auch|Narbonne|24|25||
+2|2004-2005|1|Mercredi 18 Août|Pau|Toulouse|28|16||
+3|2004-2005|1|Mercredi 18 Août|Grenoble|Brive|23|28||
+4|2004-2005|1|Mercredi 18 Août|Agen|Castres|16|16||
+5|2004-2005|1|Mercredi 18 Août|Montpellier|Clermont|27|12||
+6|2004-2005|1|Mercredi 18 Août|Béziers|Biarritz|22|26||
+7|2004-2005|1|Mercredi 18 Août|Bayonne|Paris|10|34||
+0|2004-2005|2|Lundi 23 Août|Castres|Bayonne|32|26||
+1|2004-2005|2|Lundi 23 Août|Bourgoin|Montpellier|32|7||
+2|2004-2005|2|Lundi 23 Août|Biarritz|Auch|34|3||
+3|2004-2005|2|Lundi 23 Août|Clermont|Grenoble|17|26||
+4|2004-2005|2|Lundi 23 Août|Brive|Béziers|28|16||
+5|2004-2005|2|Lundi 23 Août|Narbonne|Agen|12|15||
+6|2004-2005|2|Lundi 23 Août|Paris|Pau|33|17||
+7|2004-2005|2|Lundi 23 Août|Toulouse|Perpignan|24|21||
+0|2004-2005|3|Dimanche 29 Août|Grenoble|Castres|28|28||
+1|2004-2005|3|Dimanche 29 Août|Pau|Biarritz|10|34||
+2|2004-2005|3|Dimanche 29 Août|Auch|Bourgoin|15|19||
+3|2004-2005|3|Dimanche 29 Août|Montpellier|Paris|49|25||
+4|2004-2005|3|Dimanche 29 Août|Bayonne|Clermont|27|19||
+5|2004-2005|3|Dimanche 29 Août|Béziers|Toulouse|28|22||
+6|2004-2005|3|Dimanche 29 Août|Agen|Brive|31|26||
+7|2004-2005|3|Dimanche 29 Août|Narbonne|Perpignan|15|35||
+0|2004-2005|4|Vendredi 03 Septembre|Castres|Béziers|16|12||
+1|2004-2005|4|Samedi 04 Septembre|Paris|Agen|20|25||
+2|2004-2005|4|Samedi 04 Septembre|Clermont|Pau|28|9||
+3|2004-2005|4|Samedi 04 Septembre|Toulouse|Bayonne|46|27||
+4|2004-2005|4|Samedi 04 Septembre|Biarritz|Grenoble|46|7||
+5|2004-2005|4|Samedi 04 Septembre|Bourgoin|Narbonne|57|5||
+6|2004-2005|4|Samedi 04 Septembre|Perpignan|Auch|36|17||
+7|2004-2005|4|Samedi 04 Septembre|Brive|Montpellier|28|9||
+0|2004-2005|5|Vendredi 10 Septembre|Perpignan|Clermont|43|10||
+1|2004-2005|5|Samedi 11 Septembre|Agen|Biarritz|22|12||
+2|2004-2005|5|Samedi 11 Septembre|Montpellier|Toulouse|22|23||
+3|2004-2005|5|Samedi 11 Septembre|Auch|Castres|13|22||
+4|2004-2005|5|Samedi 11 Septembre|Pau|Brive|16|14||
+5|2004-2005|5|Samedi 11 Septembre|Béziers|Paris|12|41||
+6|2004-2005|5|Samedi 11 Septembre|Bayonne|Bourgoin|16|41||
+7|2004-2005|5|Samedi 11 Septembre|Narbonne|Grenoble|16|16||
+0|2004-2005|6|Vendredi 17 Septembre|Brive|Narbonne|28|9||
+1|2004-2005|6|Samedi 18 Septembre|Castres|Perpignan|39|25||
+2|2004-2005|6|Samedi 18 Septembre|Biarritz|Bayonne|22|27||
+3|2004-2005|6|Samedi 18 Septembre|Paris|Bourgoin|31|23||
+4|2004-2005|6|Samedi 18 Septembre|Clermont|Auch|34|6||
+5|2004-2005|6|Samedi 18 Septembre|Grenoble|Toulouse|13|22||
+6|2004-2005|6|Samedi 18 Septembre|Montpellier|Pau|33|12||
+7|2004-2005|6|Samedi 18 Septembre|Béziers|Agen|6|16||
+0|2004-2005|7|Vendredi 24 Septembre|Perpignan|Paris|20|15||
+1|2004-2005|7|Samedi 25 Septembre|Toulouse|Biarritz|26|25||
+2|2004-2005|7|Samedi 25 Septembre|Bourgoin|Castres|19|12||
+3|2004-2005|7|Samedi 25 Septembre|Auch|Brive|26|29||
+4|2004-2005|7|Samedi 25 Septembre|Pau|Béziers|33|15||
+5|2004-2005|7|Samedi 25 Septembre|Narbonne|Clermont|16|15||
+6|2004-2005|7|Samedi 25 Septembre|Bayonne|Agen|8|18||
+7|2004-2005|7|Samedi 25 Septembre|Grenoble|Montpellier|37|24||
+0|2004-2005|8|Vendredi 01 Octobre|Agen|Perpignan|9|13||
+1|2004-2005|8|Samedi 02 Octobre|Paris|Biarritz|31|21||
+2|2004-2005|8|Samedi 02 Octobre|Brive|Toulouse|16|27||
+3|2004-2005|8|Samedi 02 Octobre|Castres|Narbonne|30|31||
+4|2004-2005|8|Samedi 02 Octobre|Clermont|Bourgoin|28|28||
+5|2004-2005|8|Samedi 02 Octobre|Bayonne|Pau|20|20||
+6|2004-2005|8|Samedi 02 Octobre|Béziers|Grenoble|26|19||
+7|2004-2005|8|Samedi 02 Octobre|Montpellier|Auch|23|17||
+0|2004-2005|9|Vendredi 08 Octobre|Paris|Clermont|28|19||
+1|2004-2005|9|Samedi 09 Octobre|Toulouse|Bourgoin|39|5||
+2|2004-2005|9|Samedi 09 Octobre|Brive|Castres|19|12||
+3|2004-2005|9|Samedi 09 Octobre|Auch|Agen|33|26||
+4|2004-2005|9|Samedi 09 Octobre|Biarritz|Narbonne|39|14||
+5|2004-2005|9|Samedi 09 Octobre|Perpignan|Montpellier|24|17||
+6|2004-2005|9|Samedi 09 Octobre|Grenoble|Pau|31|24||
+7|2004-2005|9|Samedi 09 Octobre|Béziers|Bayonne|35|15||
+0|2004-2005|10|Vendredi 15 Octobre|Biarritz|Brive|36|17||
+1|2004-2005|10|Samedi 16 Octobre|Castres|Paris|7|7||
+2|2004-2005|10|Samedi 16 Octobre|Clermont|Toulouse|26|22||
+3|2004-2005|10|Samedi 16 Octobre|Bourgoin|Agen|32|24||
+4|2004-2005|10|Samedi 16 Octobre|Grenoble|Auch|24|19||
+5|2004-2005|10|Samedi 16 Octobre|Narbonne|Béziers|28|21||
+6|2004-2005|10|Samedi 16 Octobre|Pau|Perpignan|22|0||
+7|2004-2005|10|Samedi 16 Octobre|Montpellier|Bayonne|13|8||
+0|2004-2005|11|Vendredi 05 Novembre|Castres|Biarritz|19|7||
+1|2004-2005|11|Samedi 06 Novembre|Toulouse|Paris|32|16||
+2|2004-2005|11|Samedi 06 Novembre|Agen|Grenoble|34|12||
+3|2004-2005|11|Samedi 06 Novembre|Bayonne|Perpignan|34|33||
+4|2004-2005|11|Samedi 06 Novembre|Bourgoin|Pau|24|6||
+5|2004-2005|11|Samedi 06 Novembre|Béziers|Auch|32|24||
+6|2004-2005|11|Samedi 06 Novembre|Montpellier|Narbonne|19|23||
+7|2004-2005|11|Samedi 06 Novembre|Brive|Clermont|28|12||
+8|2004-2005|11|Samedi 06 Novembre|Montpellier|Narbonne|19|23||
+0|2004-2005|12|Vendredi 12 Novembre|Paris|Brive|32|18||
+1|2004-2005|12|Samedi 13 Novembre|Perpignan|Béziers|33|24||
+2|2004-2005|12|Samedi 13 Novembre|Biarritz|Bourgoin|31|9||
+3|2004-2005|12|Samedi 13 Novembre|Grenoble|Bayonne|26|16||
+4|2004-2005|12|Samedi 13 Novembre|Clermont|Castres|27|28||
+5|2004-2005|12|Samedi 13 Novembre|Toulouse|Narbonne|8|16||
+6|2004-2005|12|Samedi 13 Novembre|Auch|Pau|25|19||
+7|2004-2005|12|Samedi 13 Novembre|Agen|Montpellier|24|0||
+0|2004-2005|13|Vendredi 19 Novembre|Castres|Toulouse|21|20||
+1|2004-2005|13|Samedi 20 Novembre|Pau|Agen|35|17||
+2|2004-2005|13|Samedi 20 Novembre|Biarritz|Clermont|30|16||
+3|2004-2005|13|Samedi 20 Novembre|Auch|Bayonne|6|8||
+4|2004-2005|13|Samedi 20 Novembre|Narbonne|Paris|21|21||
+5|2004-2005|13|Samedi 20 Novembre|Bourgoin|Grenoble|45|32||
+6|2004-2005|13|Samedi 20 Novembre|Brive|Perpignan|20|6||
+7|2004-2005|13|Samedi 20 Novembre|Béziers|Montpellier|32|19||
+0|2004-2005|14|Vendredi 26 Novembre|Grenoble|Perpignan|16|17||
+1|2004-2005|14|Vendredi 26 Novembre|Paris|Auch|37|21||
+2|2004-2005|14|Samedi 27 Novembre|Toulouse|Agen|21|20||
+3|2004-2005|14|Samedi 27 Novembre|Bourgoin|Brive|47|27||
+4|2004-2005|14|Samedi 27 Novembre|Clermont|Béziers|15|15||
+5|2004-2005|14|Samedi 27 Novembre|Pau|Castres|29|20||
+6|2004-2005|14|Samedi 27 Novembre|Bayonne|Narbonne|44|38||
+7|2004-2005|14|Samedi 27 Novembre|Montpellier|Biarritz|18|7||
+0|2004-2005|15|Vendredi 17 Décembre|Auch|Toulouse|12|21||
+1|2004-2005|15|Samedi 18 Décembre|Perpignan|Biarritz|20|18||
+2|2004-2005|15|Samedi 18 Décembre|Narbonne|Pau|18|13||
+3|2004-2005|15|Samedi 18 Décembre|Paris|Grenoble|46|27||
+4|2004-2005|15|Samedi 18 Décembre|Castres|Montpellier|18|10||
+5|2004-2005|15|Samedi 18 Décembre|Brive|Bayonne|17|3||
+6|2004-2005|15|Samedi 18 Décembre|Agen|Clermont|19|22||
+7|2004-2005|15|Samedi 18 Décembre|Béziers|Bourgoin|24|40||
+0|2004-2005|16|Jeudi 23 Décembre|Biarritz|Béziers|26|6||
+1|2004-2005|16|Jeudi 23 Décembre|Clermont|Montpellier|27|12||
+2|2004-2005|16|Jeudi 23 Décembre|Bourgoin|Perpignan|29|23||
+3|2004-2005|16|Jeudi 23 Décembre|Castres|Agen|18|6||
+4|2004-2005|16|Jeudi 23 Décembre|Paris|Bayonne|40|12||
+5|2004-2005|16|Jeudi 23 Décembre|Toulouse|Pau|39|6||
+6|2004-2005|16|Jeudi 23 Décembre|Narbonne|Auch|25|21||
+7|2004-2005|16|Jeudi 23 Décembre|Brive|Grenoble|28|8||
+0|2004-2005|17|Vendredi 21 Janvier|Grenoble|Clermont|17|31||
+1|2004-2005|17|Samedi 22 Janvier|Perpignan|Toulouse|18|16||
+2|2004-2005|17|Samedi 22 Janvier|Montpellier|Bourgoin|17|22||
+3|2004-2005|17|Samedi 22 Janvier|Auch|Biarritz|9|20||
+4|2004-2005|17|Samedi 22 Janvier|Bayonne|Castres|29|18||
+5|2004-2005|17|Samedi 22 Janvier|Béziers|Brive|21|21||
+6|2004-2005|17|Samedi 22 Janvier|Pau|Paris|12|29||
+7|2004-2005|17|Samedi 22 Janvier|Agen|Narbonne|27|13||
+0|2004-2005|18|Vendredi 28 Janvier|Biarritz|Pau|29|9||
+1|2004-2005|18|Samedi 29 Janvier|Brive|Agen|8|6||
+2|2004-2005|18|Samedi 29 Janvier|Clermont|Bayonne|36|16||
+3|2004-2005|18|Samedi 29 Janvier|Perpignan|Narbonne|20|0||
+4|2004-2005|18|Samedi 29 Janvier|Paris|Montpellier|82|12||
+5|2004-2005|18|Samedi 29 Janvier|Toulouse|Béziers|46|10||
+6|2004-2005|18|Samedi 29 Janvier|Castres|Grenoble|41|22||
+0|2004-2005|19|Vendredi 04 Février|Agen|Paris|6|16||
+1|2004-2005|19|Samedi 05 Février|Grenoble|Biarritz|7|39||
+2|2004-2005|19|Samedi 05 Février|Narbonne|Bourgoin|15|16||
+3|2004-2005|19|Samedi 05 Février|Auch|Perpignan|21|19||
+4|2004-2005|19|Samedi 05 Février|Bayonne|Toulouse|18|15||
+5|2004-2005|19|Samedi 05 Février|Pau|Clermont|13|27||
+6|2004-2005|19|Samedi 05 Février|Béziers|Castres|19|24||
+7|2004-2005|19|Samedi 05 Février|Montpellier|Brive|31|10||
+0|2004-2005|20|Vendredi 18 Février|Brive|Pau|27|23||
+1|2004-2005|20|Samedi 19 Février|Clermont|Perpignan|21|6||
+2|2004-2005|20|Samedi 19 Février|Toulouse|Montpellier|64|26||
+3|2004-2005|20|Samedi 19 Février|Castres|Auch|25|18||
+4|2004-2005|20|Samedi 19 Février|Biarritz|Agen|34|17||
+5|2004-2005|20|Samedi 19 Février|Paris|Béziers|35|27||
+6|2004-2005|20|Samedi 19 Février|Bourgoin|Bayonne|48|7||
+7|2004-2005|20|Samedi 19 Février|Grenoble|Narbonne|16|17||
+0|2004-2005|21|Vendredi 25 Février|Perpignan|Castres|20|10||
+1|2004-2005|21|Vendredi 25 Février|Bourgoin|Paris|41|16||
+2|2004-2005|21|Vendredi 25 Février|Narbonne|Brive|36|23||
+3|2004-2005|21|Vendredi 25 Février|Toulouse|Grenoble|36|3||
+4|2004-2005|21|Vendredi 25 Février|Agen|Béziers|37|22||
+5|2004-2005|21|Vendredi 25 Février|Pau|Montpellier|28|18||
+6|2004-2005|21|Samedi 26 Février|Auch|Clermont|18|19||
+7|2004-2005|21|Samedi 26 Février|Bayonne|Biarritz|16|41||
+0|2004-2005|22|Vendredi 04 Mars|Paris|Perpignan|19|8||
+1|2004-2005|22|Samedi 05 Mars|Biarritz|Toulouse|20|18||
+2|2004-2005|22|Samedi 05 Mars|Clermont|Narbonne|39|16||
+3|2004-2005|22|Samedi 05 Mars|Castres|Bourgoin|31|29||
+4|2004-2005|22|Samedi 05 Mars|Béziers|Pau|23|43||
+5|2004-2005|22|Samedi 05 Mars|Brive|Auch|21|13||
+6|2004-2005|22|Samedi 05 Mars|Agen|Bayonne|34|8||
+7|2004-2005|22|Samedi 05 Mars|Montpellier|Grenoble|35|25||
+0|2004-2005|23|Vendredi 25 Mars|Narbonne|Castres|25|12||
+1|2004-2005|23|Vendredi 25 Mars|Toulouse|Brive|71|3||
+2|2004-2005|23|Samedi 26 Mars|Biarritz|Paris|41|3||
+3|2004-2005|23|Samedi 26 Mars|Bourgoin|Clermont|27|19||
+4|2004-2005|23|Samedi 26 Mars|Auch|Montpellier|23|10||
+5|2004-2005|23|Samedi 26 Mars|Perpignan|Agen|41|26||
+6|2004-2005|23|Samedi 26 Mars|Pau|Bayonne|26|26||
+7|2004-2005|23|Samedi 26 Mars|Grenoble|Béziers|31|8||
+0|2004-2005|24|Vendredi 08 Avril|Clermont|Paris|34|19||
+1|2004-2005|24|Samedi 09 Avril|Bourgoin|Toulouse|22|6||
+2|2004-2005|24|Samedi 09 Avril|Narbonne|Biarritz|38|14||
+3|2004-2005|24|Samedi 09 Avril|Castres|Brive|37|29||
+4|2004-2005|24|Samedi 09 Avril|Montpellier|Perpignan|20|8||
+5|2004-2005|24|Samedi 09 Avril|Agen|Auch|34|7||
+6|2004-2005|24|Samedi 09 Avril|Pau|Grenoble|31|20||
+7|2004-2005|24|Samedi 09 Avril|Bayonne|Béziers|21|12||
+0|2004-2005|25|Vendredi 15 Avril|Toulouse|Clermont|28|10||
+1|2004-2005|25|Samedi 16 Avril|Paris|Castres|24|15||
+2|2004-2005|25|Samedi 16 Avril|Agen|Bourgoin|18|10||
+3|2004-2005|25|Samedi 16 Avril|Auch|Grenoble|31|15||
+4|2004-2005|25|Samedi 16 Avril|Perpignan|Pau|26|20||
+5|2004-2005|25|Samedi 16 Avril|Béziers|Narbonne|32|15||
+6|2004-2005|25|Samedi 16 Avril|Brive|Biarritz|18|24||
+7|2004-2005|25|Samedi 16 Avril|Bayonne|Montpellier|13|24||
+0|2004-2005|26|Vendredi 29 Avril|Clermont|Brive|46|10||
+1|2004-2005|26|Samedi 30 Avril|Paris|Toulouse|40|19||
+2|2004-2005|26|Samedi 30 Avril|Biarritz|Castres|40|13||
+3|2004-2005|26|Samedi 30 Avril|Auch|Béziers|37|22||
+4|2004-2005|26|Samedi 30 Avril|Perpignan|Bayonne|32|0||
+5|2004-2005|26|Samedi 30 Avril|Pau|Bourgoin|18|23||
+6|2004-2005|26|Samedi 30 Avril|Narbonne|Montpellier|27|20||
+7|2004-2005|26|Samedi 30 Avril|Grenoble|Agen|12|18||
+0|2004-2005|27|Vendredi 06 Mai|Montpellier|Agen|46|21||
+1|2004-2005|27|Vendredi 06 Mai|Castres|Clermont|54|23||
+2|2004-2005|27|Vendredi 06 Mai|Brive|Paris|16|34||
+3|2004-2005|27|Vendredi 06 Mai|Narbonne|Toulouse|27|52||
+4|2004-2005|27|Samedi 07 Mai|Pau|Auch|15|23||
+5|2004-2005|27|Samedi 07 Mai|Bourgoin|Biarritz|28|20||
+6|2004-2005|27|Samedi 07 Mai|Bayonne|Grenoble|41|12||
+7|2004-2005|27|Samedi 07 Mai|Béziers|Perpignan|23|23||
+0|2004-2005|28|Vendredi 13 Mai|Clermont|Biarritz|30|26||
+1|2004-2005|28|Samedi 14 Mai|Paris|Narbonne|29|24||
+2|2004-2005|28|Samedi 14 Mai|Toulouse|Castres|47|20||
+3|2004-2005|28|Samedi 14 Mai|Perpignan|Brive|43|28||
+4|2004-2005|28|Samedi 14 Mai|Bayonne|Auch|26|3||
+5|2004-2005|28|Samedi 14 Mai|Grenoble|Bourgoin|34|17||
+6|2004-2005|28|Samedi 14 Mai|Agen|Pau|45|23||
+7|2004-2005|28|Samedi 14 Mai|Montpellier|Béziers|28|8||
+0|2004-2005|29|Vendredi 20 Mai|Béziers|Clermont|25|52||
+1|2004-2005|29|Samedi 21 Mai|Biarritz|Montpellier|45|3||
+2|2004-2005|29|Samedi 21 Mai|Perpignan|Grenoble|33|13||
+3|2004-2005|29|Samedi 21 Mai|Narbonne|Bayonne|16|20||
+4|2004-2005|29|Samedi 21 Mai|Auch|Paris|16|27||
+5|2004-2005|29|Samedi 21 Mai|Brive|Bourgoin|55|3||
+0|2004-2005|30|Samedi 28 Mai|Toulouse|Auch|39|6||
+1|2004-2005|30|Samedi 28 Mai|Montpellier|Castres|36|40||
+2|2004-2005|30|Samedi 28 Mai|Bayonne|Brive|43|29||
+3|2004-2005|30|Samedi 28 Mai|Clermont|Agen|31|8||
+4|2004-2005|30|Samedi 28 Mai|Biarritz|Perpignan|30|13||
+5|2004-2005|30|Samedi 28 Mai|Grenoble|Paris|8|28||
+6|2004-2005|30|Samedi 28 Mai|Bourgoin|Béziers|80|27||
+7|2004-2005|30|Samedi 28 Mai|Pau|Narbonne|29|7||
+0|2004-2005|Demi-finales|Vendredi 03 Juin|Paris|Toulouse|23|18||
+1|2004-2005|Demi-finales|Vendredi 03 Juin|Biarritz|Bourgoin|32|27||
+0|2004-2005|Finale|Samedi 11 Juin|Paris|Biarritz|34|37||
+0|2005-2006|1|Samedi 20 Août|Bayonne|Toulouse|12|26||Bo
+1|2005-2006|1|Samedi 20 Août|Pau|Clermont|16|28||
+2|2005-2006|1|Samedi 20 Août|Perpignan|Agen|34|9|Bo|
+3|2005-2006|1|Samedi 20 Août|Toulon|Biarritz|10|20||
+4|2005-2006|1|Samedi 20 Août|Montpellier|Castres|16|34||
+5|2005-2006|1|Samedi 20 Août|Brive|Bourgoin|15|10||Bd
+6|2005-2006|1|Samedi 20 Août|Narbonne|Paris|26|20||
+0|2005-2006|2|Vendredi 26 Août|Biarritz|Perpignan|29|8|Bo|
+1|2005-2006|2|Samedi 27 Août|Toulouse|Pau|52|9|Bo|
+2|2005-2006|2|Samedi 27 Août|Clermont|Montpellier|29|23||
+3|2005-2006|2|Samedi 27 Août|Agen|Brive|19|13||
+4|2005-2006|2|Samedi 27 Août|Bourgoin|Bayonne|37|9|Bo|
+5|2005-2006|2|Samedi 27 Août|Castres|Narbonne|36|6|Bo|
+6|2005-2006|2|Samedi 27 Août|Paris|Toulon|31|3|Bo|
+0|2005-2006|3|Vendredi 02 Septembre|Agen|Biarritz|29|25||Bd
+1|2005-2006|3|Samedi 03 Septembre|Narbonne|Clermont|34|28||
+2|2005-2006|3|Samedi 03 Septembre|Toulon|Castres|9|16||
+3|2005-2006|3|Samedi 03 Septembre|Brive|Bayonne|19|19||
+4|2005-2006|3|Samedi 03 Septembre|Montpellier|Toulouse|12|24||
+5|2005-2006|3|Samedi 03 Septembre|Pau|Bourgoin|18|29||
+6|2005-2006|3|Dimanche 04 Septembre|Perpignan|Paris|16|12||Bd
+0|2005-2006|4|Vendredi 09 Septembre|Bourgoin|Montpellier|17|3||
+1|2005-2006|4|Vendredi 09 Septembre|Paris|Agen|37|24||
+2|2005-2006|4|Samedi 10 Septembre|Biarritz|Brive|43|5|Bo|
+3|2005-2006|4|Samedi 10 Septembre|Bayonne|Pau|44|16|Bo|
+4|2005-2006|4|Samedi 10 Septembre|Clermont|Toulon|64|12|Bo|
+5|2005-2006|4|Samedi 10 Septembre|Castres|Perpignan|18|23|Bd|
+6|2005-2006|4|Samedi 10 Septembre|Toulouse|Narbonne|64|22|Bo|
+0|2005-2006|5|Vendredi 16 Septembre|Toulon|Toulouse|15|18|Bd|
+1|2005-2006|5|Samedi 17 Septembre|Brive|Pau|34|10|Bo|
+2|2005-2006|5|Samedi 17 Septembre|Agen|Castres|40|16|Bo|
+3|2005-2006|5|Samedi 17 Septembre|Montpellier|Bayonne|33|0||
+4|2005-2006|5|Samedi 17 Septembre|Narbonne|Bourgoin|15|29||Bo
+5|2005-2006|5|Samedi 17 Septembre|Perpignan|Clermont|34|25||
+6|2005-2006|5|Samedi 17 Septembre|Biarritz|Paris|7|14||
+0|2005-2006|6|Vendredi 23 Septembre|Toulouse|Perpignan|30|22||
+1|2005-2006|6|Samedi 24 Septembre|Castres|Biarritz|13|19||
+2|2005-2006|6|Samedi 24 Septembre|Bayonne|Narbonne|47|21|Bo|
+3|2005-2006|6|Samedi 24 Septembre|Paris|Brive|25|17||
+4|2005-2006|6|Samedi 24 Septembre|Bourgoin|Toulon|40|21|Bo|
+5|2005-2006|6|Samedi 24 Septembre|Pau|Montpellier|21|12||
+6|2005-2006|6|Samedi 24 Septembre|Clermont|Agen|37|24||
+0|2005-2006|7|Vendredi 30 Septembre|Paris|Castres|25|10||
+1|2005-2006|7|Samedi 01 Octobre|Toulon|Bayonne|19|14||Bd
+2|2005-2006|7|Samedi 01 Octobre|Narbonne|Pau|26|19||
+3|2005-2006|7|Samedi 01 Octobre|Perpignan|Bourgoin|27|3|Bo|
+4|2005-2006|7|Samedi 01 Octobre|Brive|Montpellier|18|14||Bd
+5|2005-2006|7|Samedi 01 Octobre|Biarritz|Clermont|9|0||
+6|2005-2006|7|Samedi 01 Octobre|Agen|Toulouse|16|33||
+0|2005-2006|8|Samedi 08 Octobre|Clermont|Paris|23|12||
+1|2005-2006|8|Samedi 08 Octobre|Castres|Brive|48|14|Bo|
+2|2005-2006|8|Samedi 08 Octobre|Montpellier|Narbonne|36|13||
+3|2005-2006|8|Samedi 08 Octobre|Toulouse|Biarritz|26|20||
+4|2005-2006|8|Samedi 08 Octobre|Bourgoin|Agen|33|6|Bo|
+5|2005-2006|8|Samedi 08 Octobre|Pau|Toulon|31|28|Bo|Bd
+6|2005-2006|8|Samedi 08 Octobre|Bayonne|Perpignan|15|33||
+0|2005-2006|9|Vendredi 14 Octobre|Biarritz|Bourgoin|29|10||
+1|2005-2006|9|Samedi 15 Octobre|Perpignan|Pau|40|14|Bo|
+2|2005-2006|9|Samedi 15 Octobre|Agen|Bayonne|26|12||
+3|2005-2006|9|Samedi 15 Octobre|Castres|Clermont|41|8|Bo|
+4|2005-2006|9|Samedi 15 Octobre|Paris|Toulouse|29|15||
+5|2005-2006|9|Samedi 15 Octobre|Brive|Narbonne|12|10||Bd
+6|2005-2006|9|Samedi 15 Octobre|Toulon|Montpellier|8|3||Bd
+0|2005-2006|10|Vendredi 11 Novembre|Toulouse|Castres|29|24||Bd
+1|2005-2006|10|Samedi 12 Novembre|Pau|Agen|26|23||Bd
+2|2005-2006|10|Samedi 12 Novembre|Bayonne|Biarritz|10|9||Bd
+3|2005-2006|10|Samedi 12 Novembre|Bourgoin|Paris|29|16||
+4|2005-2006|10|Samedi 12 Novembre|Montpellier|Perpignan|19|17||
+5|2005-2006|10|Samedi 12 Novembre|Clermont|Brive|15|11||Bd
+6|2005-2006|10|Samedi 12 Novembre|Narbonne|Toulon|37|19||
+0|2005-2006|11|Vendredi 18 Novembre|Clermont|Toulouse|28|22||
+1|2005-2006|11|Vendredi 18 Novembre|Agen|Montpellier|41|10||
+2|2005-2006|11|Samedi 19 Novembre|Biarritz|Pau|33|16|Bo|
+3|2005-2006|11|Samedi 19 Novembre|Brive|Toulon|21|16||Bd
+4|2005-2006|11|Samedi 19 Novembre|Paris|Bayonne|27|19|Bo|
+5|2005-2006|11|Samedi 19 Novembre|Perpignan|Narbonne|33|0|Bo|
+6|2005-2006|11|Samedi 19 Novembre|Castres|Bourgoin|29|16||
+0|2005-2006|12|Samedi 03 Décembre|Bourgoin|Clermont|22|11||
+1|2005-2006|12|Samedi 03 Décembre|Pau|Paris|9|32||Bo
+2|2005-2006|12|Samedi 03 Décembre|Montpellier|Biarritz|18|21|Bd|
+3|2005-2006|12|Samedi 03 Décembre|Narbonne|Agen|27|25||Bd
+4|2005-2006|12|Samedi 03 Décembre|Bayonne|Castres|11|34||Bo
+5|2005-2006|12|Samedi 03 Décembre|Brive|Toulouse|10|9||Bd
+6|2005-2006|12|Samedi 03 Décembre|Toulon|Perpignan|12|25||
+0|2005-2006|13|Vendredi 23 Décembre|Toulouse|Bourgoin|29|19||
+1|2005-2006|13|Vendredi 23 Décembre|Castres|Pau|66|8|Bo|
+2|2005-2006|13|Vendredi 23 Décembre|Paris|Montpellier|45|13|Bo|
+3|2005-2006|13|Vendredi 23 Décembre|Biarritz|Narbonne|59|10|Bo|
+4|2005-2006|13|Vendredi 23 Décembre|Clermont|Bayonne|37|15||
+5|2005-2006|13|Vendredi 23 Décembre|Perpignan|Brive|24|6|Bo|
+6|2005-2006|13|Vendredi 23 Décembre|Agen|Toulon|30|0|Bo|
+0|2005-2006|14|Vendredi 06 Janvier|Paris|Narbonne|36|24||
+1|2005-2006|14|Samedi 07 Janvier|Bourgoin|Brive|19|14||Bd
+2|2005-2006|14|Samedi 07 Janvier|Clermont|Pau|27|13||
+3|2005-2006|14|Samedi 07 Janvier|Castres|Montpellier|52|28|Bo|
+4|2005-2006|14|Samedi 07 Janvier|Toulouse|Bayonne|13|19||
+5|2005-2006|14|Samedi 07 Janvier|Agen|Perpignan|33|14||
+6|2005-2006|14|Samedi 07 Janvier|Biarritz|Toulon|57|12|Bo|
+0|2005-2006|15|Vendredi 27 Janvier|Toulon|Paris|11|24||Bo
+1|2005-2006|15|Samedi 28 Janvier|Pau|Toulouse|13|27||
+2|2005-2006|15|Samedi 28 Janvier|Perpignan|Biarritz|3|17||
+3|2005-2006|15|Samedi 28 Janvier|Montpellier|Clermont|42|13||
+4|2005-2006|15|Samedi 28 Janvier|Bayonne|Bourgoin|22|33||
+5|2005-2006|15|Samedi 28 Janvier|Narbonne|Castres|41|10|Bo|
+6|2005-2006|15|Samedi 11 Février|Brive|Agen|18|16||Bd
+0|2005-2006|16|Vendredi 10 Mars|Biarritz|Agen|17|9||
+1|2005-2006|16|Samedi 11 Mars|Toulouse|Montpellier|13|5||
+2|2005-2006|16|Samedi 11 Mars|Clermont|Narbonne|30|9|Bo|
+3|2005-2006|16|Samedi 11 Mars|Bourgoin|Pau|52|13|Bo|
+4|2005-2006|16|Samedi 11 Mars|Paris|Perpignan|23|16||
+5|2005-2006|16|Samedi 11 Mars|Castres|Toulon|43|11|Bo|
+6|2005-2006|16|Samedi 11 Mars|Bayonne|Brive|17|11||
+0|2005-2006|17|Samedi 18 Février|Toulon|Clermont|14|36||Bo
+1|2005-2006|17|Samedi 18 Février|Brive|Biarritz|8|15||
+2|2005-2006|17|Samedi 18 Février|Montpellier|Bourgoin|33|20||
+3|2005-2006|17|Samedi 18 Février|Narbonne|Toulouse|27|19||
+4|2005-2006|17|Samedi 18 Février|Perpignan|Castres|34|3|Bo|
+5|2005-2006|17|Samedi 18 Février|Pau|Bayonne|21|18||Bd
+6|2005-2006|17|Dimanche 19 Février|Agen|Paris|12|8||Bd
+0|2005-2006|18|Vendredi 03 Mars|Clermont|Perpignan|15|20|Bd|
+1|2005-2006|18|Samedi 04 Mars|Bourgoin|Narbonne|35|13|Bo|
+2|2005-2006|18|Samedi 04 Mars|Castres|Agen|19|26||Bo
+3|2005-2006|18|Samedi 04 Mars|Paris|Biarritz|21|16||Bd
+4|2005-2006|18|Samedi 04 Mars|Toulouse|Toulon|53|0|Bo|
+5|2005-2006|18|Samedi 04 Mars|Pau|Brive|16|15||Bd
+6|2005-2006|18|Samedi 04 Mars|Bayonne|Montpellier|44|14|Bo|
+0|2005-2006|19|Vendredi 17 Mars|Brive|Paris|22|28||
+1|2005-2006|19|Samedi 18 Mars|Agen|Clermont|42|3|Bo|
+2|2005-2006|19|Samedi 18 Mars|Biarritz|Castres|18|14||Bd
+3|2005-2006|19|Samedi 18 Mars|Narbonne|Bayonne|27|15||
+4|2005-2006|19|Samedi 18 Mars|Perpignan|Toulouse|15|13||Bd
+5|2005-2006|19|Samedi 18 Mars|Toulon|Bourgoin|13|15|Bd|
+6|2005-2006|19|Samedi 18 Mars|Montpellier|Pau|41|36||
+0|2005-2006|20|Vendredi 24 Mars|Toulouse|Agen|19|7||
+1|2005-2006|20|Samedi 25 Mars|Castres|Paris|10|11|Bd|
+2|2005-2006|20|Samedi 25 Mars|Clermont|Biarritz|6|16||
+3|2005-2006|20|Samedi 25 Mars|Bourgoin|Perpignan|15|18|Bd|
+4|2005-2006|20|Samedi 25 Mars|Bayonne|Toulon|43|16|Bo|
+5|2005-2006|20|Samedi 25 Mars|Montpellier|Brive|24|13||
+6|2005-2006|20|Samedi 25 Mars|Pau|Narbonne|28|24||Bd
+0|2005-2006|21|Vendredi 07 Avril|Paris|Clermont|28|15||
+1|2005-2006|21|Samedi 08 Avril|Agen|Bourgoin|24|20||Bd
+2|2005-2006|21|Samedi 08 Avril|Perpignan|Bayonne|54|13|Bo|
+3|2005-2006|21|Samedi 08 Avril|Toulon|Pau|16|20|Bd|
+4|2005-2006|21|Samedi 08 Avril|Biarritz|Toulouse|29|20||
+5|2005-2006|21|Samedi 08 Avril|Brive|Castres|23|18||Bd
+6|2005-2006|21|Samedi 08 Avril|Narbonne|Montpellier|19|15||Bd
+0|2005-2006|22|Vendredi 14 Avril|Bourgoin|Biarritz|36|22|Bo|
+1|2005-2006|22|Samedi 15 Avril|Clermont|Castres|28|26||Bd
+2|2005-2006|22|Samedi 15 Avril|Bayonne|Agen|17|25||
+3|2005-2006|22|Samedi 15 Avril|Pau|Perpignan|15|12||Bd
+4|2005-2006|22|Samedi 15 Avril|Toulouse|Paris|15|0||
+5|2005-2006|22|Samedi 15 Avril|Narbonne|Brive|32|22||
+6|2005-2006|22|Samedi 15 Avril|Montpellier|Toulon|65|0|Bo|
+0|2005-2006|23|Vendredi 28 Avril|Paris|Bourgoin|33|7|Bo|
+1|2005-2006|23|Vendredi 28 Avril|Castres|Toulouse|24|44||
+2|2005-2006|23|Samedi 29 Avril|Agen|Pau|22|11||
+3|2005-2006|23|Samedi 29 Avril|Biarritz|Bayonne|53|7|Bo|
+4|2005-2006|23|Samedi 29 Avril|Perpignan|Montpellier|42|20|Bo|
+5|2005-2006|23|Samedi 29 Avril|Brive|Clermont|29|14||
+6|2005-2006|23|Samedi 29 Avril|Toulon|Narbonne|33|9|Bo|
+0|2005-2006|24|Vendredi 05 Mai|Bourgoin|Castres|23|24|Bd|
+1|2005-2006|24|Vendredi 05 Mai|Toulouse|Clermont|26|11||
+2|2005-2006|24|Samedi 06 Mai|Pau|Biarritz|26|20||
+3|2005-2006|24|Samedi 06 Mai|Bayonne|Paris|28|11||
+4|2005-2006|24|Samedi 06 Mai|Montpellier|Agen|44|19|Bo|
+5|2005-2006|24|Dimanche 07 Mai|Toulon|Brive|13|20||
+6|2005-2006|24|Dimanche 07 Mai|Narbonne|Perpignan|25|13||
+0|2005-2006|25|Vendredi 12 Mai|Biarritz|Montpellier|57|7|Bo|
+1|2005-2006|25|Vendredi 12 Mai|Castres|Bayonne|30|23||
+2|2005-2006|25|Samedi 13 Mai|Paris|Pau|42|26||
+3|2005-2006|25|Samedi 13 Mai|Clermont|Bourgoin|22|10||
+4|2005-2006|25|Samedi 13 Mai|Agen|Narbonne|58|24|Bo|
+5|2005-2006|25|Samedi 13 Mai|Toulouse|Brive|37|27||
+6|2005-2006|25|Samedi 13 Mai|Perpignan|Toulon|52|0|Bo|
+0|2005-2006|26|Samedi 27 Mai|Bourgoin|Toulouse|12|37||Bo
+1|2005-2006|26|Samedi 27 Mai|Pau|Castres|25|27|Bd|
+2|2005-2006|26|Samedi 27 Mai|Montpellier|Paris|24|43||
+3|2005-2006|26|Samedi 27 Mai|Narbonne|Biarritz|12|34||Bo
+4|2005-2006|26|Samedi 27 Mai|Bayonne|Clermont|19|24|Bd|
+5|2005-2006|26|Samedi 27 Mai|Brive|Perpignan|14|42||Bo
+6|2005-2006|26|Samedi 27 Mai|Toulon|Agen|21|50||Bo
+0|2005-2006|Demi-finales|Vendredi 02 Juin|Biarritz|Perpignan|12|9||Bd
+1|2005-2006|Demi-finales|Samedi 03 Juin|Paris|Toulouse|9|12|Bd|
+0|2005-2006|Finale|Samedi 10 Juin|Biarritz|Toulouse|40|13|Bo|
+0|2006-2007|1|Vendredi 18 Août|Biarritz|Clermont|29|24||Bd
+1|2006-2007|1|Samedi 19 Août|Brive|Toulouse|9|24||
+2|2006-2007|1|Samedi 19 Août|Agen|Bourgoin|18|6||
+3|2006-2007|1|Samedi 19 Août|Perpignan|Castres|20|16||Bd
+4|2006-2007|1|Samedi 19 Août|Montauban|Narbonne|41|20|Bo|
+5|2006-2007|1|Samedi 19 Août|Albi|Bayonne|24|12||
+6|2006-2007|1|Samedi 19 Août|Paris|Montpellier|52|20||
+0|2006-2007|2|Vendredi 25 Août|Montpellier|Agen|26|7||
+1|2006-2007|2|Vendredi 25 Août|Castres|Paris|16|26||
+2|2006-2007|2|Samedi 26 Août|Toulouse|Albi|23|0|Bo|
+3|2006-2007|2|Samedi 26 Août|Bayonne|Montauban|9|20||
+4|2006-2007|2|Samedi 26 Août|Clermont|Perpignan|25|12||
+5|2006-2007|2|Samedi 26 Août|Narbonne|Biarritz|25|18||
+6|2006-2007|2|Samedi 26 Août|Bourgoin|Brive|42|17||
+0|2006-2007|3|Mercredi 30 Août|Montauban|Toulouse|19|24|Bd|
+1|2006-2007|3|Mercredi 30 Août|Paris|Clermont|45|13|Bo|
+2|2006-2007|3|Mercredi 30 Août|Agen|Brive|22|16||
+3|2006-2007|3|Mercredi 30 Août|Albi|Bourgoin|21|18||Bd
+4|2006-2007|3|Mercredi 30 Août|Biarritz|Bayonne|54|0|Bo|
+5|2006-2007|3|Mercredi 30 Août|Perpignan|Narbonne|40|6|Bo|
+6|2006-2007|3|Mercredi 30 Août|Montpellier|Castres|20|17||Bd
+0|2006-2007|4|Dimanche 03 Septembre|Bourgoin|Montauban|35|22||
+1|2006-2007|4|Dimanche 03 Septembre|Bayonne|Perpignan|9|20||
+2|2006-2007|4|Dimanche 03 Septembre|Narbonne|Paris|24|33||
+3|2006-2007|4|Dimanche 03 Septembre|Clermont|Montpellier|55|7|Bo|
+4|2006-2007|4|Dimanche 03 Septembre|Toulouse|Biarritz|20|3||
+5|2006-2007|4|Dimanche 03 Septembre|Castres|Agen|31|26||Bd
+6|2006-2007|4|Dimanche 03 Septembre|Brive|Albi|6|3||Bd
+0|2006-2007|5|Samedi 09 Septembre|Biarritz|Bourgoin|12|6||
+1|2006-2007|5|Samedi 09 Septembre|Paris|Bayonne|48|29|Bo|
+2|2006-2007|5|Samedi 09 Septembre|Montpellier|Narbonne|33|10|Bo|
+3|2006-2007|5|Samedi 09 Septembre|Castres|Clermont|13|9||Bd
+4|2006-2007|5|Samedi 09 Septembre|Perpignan|Toulouse|30|17||
+5|2006-2007|5|Samedi 09 Septembre|Agen|Albi|32|3|Bo|
+6|2006-2007|5|Samedi 09 Septembre|Montauban|Brive|21|20||Bd
+0|2006-2007|6|Vendredi 15 Septembre|Bourgoin|Perpignan|22|3||
+1|2006-2007|6|Samedi 16 Septembre|Bayonne|Montpellier|25|20||Bd
+2|2006-2007|6|Samedi 16 Septembre|Narbonne|Castres|39|17|Bo|
+3|2006-2007|6|Samedi 16 Septembre|Brive|Biarritz|14|21||
+4|2006-2007|6|Samedi 16 Septembre|Toulouse|Paris|12|16|Bd|
+5|2006-2007|6|Samedi 16 Septembre|Clermont|Agen|20|3||
+6|2006-2007|6|Samedi 16 Septembre|Albi|Montauban|12|10||Bd
+0|2006-2007|7|Vendredi 22 Septembre|Montpellier|Toulouse|9|9||
+1|2006-2007|7|Samedi 23 Septembre|Clermont|Narbonne|43|0|Bo|
+2|2006-2007|7|Samedi 23 Septembre|Castres|Bayonne|39|15|Bo|
+3|2006-2007|7|Samedi 23 Septembre|Paris|Bourgoin|41|27||
+4|2006-2007|7|Samedi 23 Septembre|Perpignan|Brive|24|13||
+5|2006-2007|7|Samedi 23 Septembre|Agen|Montauban|13|9||Bd
+6|2006-2007|7|Samedi 23 Septembre|Biarritz|Albi|20|6||
+0|2006-2007|8|Mardi 26 Septembre|Bourgoin|Montpellier|25|3||
+1|2006-2007|8|Mardi 26 Septembre|Bayonne|Clermont|24|13||
+2|2006-2007|8|Mardi 26 Septembre|Brive|Paris|6|21||
+3|2006-2007|8|Mardi 26 Septembre|Albi|Perpignan|16|7||
+4|2006-2007|8|Mardi 26 Septembre|Toulouse|Castres|35|3|Bo|
+5|2006-2007|8|Mardi 26 Septembre|Narbonne|Agen|33|18||
+6|2006-2007|8|Mardi 26 Septembre|Montauban|Biarritz|19|13||
+0|2006-2007|9|Samedi 30 Septembre|Castres|Bourgoin|18|16||Bd
+1|2006-2007|9|Samedi 30 Septembre|Narbonne|Bayonne|25|12||
+2|2006-2007|9|Samedi 30 Septembre|Montpellier|Brive|12|17||
+3|2006-2007|9|Samedi 30 Septembre|Paris|Albi|25|12||
+4|2006-2007|9|Samedi 30 Septembre|Clermont|Toulouse|46|9|Bo|
+5|2006-2007|9|Samedi 30 Septembre|Agen|Biarritz|20|18||Bd
+6|2006-2007|9|Samedi 30 Septembre|Perpignan|Montauban|13|18|Bd|
+0|2006-2007|10|Vendredi 06 Octobre|Montauban|Paris|15|9||
+1|2006-2007|10|Samedi 07 Octobre|Bourgoin|Clermont|22|28||
+2|2006-2007|10|Samedi 07 Octobre|Brive|Castres|22|15||
+3|2006-2007|10|Samedi 07 Octobre|Albi|Montpellier|15|9||
+4|2006-2007|10|Samedi 07 Octobre|Toulouse|Narbonne|40|34||
+5|2006-2007|10|Samedi 07 Octobre|Bayonne|Agen|19|15||Bd
+6|2006-2007|10|Samedi 07 Octobre|Biarritz|Perpignan|25|10||
+0|2006-2007|11|Vendredi 13 Octobre|Agen|Perpignan|6|13||
+1|2006-2007|11|Samedi 14 Octobre|Clermont|Brive|44|3||
+2|2006-2007|11|Samedi 14 Octobre|Castres|Albi|16|19|Bd|
+3|2006-2007|11|Samedi 14 Octobre|Montpellier|Montauban|19|17||Bd
+4|2006-2007|11|Samedi 14 Octobre|Bayonne|Toulouse|9|20||
+5|2006-2007|11|Samedi 14 Octobre|Narbonne|Bourgoin|20|23|Bd|
+6|2006-2007|11|Samedi 14 Octobre|Paris|Biarritz|22|16||
+0|2006-2007|12|Vendredi 03 Novembre|Albi|Clermont|6|27||
+1|2006-2007|12|Samedi 04 Novembre|Bourgoin|Bayonne|39|10|Bo|
+2|2006-2007|12|Samedi 04 Novembre|Montauban|Castres|15|15||
+3|2006-2007|12|Samedi 04 Novembre|Biarritz|Montpellier|44|11|Bo|
+4|2006-2007|12|Samedi 04 Novembre|Brive|Narbonne|23|21||Bd
+5|2006-2007|12|Samedi 04 Novembre|Agen|Toulouse|24|16||
+6|2006-2007|12|Samedi 04 Novembre|Perpignan|Paris|11|10||Bd
+0|2006-2007|13|Vendredi 10 Novembre|Toulouse|Bourgoin|25|15||
+1|2006-2007|13|Samedi 11 Novembre|Narbonne|Albi|50|12|Bo|
+2|2006-2007|13|Samedi 11 Novembre|Clermont|Montauban|27|16||
+3|2006-2007|13|Samedi 11 Novembre|Castres|Biarritz|12|16|Bd|
+4|2006-2007|13|Samedi 11 Novembre|Bayonne|Brive|29|6||
+5|2006-2007|13|Samedi 11 Novembre|Paris|Agen|31|8||
+6|2006-2007|13|Samedi 11 Novembre|Montpellier|Perpignan|12|15|Bd|
+0|2006-2007|14|Vendredi 17 Novembre|Montpellier|Paris|25|13||
+1|2006-2007|14|Samedi 18 Novembre|Bayonne|Albi|15|9||
+2|2006-2007|14|Samedi 18 Novembre|Narbonne|Montauban|37|33||Bd
+3|2006-2007|14|Samedi 18 Novembre|Clermont|Biarritz|25|17||
+4|2006-2007|14|Samedi 18 Novembre|Toulouse|Brive|26|29|Bd|
+5|2006-2007|14|Samedi 18 Novembre|Bourgoin|Agen|31|18||
+6|2006-2007|14|Samedi 18 Novembre|Castres|Perpignan|19|13||
+0|2006-2007|15|Vendredi 24 Novembre|Paris|Castres|43|18|Bo|
+1|2006-2007|15|Vendredi 24 Novembre|Albi|Toulouse|13|13||
+2|2006-2007|15|Samedi 25 Novembre|Montauban|Bayonne|17|18|Bd|
+3|2006-2007|15|Samedi 25 Novembre|Brive|Bourgoin|28|3||
+4|2006-2007|15|Samedi 25 Novembre|Perpignan|Clermont|32|15||
+5|2006-2007|15|Samedi 25 Novembre|Biarritz|Narbonne|42|14||
+6|2006-2007|15|Samedi 25 Novembre|Agen|Montpellier|14|9||
+0|2006-2007|16|Vendredi 01 Décembre|Bayonne|Biarritz|11|15|Bd|
+1|2006-2007|16|Samedi 02 Décembre|Bourgoin|Albi|36|11|Bo|
+2|2006-2007|16|Samedi 02 Décembre|Narbonne|Perpignan|15|19|Bd|
+3|2006-2007|16|Samedi 02 Décembre|Clermont|Paris|29|17||
+4|2006-2007|16|Samedi 02 Décembre|Toulouse|Montauban|30|21||
+5|2006-2007|16|Samedi 02 Décembre|Brive|Agen|19|13||
+6|2006-2007|16|Samedi 02 Décembre|Castres|Montpellier|51|13|Bo|
+0|2006-2007|17|Vendredi 22 Décembre|Agen|Castres|20|9||
+1|2006-2007|17|Samedi 23 Décembre|Perpignan|Bayonne|36|30||
+2|2006-2007|17|Samedi 23 Décembre|Paris|Narbonne|41|0|Bo|
+3|2006-2007|17|Samedi 23 Décembre|Montpellier|Clermont|18|31||
+4|2006-2007|17|Samedi 23 Décembre|Biarritz|Toulouse|16|21|Bd|
+5|2006-2007|17|Samedi 23 Décembre|Montauban|Bourgoin|26|17||
+6|2006-2007|17|Samedi 23 Décembre|Albi|Brive|19|3||
+0|2006-2007|18|Vendredi 05 Janvier|Bourgoin|Biarritz|9|0||
+1|2006-2007|18|Samedi 06 Janvier|Bayonne|Paris|29|27||Bd
+2|2006-2007|18|Samedi 06 Janvier|Narbonne|Montpellier|32|9||
+3|2006-2007|18|Samedi 06 Janvier|Clermont|Castres|30|23||
+4|2006-2007|18|Samedi 06 Janvier|Toulouse|Perpignan|16|12||Bd
+5|2006-2007|18|Samedi 06 Janvier|Albi|Agen|16|6||
+6|2006-2007|18|Samedi 06 Janvier|Brive|Montauban|11|16|Bd|
+0|2006-2007|19|Vendredi 26 Janvier|Montpellier|Bayonne|39|17|Bo|
+1|2006-2007|19|Samedi 27 Janvier|Perpignan|Bourgoin|16|9||
+2|2006-2007|19|Samedi 27 Janvier|Castres|Narbonne|62|14|Bo|
+3|2006-2007|19|Samedi 27 Janvier|Biarritz|Brive|15|6||
+4|2006-2007|19|Samedi 27 Janvier|Paris|Toulouse|22|20||Bd
+5|2006-2007|19|Samedi 27 Janvier|Agen|Clermont|22|18||Bd
+6|2006-2007|19|Samedi 27 Janvier|Montauban|Albi|15|19|Bd|
+0|2006-2007|20|Vendredi 23 Mars|Albi|Biarritz|10|23||
+1|2006-2007|20|Samedi 24 Mars|Toulouse|Montpellier|28|10|Bo|
+2|2006-2007|20|Samedi 24 Mars|Bayonne|Castres|19|12||
+3|2006-2007|20|Samedi 24 Mars|Bourgoin|Paris|19|19||
+4|2006-2007|20|Samedi 24 Mars|Brive|Perpignan|22|22||
+5|2006-2007|20|Samedi 24 Mars|Narbonne|Clermont|26|29|Bd|
+6|2006-2007|20|Samedi 24 Mars|Montauban|Agen|22|12||
+0|2006-2007|21|Vendredi 06 Avril|Montpellier|Bourgoin|19|7||
+1|2006-2007|21|Samedi 07 Avril|Clermont|Bayonne|61|24|Bo|
+2|2006-2007|21|Samedi 07 Avril|Paris|Brive|18|13||
+3|2006-2007|21|Samedi 07 Avril|Perpignan|Albi|20|3|Bo|
+4|2006-2007|21|Samedi 07 Avril|Castres|Toulouse|19|35||Bo
+5|2006-2007|21|Samedi 07 Avril|Agen|Narbonne|19|26||
+6|2006-2007|21|Samedi 07 Avril|Biarritz|Montauban|9|9||
+0|2006-2007|22|Vendredi 13 Avril|Biarritz|Agen|17|7||
+1|2006-2007|22|Vendredi 13 Avril|Toulouse|Clermont|24|7||
+2|2006-2007|22|Samedi 14 Avril|Brive|Montpellier|25|16||
+3|2006-2007|22|Samedi 14 Avril|Bayonne|Narbonne|16|8||
+4|2006-2007|22|Samedi 14 Avril|Albi|Paris|16|21|Bd|
+5|2006-2007|22|Samedi 14 Avril|Bourgoin|Castres|32|19||
+6|2006-2007|22|Samedi 14 Avril|Montauban|Perpignan|12|29||
+0|2006-2007|23|Vendredi 27 Avril|Narbonne|Toulouse|10|41||Bo
+1|2006-2007|23|Samedi 28 Avril|Montpellier|Albi|23|14||
+2|2006-2007|23|Samedi 28 Avril|Castres|Brive|17|15||Bd
+3|2006-2007|23|Samedi 28 Avril|Clermont|Bourgoin|40|9|Bo|
+4|2006-2007|23|Samedi 28 Avril|Paris|Montauban|24|17||
+5|2006-2007|23|Samedi 28 Avril|Agen|Bayonne|16|16||
+6|2006-2007|23|Samedi 28 Avril|Perpignan|Biarritz|15|23||
+0|2006-2007|24|Vendredi 04 Mai|Perpignan|Agen|31|18||
+1|2006-2007|24|Samedi 05 Mai|Brive|Clermont|28|22||
+2|2006-2007|24|Samedi 05 Mai|Albi|Castres|19|12||
+3|2006-2007|24|Samedi 05 Mai|Montauban|Montpellier|13|12||Bd
+4|2006-2007|24|Samedi 05 Mai|Toulouse|Bayonne|47|28|Bo|
+5|2006-2007|24|Samedi 05 Mai|Bourgoin|Narbonne|44|11|Bo|
+6|2006-2007|24|Samedi 05 Mai|Biarritz|Paris|22|13||
+0|2006-2007|25|Vendredi 11 Mai|Toulouse|Agen|47|0|Bo|
+1|2006-2007|25|Samedi 12 Mai|Clermont|Albi|73|6|Bo|
+2|2006-2007|25|Samedi 12 Mai|Castres|Montauban|25|13||
+3|2006-2007|25|Samedi 12 Mai|Montpellier|Biarritz|39|25||
+4|2006-2007|25|Samedi 12 Mai|Narbonne|Brive|21|42||
+5|2006-2007|25|Samedi 12 Mai|Bayonne|Bourgoin|18|11||
+6|2006-2007|25|Dimanche 13 Mai|Paris|Perpignan|12|11||Bd
+0|2006-2007|26|Samedi 26 Mai|Bourgoin|Toulouse|20|21|Bd|
+1|2006-2007|26|Samedi 26 Mai|Albi|Narbonne|29|0|Bo|
+2|2006-2007|26|Samedi 26 Mai|Montauban|Clermont|19|21|Bd|
+3|2006-2007|26|Samedi 26 Mai|Biarritz|Castres|29|17||
+4|2006-2007|26|Samedi 26 Mai|Brive|Bayonne|6|9|Bd|
+5|2006-2007|26|Samedi 26 Mai|Agen|Paris|5|18||
+6|2006-2007|26|Samedi 26 Mai|Perpignan|Montpellier|14|9||Bd
+0|2006-2007|Demi-finales|Vendredi 01 Juin|Paris|Biarritz|18|6||
+1|2006-2007|Demi-finales|Samedi 02 Juin|Clermont|Toulouse|20|15||Bd
+0|2006-2007|Finale|Samedi 09 Juin|Paris|Clermont|23|18||Bd
+0|Orange|1|Vendredi 26 Octobre|Dax|Toulouse|10|15|Bd|
+1|Orange|1|Samedi 27 Octobre|Paris|Clermont|23|17||
+2|Orange|1|Samedi 27 Octobre|Brive|Bayonne|21|22|Bd|
+3|Orange|1|Samedi 27 Octobre|Biarritz|Albi|15|15||
+4|Orange|1|Samedi 27 Octobre|Bourgoin|Montauban|10|8||Bd
+5|Orange|1|Samedi 27 Octobre|Castres|Auch|25|12||
+6|Orange|1|Samedi 27 Octobre|Montpellier|Perpignan|19|12||
+7|Orange|1|Jeudi 09 Juin|Castres|La Rochelle|0|0||
+0|Orange|2|Vendredi 02 Novembre|Brive|Biarritz|7|12|Bd|
+1|Orange|2|Samedi 03 Novembre|Clermont|Montpellier|33|20||
+2|Orange|2|Samedi 03 Novembre|Auch|Bourgoin|16|18|Bd|
+3|Orange|2|Samedi 03 Novembre|Toulouse|Paris|28|9||
+4|Orange|2|Samedi 03 Novembre|Albi|Perpignan|21|16||Bd
+5|Orange|2|Samedi 03 Novembre|Montauban|Castres|15|12||Bd
+6|Orange|2|Samedi 03 Novembre|Bayonne|Dax|27|0||
+0|Orange|3|Vendredi 23 Novembre|Paris|Bayonne|46|6|Bo|
+1|Orange|3|Samedi 24 Novembre|Biarritz|Toulouse|6|18||
+2|Orange|3|Samedi 24 Novembre|Montpellier|Castres|25|9||
+3|Orange|3|Samedi 24 Novembre|Perpignan|Bourgoin|3|3||
+4|Orange|3|Samedi 24 Novembre|Dax|Auch|16|6||
+5|Orange|3|Samedi 24 Novembre|Albi|Clermont|6|12||
+6|Orange|3|Samedi 24 Novembre|Montauban|Brive|43|13|Bo|
+0|Orange|4|Vendredi 30 Novembre|Paris|Dax|22|19||Bd
+1|Orange|4|Samedi 01 Décembre|Bayonne|Biarritz|10|14|Bd|
+2|Orange|4|Samedi 01 Décembre|Castres|Perpignan|0|16||
+3|Orange|4|Samedi 01 Décembre|Brive|Montpellier|6|9|Bd|
+4|Orange|4|Samedi 01 Décembre|Toulouse|Albi|33|12|Bo|
+5|Orange|4|Samedi 01 Décembre|Bourgoin|Clermont|14|20||
+6|Orange|4|Samedi 01 Décembre|Auch|Montauban|19|13||
+0|Orange|5|Vendredi 21 Décembre|Auch|Biarritz|11|17||
+1|Orange|5|Vendredi 21 Décembre|Clermont|Toulouse|21|17||Bd
+2|Orange|5|Samedi 22 Décembre|Castres|Bourgoin|32|17||
+3|Orange|5|Samedi 22 Décembre|Dax|Brive|19|27||
+4|Orange|5|Samedi 22 Décembre|Montpellier|Albi|19|14||Bd
+5|Orange|5|Samedi 22 Décembre|Montauban|Paris|24|16||
+6|Orange|5|Samedi 22 Décembre|Bayonne|Perpignan|35|8|Bo|
+0|Orange|6|Vendredi 04 Janvier|Biarritz|Montauban|10|8||Bd
+1|Orange|6|Samedi 05 Janvier|Bourgoin|Bayonne|15|10||Bd
+2|Orange|6|Samedi 05 Janvier|Albi|Dax|24|17||
+3|Orange|6|Samedi 05 Janvier|Clermont|Auch|26|6|Bo|
+4|Orange|6|Samedi 05 Janvier|Perpignan|Brive|23|19||Bd
+5|Orange|6|Samedi 05 Janvier|Paris|Montpellier|33|6||
+6|Orange|6|Dimanche 06 Janvier|Toulouse|Castres|44|23|Bo|
+0|Orange|7|Vendredi 25 Janvier|Auch|Toulouse|3|34||Bo
+1|Orange|7|Samedi 26 Janvier|Bourgoin|Paris|16|31||
+2|Orange|7|Samedi 26 Janvier|Castres|Clermont|15|14||Bd
+3|Orange|7|Samedi 26 Janvier|Biarritz|Perpignan|21|8||
+4|Orange|7|Samedi 26 Janvier|Montauban|Dax|12|11||Bd
+5|Orange|7|Samedi 26 Janvier|Brive|Albi|25|6|Bo|
+6|Orange|7|Samedi 26 Janvier|Montpellier|Bayonne|37|13||
+0|Orange|8|Vendredi 01 Février|Perpignan|Montauban|23|3||
+1|Orange|8|Samedi 02 Février|Dax|Bourgoin|15|14||Bd
+2|Orange|8|Samedi 02 Février|Toulouse|Montpellier|35|13|Bo|
+3|Orange|8|Samedi 02 Février|Brive|Castres|26|13||
+4|Orange|8|Samedi 02 Février|Bayonne|Auch|25|10||
+5|Orange|8|Samedi 02 Février|Albi|Paris|18|23|Bd|
+6|Orange|8|Dimanche 03 Février|Clermont|Biarritz|12|9||Bd
+0|Orange|9|Vendredi 08 Février|Paris|Brive|36|7||
+1|Orange|9|Vendredi 08 Février|Auch|Albi|14|19|Bd|
+2|Orange|9|Samedi 09 Février|Montauban|Toulouse|12|16|Bd|
+3|Orange|9|Samedi 09 Février|Perpignan|Clermont|18|17||Bd
+4|Orange|9|Samedi 09 Février|Bourgoin|Montpellier|23|17||
+5|Orange|9|Samedi 09 Février|Biarritz|Dax|13|7||
+6|Orange|9|Samedi 09 Février|Castres|Bayonne|37|17|Bo|
+0|Orange|10|Vendredi 15 Février|Montpellier|Biarritz|14|18|Bd|
+1|Orange|10|Samedi 16 Février|Toulouse|Perpignan|41|15|Bo|
+2|Orange|10|Samedi 16 Février|Dax|Castres|8|17||
+3|Orange|10|Samedi 16 Février|Paris|Auch|15|12||Bd
+4|Orange|10|Samedi 16 Février|Albi|Bourgoin|33|8||
+5|Orange|10|Samedi 16 Février|Bayonne|Montauban|25|18||
+6|Orange|10|Samedi 16 Février|Brive|Clermont|9|11|Bd|
+0|Orange|11|Vendredi 22 Février|Castres|Paris|16|47||Bo
+1|Orange|11|Samedi 23 Février|Clermont|Montauban|40|13|Bo|
+2|Orange|11|Samedi 23 Février|Bayonne|Albi|31|13||
+3|Orange|11|Samedi 23 Février|Montpellier|Dax|18|13||Bd
+4|Orange|11|Samedi 23 Février|Toulouse|Brive|51|3|Bo|
+5|Orange|11|Samedi 23 Février|Perpignan|Auch|28|23||Bd
+6|Orange|11|Dimanche 24 Février|Bourgoin|Biarritz|35|15||
+0|Orange|12|Vendredi 29 Février|Montauban|Montpellier|14|6||
+1|Orange|12|Samedi 01 Mars|Perpignan|Dax|10|10||
+2|Orange|12|Samedi 01 Mars|Clermont|Bayonne|27|3|Bo|
+3|Orange|12|Samedi 01 Mars|Auch|Brive|20|30||
+4|Orange|12|Samedi 01 Mars|Biarritz|Paris|9|6||Bd
+5|Orange|12|Samedi 01 Mars|Bourgoin|Toulouse|30|23||
+6|Orange|12|Samedi 01 Mars|Albi|Castres|6|33||Bo
+0|Orange|13|Vendredi 07 Mars|Castres|Biarritz|26|19||
+1|Orange|13|Samedi 08 Mars|Bayonne|Toulouse|10|25||
+2|Orange|13|Samedi 08 Mars|Albi|Montauban|15|25||Bo
+3|Orange|13|Samedi 08 Mars|Dax|Clermont|22|40||Bo
+4|Orange|13|Samedi 08 Mars|Brive|Bourgoin|29|13||
+5|Orange|13|Samedi 08 Mars|Montpellier|Auch|29|24||Bd
+6|Orange|13|Samedi 08 Mars|Paris|Perpignan|12|23||
+0|Orange|14|Vendredi 14 Mars|Albi|Biarritz|13|8||Bd
+1|Orange|14|Samedi 15 Mars|Auch|Castres|15|36||Bo
+2|Orange|14|Samedi 15 Mars|Bayonne|Brive|20|18||Bd
+3|Orange|14|Samedi 15 Mars|Toulouse|Dax|58|5|Bo|
+4|Orange|14|Samedi 15 Mars|Perpignan|Montpellier|27|6|Bo|
+5|Orange|14|Samedi 15 Mars|Montauban|Bourgoin|16|11||Bd
+6|Orange|14|Dimanche 16 Mars|Clermont|Paris|50|12|Bo|
+0|Orange|15|Vendredi 21 Mars|Biarritz|Brive|10|0||
+1|Orange|15|Samedi 22 Mars|Dax|Bayonne|11|6||Bd
+2|Orange|15|Samedi 22 Mars|Montpellier|Clermont|14|56||Bo
+3|Orange|15|Samedi 22 Mars|Bourgoin|Auch|36|0|Bo|
+4|Orange|15|Samedi 22 Mars|Perpignan|Albi|45|7|Bo|
+5|Orange|15|Samedi 22 Mars|Castres|Montauban|21|7||
+6|Orange|15|Samedi 22 Mars|Paris|Toulouse|29|0|Bo|
+0|Orange|16|Vendredi 28 Mars|Toulouse|Biarritz|12|6||
+1|Orange|16|Samedi 29 Mars|Bayonne|Paris|14|34||Bo
+2|Orange|16|Samedi 29 Mars|Castres|Montpellier|12|17|Bd|
+3|Orange|16|Samedi 29 Mars|Clermont|Albi|52|17|Bo|
+4|Orange|16|Samedi 29 Mars|Auch|Dax|16|10||
+5|Orange|16|Samedi 29 Mars|Brive|Montauban|14|7||
+6|Orange|16|Samedi 29 Mars|Bourgoin|Perpignan|9|10|Bd|
+0|Orange|17|Vendredi 11 Avril|Dax|Paris|9|13|Bd|
+1|Orange|17|Samedi 12 Avril|Biarritz|Bayonne|20|0|Bo|
+2|Orange|17|Samedi 12 Avril|Clermont|Bourgoin|36|7|Bo|
+3|Orange|17|Samedi 12 Avril|Albi|Toulouse|13|20||
+4|Orange|17|Samedi 12 Avril|Montpellier|Brive|20|14||
+5|Orange|17|Samedi 12 Avril|Montauban|Auch|30|19||
+6|Orange|17|Samedi 12 Avril|Perpignan|Castres|20|18||Bd
+0|Orange|18|Vendredi 18 Avril|Bourgoin|Castres|12|14|Bd|
+1|Orange|18|Samedi 19 Avril|Toulouse|Clermont|11|23||
+2|Orange|18|Samedi 19 Avril|Albi|Montpellier|25|12|Bo|
+3|Orange|18|Samedi 19 Avril|Brive|Dax|30|0||
+4|Orange|18|Samedi 19 Avril|Perpignan|Bayonne|38|13|Bo|
+5|Orange|18|Samedi 19 Avril|Biarritz|Auch|26|3|Bo|
+6|Orange|18|Samedi 19 Avril|Paris|Montauban|25|18||
+0|Orange|19|Vendredi 25 Avril|Montpellier|Paris|9|12|Bd|
+1|Orange|19|Samedi 26 Avril|Auch|Clermont|15|36||Bo
+2|Orange|19|Samedi 26 Avril|Bayonne|Bourgoin|19|19||
+3|Orange|19|Samedi 26 Avril|Dax|Albi|12|9||Bd
+4|Orange|19|Samedi 26 Avril|Montauban|Biarritz|19|13||
+5|Orange|19|Samedi 26 Avril|Brive|Perpignan|7|16||
+0|Orange|20|Vendredi 02 Mai|Clermont|Castres|28|35||Bo
+1|Orange|20|Vendredi 02 Mai|Toulouse|Auch|73|12|Bo|
+2|Orange|20|Samedi 03 Mai|Paris|Bourgoin|34|20||
+3|Orange|20|Samedi 03 Mai|Albi|Brive|21|18||Bd
+4|Orange|20|Samedi 03 Mai|Bayonne|Montpellier|19|16||Bd
+5|Orange|20|Samedi 03 Mai|Dax|Montauban|20|16||Bd
+6|Orange|20|Samedi 03 Mai|Perpignan|Biarritz|16|3||
+0|Orange|21|Vendredi 09 Mai|Biarritz|Clermont|11|16|Bd|
+1|Orange|21|Samedi 10 Mai|Paris|Albi|43|20||
+2|Orange|21|Samedi 10 Mai|Auch|Bayonne|19|23|Bd|
+3|Orange|21|Samedi 10 Mai|Bourgoin|Dax|50|14|Bo|
+4|Orange|21|Samedi 10 Mai|Montauban|Perpignan|28|22||
+5|Orange|21|Dimanche 11 Mai|Castres|Brive|41|10|Bo|
+6|Orange|21|Dimanche 11 Mai|Montpellier|Toulouse|17|15||Bd
+0|Orange|22|Vendredi 16 Mai|Brive|Paris|11|3||
+1|Orange|22|Samedi 17 Mai|Dax|Biarritz|17|12||Bd
+2|Orange|22|Samedi 17 Mai|Montpellier|Bourgoin|12|6||
+3|Orange|22|Samedi 17 Mai|Clermont|Perpignan|29|15||
+4|Orange|22|Samedi 17 Mai|Albi|Auch|29|0|Bo|
+5|Orange|22|Samedi 17 Mai|Bayonne|Castres|27|16||
+6|Orange|22|Samedi 17 Mai|Toulouse|Montauban|28|6|Bo|
+0|Orange|23|Samedi 24 Mai|Biarritz|Montpellier|20|0||
+1|Orange|23|Samedi 24 Mai|Auch|Paris|9|6||Bd
+2|Orange|23|Samedi 24 Mai|Castres|Dax|38|16|Bo|
+3|Orange|23|Samedi 24 Mai|Clermont|Brive|38|7|Bo|
+4|Orange|23|Samedi 24 Mai|Montauban|Bayonne|15|12||Bd
+5|Orange|23|Samedi 24 Mai|Bourgoin|Albi|18|13||Bd
+0|Orange|24|Vendredi 30 Mai|Auch|Perpignan|13|25||
+1|Orange|24|Vendredi 30 Mai|Brive|Toulouse|15|12||Bd
+2|Orange|24|Samedi 31 Mai|Montauban|Clermont|18|16||Bd
+3|Orange|24|Samedi 31 Mai|Biarritz|Bourgoin|30|10|Bo|
+4|Orange|24|Samedi 31 Mai|Dax|Montpellier|16|36||Bo
+5|Orange|24|Samedi 31 Mai|Paris|Castres|44|15|Bo|
+6|Orange|24|Samedi 31 Mai|Albi|Bayonne|13|6||
+0|Orange|25|Vendredi 06 Juin|Montpellier|Montauban|12|8||Bd
+1|Orange|25|Samedi 07 Juin|Paris|Biarritz|22|18||Bd
+2|Orange|25|Samedi 07 Juin|Brive|Auch|40|26|Bo|
+3|Orange|25|Samedi 07 Juin|Toulouse|Bourgoin|57|17|Bo|
+4|Orange|25|Samedi 07 Juin|Bayonne|Clermont|36|8||
+5|Orange|25|Samedi 07 Juin|Castres|Albi|20|16||Bd
+6|Orange|25|Samedi 07 Juin|Dax|Perpignan|10|21||
+0|Orange|26|Samedi 14 Juin|Toulouse|Bayonne|35|28||
+1|Orange|26|Samedi 14 Juin|Bourgoin|Brive|22|19||Bd
+2|Orange|26|Samedi 14 Juin|Perpignan|Paris|23|19||Bd
+3|Orange|26|Samedi 14 Juin|Biarritz|Castres|30|34|Bd|
+4|Orange|26|Samedi 14 Juin|Clermont|Dax|95|7|Bo|
+5|Orange|26|Samedi 14 Juin|Montauban|Albi|24|17||
+6|Orange|26|Samedi 14 Juin|Auch|Montpellier|13|23||
+0|Orange|Demi-finales|Samedi 21 Juin|Clermont|Perpignan|21|7||
+1|Orange|Demi-finales|Samedi 21 Juin|Toulouse|Paris|31|13||
+0|Orange|Finale|Samedi 28 Juin|Clermont|Toulouse|20|26||
+0|Orange|1|Mardi 26 Août|Dax|Paris|9|31||Bo
+1|Orange|1|Mardi 26 Août|Castres|Bayonne|26|27|Bd|
+2|Orange|1|Mardi 26 Août|Biarritz|Bourgoin|29|22||
+3|Orange|1|Mardi 26 Août|Montpellier|Toulouse|16|11||Bd
+4|Orange|1|Mardi 26 Août|Montauban|Mont-de-Marsan|37|19|Bo|
+5|Orange|1|Mardi 26 Août|Perpignan|Brive|34|18||
+6|Orange|1|Mardi 26 Août|Toulon|Clermont|22|16||
+0|Orange|2|Samedi 30 Août|Clermont|Montpellier|43|20|Bo|
+1|Orange|2|Samedi 30 Août|Toulon|Brive|3|3||
+2|Orange|2|Samedi 30 Août|Toulouse|Dax|32|25||
+3|Orange|2|Samedi 30 Août|Paris|Mont-de-Marsan|27|22||Bd
+4|Orange|2|Samedi 30 Août|Bayonne|Montauban|22|20||Bd
+5|Orange|2|Samedi 30 Août|Biarritz|Castres|32|17||
+6|Orange|2|Samedi 30 Août|Bourgoin|Perpignan|16|22||
+0|Orange|3|Vendredi 05 Septembre|Bayonne|Clermont|17|6||
+1|Orange|3|Samedi 06 Septembre|Montauban|Bourgoin|18|14||Bd
+2|Orange|3|Samedi 06 Septembre|Dax|Montpellier|6|9|Bd|
+3|Orange|3|Samedi 06 Septembre|Brive|Castres|16|16||
+4|Orange|3|Samedi 06 Septembre|Perpignan|Paris|11|26||
+5|Orange|3|Samedi 06 Septembre|Mont-de-Marsan|Toulon|25|18||
+6|Orange|3|Dimanche 07 Septembre|Toulouse|Biarritz|20|6|Bo|
+0|Orange|4|Vendredi 12 Septembre|Toulon|Paris|13|19||
+1|Orange|4|Samedi 13 Septembre|Perpignan|Bayonne|38|10|Bo|
+2|Orange|4|Samedi 13 Septembre|Castres|Dax|11|19||
+3|Orange|4|Samedi 13 Septembre|Bourgoin|Mont-de-Marsan|18|6||
+4|Orange|4|Samedi 13 Septembre|Montpellier|Montauban|32|10|Bo|
+5|Orange|4|Samedi 13 Septembre|Clermont|Toulouse|16|6||
+6|Orange|4|Samedi 13 Septembre|Biarritz|Brive|24|5||
+0|Orange|5|Vendredi 19 Septembre|Dax|Biarritz|30|18||
+1|Orange|5|Samedi 20 Septembre|Toulon|Bourgoin|15|9||
+2|Orange|5|Samedi 20 Septembre|Bayonne|Mont-de-Marsan|19|15||Bd
+3|Orange|5|Samedi 20 Septembre|Paris|Brive|37|16|Bo|
+4|Orange|5|Samedi 20 Septembre|Castres|Clermont|12|6||
+5|Orange|5|Samedi 20 Septembre|Montauban|Toulouse|10|41||Bo
+6|Orange|5|Samedi 20 Septembre|Montpellier|Perpignan|3|5|Bd|
+0|Orange|6|Vendredi 26 Septembre|Bourgoin|Paris|25|32||
+1|Orange|6|Samedi 27 Septembre|Montauban|Castres|24|23||Bd
+2|Orange|6|Samedi 27 Septembre|Clermont|Biarritz|32|6|Bo|
+3|Orange|6|Samedi 27 Septembre|Mont-de-Marsan|Montpellier|16|22||
+4|Orange|6|Samedi 27 Septembre|Brive|Dax|41|9|Bo|
+5|Orange|6|Samedi 27 Septembre|Toulouse|Perpignan|30|20||
+6|Orange|6|Samedi 27 Septembre|Bayonne|Toulon|19|15||Bd
+0|Orange|7|Vendredi 03 Octobre|Castres|Toulouse|10|28||
+1|Orange|7|Samedi 04 Octobre|Perpignan|Toulon|37|12||
+2|Orange|7|Samedi 04 Octobre|Brive|Mont-de-Marsan|53|11|Bo|
+3|Orange|7|Samedi 04 Octobre|Paris|Montauban|34|16|Bo|
+4|Orange|7|Samedi 04 Octobre|Biarritz|Montpellier|46|3|Bo|
+5|Orange|7|Samedi 04 Octobre|Bourgoin|Clermont|23|30||
+6|Orange|7|Samedi 04 Octobre|Dax|Bayonne|27|17||
+0|Orange|8|Vendredi 24 Octobre|Mont-de-Marsan|Biarritz|6|33||Bo
+1|Orange|8|Samedi 25 Octobre|Clermont|Montauban|25|30|Bd|Bo
+2|Orange|8|Samedi 25 Octobre|Perpignan|Dax|17|6||
+3|Orange|8|Samedi 25 Octobre|Montpellier|Bourgoin|12|19||
+4|Orange|8|Samedi 25 Octobre|Bayonne|Brive|14|9||Bd
+5|Orange|8|Samedi 25 Octobre|Paris|Toulouse|13|26||
+6|Orange|8|Samedi 25 Octobre|Toulon|Castres|17|21|Bd|
+0|Orange|9|Vendredi 31 Octobre|Montauban|Toulon|42|20|Bo|
+1|Orange|9|Samedi 01 Novembre|Mont-de-Marsan|Perpignan|7|31||Bo
+2|Orange|9|Samedi 01 Novembre|Castres|Montpellier|26|31|Bd|
+3|Orange|9|Samedi 01 Novembre|Toulouse|Brive|21|15||
+4|Orange|9|Samedi 01 Novembre|Dax|Bourgoin|32|10||
+5|Orange|9|Samedi 01 Novembre|Clermont|Paris|22|6||
+6|Orange|9|Samedi 01 Novembre|Biarritz|Bayonne|12|14|Bd|
+0|Orange|10|Vendredi 14 Novembre|Montpellier|Paris|26|13||
+1|Orange|10|Samedi 15 Novembre|Castres|Mont-de-Marsan|26|6||
+2|Orange|10|Samedi 15 Novembre|Bourgoin|Bayonne|9|13|Bd|
+3|Orange|10|Samedi 15 Novembre|Dax|Montauban|20|20||
+4|Orange|10|Samedi 15 Novembre|Toulouse|Toulon|19|18||Bd
+5|Orange|10|Samedi 15 Novembre|Brive|Clermont|18|16||Bd
+6|Orange|10|Samedi 15 Novembre|Perpignan|Biarritz|27|12|Bo|
+0|Orange|11|Vendredi 21 Novembre|Bourgoin|Toulouse|12|18||
+1|Orange|11|Vendredi 21 Novembre|Paris|Castres|19|12||
+2|Orange|11|Samedi 22 Novembre|Bayonne|Montpellier|42|9|Bo|
+3|Orange|11|Samedi 22 Novembre|Mont-de-Marsan|Dax|12|6||
+4|Orange|11|Samedi 22 Novembre|Brive|Montauban|33|28||Bd
+5|Orange|11|Samedi 22 Novembre|Toulon|Biarritz|10|5||Bd
+6|Orange|11|Samedi 22 Novembre|Clermont|Perpignan|29|9||
+0|Orange|12|Vendredi 28 Novembre|Toulouse|Bayonne|32|11||
+1|Orange|12|Samedi 29 Novembre|Castres|Bourgoin|9|23||
+2|Orange|12|Samedi 29 Novembre|Mont-de-Marsan|Clermont|12|11||Bd
+3|Orange|12|Samedi 29 Novembre|Toulon|Dax|6|13||
+4|Orange|12|Samedi 29 Novembre|Montauban|Perpignan|6|9|Bd|
+5|Orange|12|Samedi 29 Novembre|Biarritz|Paris|13|32||Bo
+6|Orange|12|Samedi 29 Novembre|Montpellier|Brive|9|22||
+0|Orange|13|Vendredi 19 Décembre|Dax|Clermont|16|20|Bd|
+1|Orange|13|Samedi 20 Décembre|Montpellier|Toulon|33|8|Bo|
+2|Orange|13|Samedi 20 Décembre|Perpignan|Castres|16|9||
+3|Orange|13|Samedi 20 Décembre|Toulouse|Mont-de-Marsan|27|6|Bo|
+4|Orange|13|Samedi 20 Décembre|Brive|Bourgoin|20|12||
+5|Orange|13|Samedi 20 Décembre|Paris|Bayonne|35|8|Bo|
+6|Orange|13|Samedi 20 Décembre|Montauban|Biarritz|19|12||
+0|Orange|14|Vendredi 02 Janvier|Bayonne|Castres|13|13||
+1|Orange|14|Samedi 03 Janvier|Paris|Dax|56|15|Bo|
+2|Orange|14|Samedi 03 Janvier|Clermont|Toulon|32|5|Bo|
+3|Orange|14|Samedi 03 Janvier|Mont-de-Marsan|Montauban|16|13||Bd
+4|Orange|14|Samedi 03 Janvier|Bourgoin|Biarritz|15|14||Bd
+5|Orange|14|Samedi 03 Janvier|Toulouse|Montpellier|34|0|Bo|
+6|Orange|14|Dimanche 04 Janvier|Brive|Perpignan|15|18|Bd|
+0|Orange|15|Vendredi 09 Janvier|Dax|Toulouse|9|25||
+1|Orange|15|Samedi 10 Janvier|Perpignan|Bourgoin|40|14|Bo|
+2|Orange|15|Samedi 10 Janvier|Castres|Biarritz|9|10|Bd|
+3|Orange|15|Samedi 10 Janvier|Mont-de-Marsan|Paris|6|13||
+4|Orange|15|Samedi 10 Janvier|Montauban|Bayonne|15|13||Bd
+5|Orange|15|Samedi 10 Janvier|Montpellier|Clermont|3|30||Bo
+6|Orange|15|Samedi 10 Janvier|Brive|Toulon|19|9||
+0|Orange|16|Vendredi 30 Janvier|Toulon|Mont-de-Marsan|38|22|Bo|
+1|Orange|16|Samedi 31 Janvier|Biarritz|Toulouse|17|13||Bd
+2|Orange|16|Samedi 31 Janvier|Montpellier|Dax|23|14||
+3|Orange|16|Samedi 31 Janvier|Castres|Brive|11|11||
+4|Orange|16|Samedi 31 Janvier|Clermont|Bayonne|44|10|Bo|
+5|Orange|16|Samedi 31 Janvier|Bourgoin|Montauban|25|15||
+6|Orange|16|Samedi 31 Janvier|Paris|Perpignan|13|13||
+0|Orange|17|Vendredi 20 Février|Paris|Toulon|22|12||
+1|Orange|17|Samedi 21 Février|Dax|Castres|16|32||Bo
+2|Orange|17|Samedi 21 Février|Mont-de-Marsan|Bourgoin|16|16||
+3|Orange|17|Samedi 21 Février|Brive|Biarritz|19|15||Bd
+4|Orange|17|Samedi 21 Février|Montauban|Montpellier|27|19||
+5|Orange|17|Samedi 21 Février|Bayonne|Perpignan|19|13||
+6|Orange|17|Dimanche 22 Février|Toulouse|Clermont|20|13||
+0|Orange|18|Vendredi 27 Février|Bourgoin|Toulon|12|23||Bo
+1|Orange|18|Samedi 28 Février|Brive|Paris|26|11||
+2|Orange|18|Samedi 28 Février|Clermont|Castres|43|20||
+3|Orange|18|Samedi 28 Février|Perpignan|Montpellier|50|13|Bo|
+4|Orange|18|Samedi 28 Février|Mont-de-Marsan|Bayonne|30|37||
+5|Orange|18|Samedi 28 Février|Biarritz|Dax|44|13|Bo|
+6|Orange|18|Samedi 28 Février|Toulouse|Montauban|9|6||Bd
+0|Orange|19|Vendredi 06 Mars|Perpignan|Toulouse|32|8|Bo|
+1|Orange|19|Samedi 07 Mars|Castres|Montauban|31|19||
+2|Orange|19|Samedi 07 Mars|Dax|Brive|15|17|Bd|
+3|Orange|19|Samedi 07 Mars|Paris|Bourgoin|53|3|Bo|
+4|Orange|19|Samedi 07 Mars|Montpellier|Mont-de-Marsan|33|6|Bo|
+5|Orange|19|Samedi 07 Mars|Biarritz|Clermont|18|14||Bd
+6|Orange|19|Samedi 07 Mars|Toulon|Bayonne|3|3||
+0|Orange|20|Vendredi 13 Mars|Montauban|Paris|22|16||
+1|Orange|20|Samedi 14 Mars|Toulouse|Castres|26|11||
+2|Orange|20|Samedi 14 Mars|Toulon|Perpignan|29|32|Bd|
+3|Orange|20|Samedi 14 Mars|Clermont|Bourgoin|57|23|Bo|
+4|Orange|20|Samedi 14 Mars|Bayonne|Dax|14|9||Bd
+5|Orange|20|Samedi 14 Mars|Mont-de-Marsan|Brive|16|18|Bd|
+6|Orange|20|Samedi 14 Mars|Montpellier|Biarritz|12|9||Bd
+0|Orange|21|Vendredi 27 Mars|Castres|Toulon|25|9||
+1|Orange|21|Samedi 28 Mars|Montauban|Clermont|19|19||
+2|Orange|21|Samedi 28 Mars|Dax|Perpignan|13|16|Bd|
+3|Orange|21|Samedi 28 Mars|Bourgoin|Montpellier|22|3||
+4|Orange|21|Samedi 28 Mars|Biarritz|Mont-de-Marsan|37|7|Bo|
+5|Orange|21|Samedi 28 Mars|Brive|Bayonne|13|6||
+6|Orange|21|Dimanche 29 Mars|Toulouse|Paris|15|11||Bd
+0|Orange|22|Vendredi 03 Avril|Bourgoin|Dax|43|6|Bo|
+1|Orange|22|Samedi 04 Avril|Toulon|Montauban|33|20||
+2|Orange|22|Samedi 04 Avril|Montpellier|Castres|21|23|Bd|
+3|Orange|22|Samedi 04 Avril|Perpignan|Mont-de-Marsan|44|3|Bo|
+4|Orange|22|Samedi 04 Avril|Brive|Toulouse|10|42||Bo
+5|Orange|22|Samedi 04 Avril|Paris|Clermont|19|21|Bd|
+6|Orange|22|Samedi 04 Avril|Bayonne|Biarritz|15|19|Bd|
+0|Orange|23|Vendredi 17 Avril|Biarritz|Perpignan|12|10||Bd
+1|Orange|23|Samedi 18 Avril|Mont-de-Marsan|Castres|21|15||
+2|Orange|23|Samedi 18 Avril|Paris|Montpellier|24|15||
+3|Orange|23|Samedi 18 Avril|Bayonne|Bourgoin|61|10|Bo|
+4|Orange|23|Samedi 18 Avril|Clermont|Brive|52|7|Bo|
+5|Orange|23|Samedi 18 Avril|Toulon|Toulouse|14|6||
+6|Orange|23|Samedi 18 Avril|Montauban|Dax|15|20|Bd|
+0|Orange|24|Vendredi 24 Avril|Castres|Paris|16|21|Bd|
+1|Orange|24|Samedi 25 Avril|Montauban|Brive|15|10||Bd
+2|Orange|24|Samedi 25 Avril|Montpellier|Bayonne|20|11||
+3|Orange|24|Samedi 25 Avril|Biarritz|Toulon|19|12||
+4|Orange|24|Samedi 25 Avril|Toulouse|Bourgoin|13|6||
+5|Orange|24|Samedi 25 Avril|Perpignan|Clermont|20|16||Bd
+6|Orange|24|Samedi 25 Avril|Dax|Mont-de-Marsan|12|8||Bd
+0|Orange|25|Vendredi 08 Mai|Dax|Toulon|12|22||
+1|Orange|25|Samedi 09 Mai|Perpignan|Montauban|19|9|Bo|
+2|Orange|25|Samedi 09 Mai|Bourgoin|Castres|31|23||
+3|Orange|25|Samedi 09 Mai|Clermont|Mont-de-Marsan|66|3|Bo|
+4|Orange|25|Samedi 09 Mai|Brive|Montpellier|28|18||
+5|Orange|25|Samedi 09 Mai|Bayonne|Toulouse|9|12|Bd|
+6|Orange|25|Dimanche 10 Mai|Paris|Biarritz|12|16|Bd|
+0|Orange|26|Samedi 16 Mai|Castres|Perpignan|26|32||
+1|Orange|26|Samedi 16 Mai|Bayonne|Paris|31|27||Bd
+2|Orange|26|Samedi 16 Mai|Biarritz|Montauban|38|10|Bo|
+3|Orange|26|Samedi 16 Mai|Clermont|Dax|75|3|Bo|
+4|Orange|26|Samedi 16 Mai|Mont-de-Marsan|Toulouse|8|60||Bo
+5|Orange|26|Samedi 16 Mai|Toulon|Montpellier|23|3|Bo|
+6|Orange|26|Samedi 16 Mai|Bourgoin|Brive|19|19||
+0|Orange|Demi-finales|Vendredi 29 Mai|Toulouse|Clermont|9|19||
+1|Orange|Demi-finales|Samedi 30 Mai|Perpignan|Paris|25|21||Bd
+0|Orange|Finale|Samedi 06 Juin|Perpignan|Clermont|22|13||
+0|Orange|1|Vendredi 14 Août|Toulon|Paris|22|22||
+1|Orange|1|Samedi 15 Août|Albi|Racing 92|13|19||
+2|Orange|1|Samedi 15 Août|Bourgoin|Clermont|28|37||
+3|Orange|1|Samedi 15 Août|Biarritz|Castres|12|24||
+4|Orange|1|Samedi 15 Août|Montauban|Toulouse|16|17|Bd|
+5|Orange|1|Samedi 15 Août|Perpignan|Bayonne|28|20||
+6|Orange|1|Samedi 15 Août|Brive|Montpellier|30|9||
+0|Orange|2|Vendredi 21 Août|Bayonne|Paris|38|24||
+1|Orange|2|Samedi 22 Août|Clermont|Montauban|37|16|Bo|
+2|Orange|2|Samedi 22 Août|Toulouse|Brive|38|0|Bo|
+3|Orange|2|Samedi 22 Août|Montpellier|Perpignan|18|12||
+4|Orange|2|Samedi 22 Août|Biarritz|Albi|39|6|Bo|
+5|Orange|2|Samedi 22 Août|Toulon|Racing 92|27|13||
+6|Orange|2|Samedi 22 Août|Castres|Bourgoin|29|9||
+0|Orange|3|Vendredi 28 Août|Brive|Clermont|9|9||
+1|Orange|3|Samedi 29 Août|Paris|Montpellier|43|26||
+2|Orange|3|Samedi 29 Août|Racing 92|Bayonne|18|9||
+3|Orange|3|Samedi 29 Août|Bourgoin|Biarritz|22|17||Bd
+4|Orange|3|Samedi 29 Août|Perpignan|Toulouse|17|15||Bd
+5|Orange|3|Samedi 29 Août|Albi|Toulon|9|15||
+0|Orange|4|Mercredi 02 Septembre|Paris|Montauban|35|40|Bd|
+1|Orange|4|Mercredi 02 Septembre|Toulouse|Bayonne|21|17||Bd
+2|Orange|4|Mercredi 02 Septembre|Toulon|Clermont|26|21||Bd
+3|Orange|4|Mercredi 02 Septembre|Bourgoin|Racing 92|17|13||Bd
+4|Orange|4|Mercredi 02 Septembre|Montpellier|Biarritz|22|18||Bd
+5|Orange|4|Mercredi 02 Septembre|Perpignan|Brive|21|9||
+0|Orange|5|Dimanche 06 Septembre|Montauban|Toulon|21|18||Bd
+1|Orange|5|Dimanche 06 Septembre|Bayonne|Bourgoin|53|6|Bo|
+2|Orange|5|Dimanche 06 Septembre|Castres|Montpellier|33|18|Bo|
+3|Orange|5|Dimanche 06 Septembre|Brive|Albi|39|6|Bo|
+4|Orange|5|Dimanche 06 Septembre|Racing 92|Perpignan|14|18|Bd|
+5|Orange|5|Dimanche 06 Septembre|Biarritz|Paris|30|22||
+6|Orange|5|Dimanche 06 Septembre|Clermont|Toulouse|19|12||
+0|Orange|6|Vendredi 11 Septembre|Bourgoin|Perpignan|17|6||
+1|Orange|6|Samedi 12 Septembre|Toulouse|Albi|19|13||
+2|Orange|6|Samedi 12 Septembre|Montpellier|Toulon|21|20||Bd
+3|Orange|6|Samedi 12 Septembre|Paris|Castres|44|18|Bo|
+4|Orange|6|Samedi 12 Septembre|Montauban|Brive|23|20||Bd
+5|Orange|6|Samedi 12 Septembre|Biarritz|Bayonne|12|6||
+6|Orange|6|Samedi 12 Septembre|Clermont|Racing 92|30|22||
+0|Orange|7|Vendredi 18 Septembre|Bayonne|Montpellier|26|3||
+1|Orange|7|Samedi 19 Septembre|Albi|Clermont|8|40||Bo
+2|Orange|7|Samedi 19 Septembre|Paris|Bourgoin|20|6|Bo|
+3|Orange|7|Samedi 19 Septembre|Brive|Biarritz|12|15|Bd|
+4|Orange|7|Dimanche 20 Septembre|Castres|Racing 92|9|6||Bd
+5|Orange|7|Dimanche 20 Septembre|Perpignan|Montauban|28|9|Bo|
+6|Orange|7|Dimanche 20 Septembre|Toulon|Toulouse|18|13||Bd
+0|Orange|8|Vendredi 25 Septembre|Albi|Bayonne|19|14||Bd
+1|Orange|8|Vendredi 25 Septembre|Brive|Castres|11|9||Bd
+2|Orange|8|Samedi 26 Septembre|Perpignan|Clermont|19|3|Bo|
+3|Orange|8|Samedi 26 Septembre|Racing 92|Montpellier|18|14||Bd
+4|Orange|8|Samedi 26 Septembre|Montauban|Bourgoin|12|15|Bd|
+5|Orange|8|Samedi 26 Septembre|Biarritz|Toulon|23|9|Bo|
+6|Orange|8|Samedi 26 Septembre|Toulouse|Paris|9|9||
+0|Orange|9|Vendredi 02 Octobre|Paris|Brive|44|16|Bo|
+1|Orange|9|Samedi 03 Octobre|Castres|Toulon|21|19||Bd
+2|Orange|9|Samedi 03 Octobre|Clermont|Bayonne|38|13|Bo|
+3|Orange|9|Samedi 03 Octobre|Montpellier|Toulouse|12|30||
+4|Orange|9|Samedi 03 Octobre|Racing 92|Montauban|17|12||Bd
+5|Orange|9|Samedi 03 Octobre|Biarritz|Perpignan|27|12||
+6|Orange|9|Samedi 03 Octobre|Bourgoin|Albi|26|16||
+0|Orange|10|Vendredi 23 Octobre|Bayonne|Castres|6|15||
+1|Orange|10|Samedi 24 Octobre|Toulouse|Biarritz|23|3||
+2|Orange|10|Samedi 24 Octobre|Montpellier|Clermont|16|9||
+3|Orange|10|Samedi 24 Octobre|Toulon|Bourgoin|46|28|Bo|
+4|Orange|10|Samedi 24 Octobre|Brive|Racing 92|10|18||
+5|Orange|10|Samedi 24 Octobre|Montauban|Albi|20|6||
+6|Orange|10|Samedi 24 Octobre|Paris|Perpignan|14|20||
+0|Orange|11|Vendredi 30 Octobre|Perpignan|Castres|17|15||Bd
+1|Orange|11|Samedi 31 Octobre|Albi|Montpellier|15|18|Bd|
+2|Orange|11|Samedi 31 Octobre|Bayonne|Toulon|8|14||
+3|Orange|11|Samedi 31 Octobre|Racing 92|Toulouse|27|20||
+4|Orange|11|Samedi 31 Octobre|Bourgoin|Brive|14|14||
+5|Orange|11|Samedi 31 Octobre|Clermont|Paris|19|19||
+6|Orange|11|Samedi 31 Octobre|Montauban|Biarritz|14|5||
+0|Orange|12|Jeudi 05 Novembre|Brive|Bayonne|19|14||Bd
+1|Orange|12|Jeudi 05 Novembre|Toulouse|Bourgoin|41|3|Bo|
+2|Orange|12|Jeudi 05 Novembre|Castres|Clermont|9|9||
+3|Orange|12|Jeudi 05 Novembre|Montpellier|Montauban|19|0||
+4|Orange|12|Jeudi 05 Novembre|Paris|Albi|23|18||Bd
+5|Orange|12|Jeudi 05 Novembre|Perpignan|Toulon|25|9||
+0|Orange|13|Vendredi 20 Novembre|Albi|Perpignan|24|23||Bd
+1|Orange|13|Samedi 21 Novembre|Bourgoin|Montpellier|20|23|Bd|
+2|Orange|13|Samedi 21 Novembre|Bayonne|Montauban|38|13|Bo|
+3|Orange|13|Samedi 21 Novembre|Toulon|Brive|19|10||
+4|Orange|13|Samedi 21 Novembre|Racing 92|Paris|20|18||Bd
+5|Orange|13|Samedi 21 Novembre|Castres|Toulouse|30|10|Bo|
+6|Orange|13|Samedi 21 Novembre|Clermont|Biarritz|13|16|Bd|
+0|Orange|14|Vendredi 27 Novembre|Paris|Toulon|18|22|Bd|
+1|Orange|14|Vendredi 27 Novembre|Castres|Biarritz|34|6|Bo|
+2|Orange|14|Vendredi 27 Novembre|Racing 92|Albi|9|6||Bd
+3|Orange|14|Samedi 28 Novembre|Montpellier|Brive|3|25||Bo
+4|Orange|14|Samedi 28 Novembre|Toulouse|Montauban|17|12||Bd
+5|Orange|14|Samedi 28 Novembre|Clermont|Bourgoin|32|3|Bo|
+0|Orange|15|Vendredi 04 Décembre|Montauban|Clermont|20|15||Bd
+1|Orange|15|Samedi 05 Décembre|Bourgoin|Castres|16|9||
+2|Orange|15|Samedi 05 Décembre|Perpignan|Montpellier|29|3||
+3|Orange|15|Samedi 05 Décembre|Paris|Bayonne|34|10|Bo|
+4|Orange|15|Dimanche 06 Décembre|Albi|Biarritz|20|9||
+5|Orange|15|Dimanche 06 Décembre|Brive|Toulouse|27|21||
+6|Orange|15|Dimanche 06 Décembre|Racing 92|Toulon|28|15||
+0|Orange|16|Mercredi 30 Décembre|Montpellier|Paris|25|23||Bd
+1|Orange|16|Mercredi 30 Décembre|Castres|Montauban|30|7||
+2|Orange|16|Mercredi 30 Décembre|Clermont|Brive|52|10|Bo|
+3|Orange|16|Mercredi 30 Décembre|Bayonne|Racing 92|19|23|Bd|
+4|Orange|16|Mercredi 30 Décembre|Toulon|Albi|41|13||
+5|Orange|16|Mercredi 30 Décembre|Biarritz|Bourgoin|23|6||
+6|Orange|16|Mercredi 30 Décembre|Toulouse|Perpignan|22|11||
+0|Orange|17|Dimanche 03 Janvier|Racing 92|Bourgoin|17|18|Bd|
+1|Orange|17|Dimanche 03 Janvier|Castres|Albi|44|10|Bo|
+2|Orange|17|Dimanche 03 Janvier|Montauban|Paris|6|6||
+3|Orange|17|Dimanche 03 Janvier|Brive|Perpignan|29|9|Bo|
+4|Orange|17|Dimanche 03 Janvier|Biarritz|Montpellier|26|10|Bo|
+5|Orange|17|Dimanche 03 Janvier|Clermont|Toulon|39|3|Bo|
+6|Orange|17|Dimanche 03 Janvier|Bayonne|Toulouse|13|15|Bd|
+0|Orange|18|Vendredi 08 Janvier|Perpignan|Racing 92|31|12|Bo|
+1|Orange|18|Samedi 09 Janvier|Montpellier|Castres|15|0||
+2|Orange|18|Samedi 09 Janvier|Toulon|Montauban|18|7||
+3|Orange|18|Samedi 09 Janvier|Albi|Brive|15|17|Bd|
+4|Orange|18|Samedi 09 Janvier|Paris|Biarritz|25|15||
+5|Orange|18|Dimanche 10 Janvier|Toulouse|Clermont|15|16|Bd|
+0|Orange|19|Mercredi 27 Janvier|Racing 92|Clermont|33|24||
+1|Orange|19|Mercredi 27 Janvier|Toulon|Montpellier|31|19|Bo|
+2|Orange|19|Mercredi 27 Janvier|Brive|Montauban|19|14||Bd
+3|Orange|19|Mercredi 27 Janvier|Castres|Paris|32|14||
+4|Orange|19|Jeudi 28 Janvier|Albi|Toulouse|6|24||Bo
+5|Orange|19|Jeudi 28 Janvier|Perpignan|Bourgoin|49|20|Bo|
+6|Orange|19|Jeudi 28 Janvier|Bayonne|Biarritz|15|0||
+0|Orange|20|Vendredi 19 Février|Biarritz|Brive|12|6||
+1|Orange|20|Samedi 20 Février|Racing 92|Castres|24|24||
+2|Orange|20|Samedi 20 Février|Bourgoin|Paris|16|22||
+3|Orange|20|Samedi 20 Février|Clermont|Albi|45|18|Bo|
+4|Orange|20|Samedi 20 Février|Montpellier|Bayonne|16|22||
+5|Orange|20|Samedi 20 Février|Montauban|Perpignan|16|13||Bd
+6|Orange|20|Samedi 20 Février|Toulouse|Toulon|3|6|Bd|
+0|Orange|21|Vendredi 05 Mars|Clermont|Perpignan|22|17||Bd
+1|Orange|21|Samedi 06 Mars|Castres|Brive|35|10|Bo|
+2|Orange|21|Samedi 06 Mars|Bourgoin|Montauban|22|14||
+3|Orange|21|Samedi 06 Mars|Toulon|Biarritz|21|20||Bd
+4|Orange|21|Samedi 06 Mars|Bayonne|Albi|46|13|Bo|
+5|Orange|21|Samedi 06 Mars|Paris|Toulouse|0|29||
+6|Orange|21|Samedi 06 Mars|Montpellier|Racing 92|22|19||Bd
+0|Orange|22|Vendredi 12 Mars|Toulon|Castres|19|6||
+1|Orange|22|Vendredi 12 Mars|Bayonne|Clermont|22|13||
+2|Orange|22|Vendredi 12 Mars|Toulouse|Montpellier|34|3|Bo|
+3|Orange|22|Vendredi 12 Mars|Albi|Bourgoin|7|17||
+4|Orange|22|Vendredi 12 Mars|Brive|Paris|26|14||
+5|Orange|22|Vendredi 12 Mars|Perpignan|Biarritz|19|14||Bd
+6|Orange|22|Samedi 13 Mars|Montauban|Racing 92|45|31||
+0|Orange|23|Vendredi 26 Mars|Bourgoin|Toulon|9|13|Bd|
+1|Orange|23|Samedi 27 Mars|Racing 92|Brive|25|18||
+2|Orange|23|Samedi 27 Mars|Clermont|Montpellier|41|3|Bo|
+3|Orange|23|Samedi 27 Mars|Castres|Bayonne|26|10||
+4|Orange|23|Samedi 27 Mars|Perpignan|Paris|44|23|Bo|
+5|Orange|23|Samedi 27 Mars|Albi|Montauban|12|26||
+6|Orange|23|Samedi 27 Mars|Biarritz|Toulouse|26|10||
+0|Orange|24|Vendredi 02 Avril|Toulouse|Racing 92|28|23||Bd
+1|Orange|24|Samedi 03 Avril|Montpellier|Albi|62|17|Bo|
+2|Orange|24|Samedi 03 Avril|Toulon|Bayonne|31|13|Bo|
+3|Orange|24|Samedi 03 Avril|Brive|Bourgoin|25|15||
+4|Orange|24|Samedi 03 Avril|Biarritz|Montauban|42|13|Bo|
+5|Orange|24|Samedi 03 Avril|Paris|Clermont|19|10||
+6|Orange|24|Samedi 03 Avril|Castres|Perpignan|11|17||
+0|Orange|25|Vendredi 16 Avril|Clermont|Castres|25|19||
+1|Orange|25|Samedi 17 Avril|Bourgoin|Toulouse|15|13||Bd
+2|Orange|25|Samedi 17 Avril|Montauban|Montpellier|6|19||
+3|Orange|25|Samedi 17 Avril|Bayonne|Brive|33|25||
+4|Orange|25|Samedi 17 Avril|Albi|Paris|38|24||
+5|Orange|25|Samedi 17 Avril|Toulon|Perpignan|33|23||
+6|Orange|25|Samedi 17 Avril|Racing 92|Biarritz|29|22||
+0|Orange|26|Samedi 24 Avril|Toulouse|Castres|25|17||
+1|Orange|26|Samedi 24 Avril|Montpellier|Bourgoin|34|27||
+2|Orange|26|Samedi 24 Avril|Paris|Racing 92|41|17|Bo|
+3|Orange|26|Samedi 24 Avril|Montauban|Bayonne|22|8||
+4|Orange|26|Samedi 24 Avril|Perpignan|Albi|44|0|Bo|
+5|Orange|26|Samedi 24 Avril|Brive|Toulon|23|26|Bd|
+6|Orange|26|Samedi 24 Avril|Biarritz|Clermont|19|26||
+0|Orange|Matchs de barrage|Vendredi 07 Mai|Clermont|Racing 92|21|17||Bd
+1|Orange|Matchs de barrage|Samedi 08 Mai|Toulouse|Castres|35|12|Bo|
+0|Orange|Demi-finales|Vendredi 14 Mai|Perpignan|Toulouse|21|13||
+1|Orange|Demi-finales|Samedi 15 Mai|Toulon|Clermont|29|35||
+0|Orange|Finale|Samedi 29 Mai|Perpignan|Clermont|6|19||
+0|Orange|1|Vendredi 13 Août|Toulouse|Agen|44|24|Bo|
+1|Orange|1|Vendredi 13 Août|Brive|Racing 92|18|23|Bd|
+2|Orange|1|Vendredi 13 Août|Biarritz|Montpellier|30|22||
+3|Orange|1|Vendredi 13 Août|Toulon|Bayonne|22|26|Bd|
+4|Orange|1|Vendredi 13 Août|Paris|Bourgoin|43|12|Bo|
+5|Orange|1|Vendredi 13 Août|Perpignan|Clermont|21|13||
+6|Orange|1|Samedi 14 Août|La Rochelle|Castres|22|17||Bd
+0|Orange|2|Vendredi 20 Août|Bourgoin|Clermont|12|25||Bo
+1|Orange|2|Vendredi 20 Août|Brive|Perpignan|26|11||
+2|Orange|2|Vendredi 20 Août|Montpellier|Racing 92|36|19|Bo|
+3|Orange|2|Vendredi 20 Août|Bayonne|Agen|27|0|Bo|
+4|Orange|2|Vendredi 20 Août|Paris|La Rochelle|41|26||
+5|Orange|2|Vendredi 20 Août|Biarritz|Toulon|3|13||
+6|Orange|2|Samedi 21 Août|Castres|Toulouse|22|16||
+0|Orange|3|Vendredi 27 Août|Toulon|Racing 92|31|36|Bd|
+1|Orange|3|Samedi 28 Août|Perpignan|Montpellier|6|16||
+2|Orange|3|Samedi 28 Août|Agen|Biarritz|28|23||Bd
+3|Orange|3|Samedi 28 Août|Castres|Bayonne|25|16||
+4|Orange|3|Samedi 28 Août|La Rochelle|Bourgoin|20|12||
+5|Orange|3|Samedi 28 Août|Clermont|Brive|33|9|Bo|
+6|Orange|3|Samedi 28 Août|Toulouse|Paris|34|16||
+0|Orange|4|Mercredi 01 Septembre|Montpellier|Toulouse|22|21||Bd
+1|Orange|4|Mercredi 01 Septembre|Perpignan|Biarritz|17|12||Bd
+2|Orange|4|Mercredi 01 Septembre|Bayonne|Brive|19|18||Bd
+3|Orange|4|Mercredi 01 Septembre|Paris|Castres|40|34||
+4|Orange|4|Mercredi 01 Septembre|Bourgoin|Agen|22|15||
+5|Orange|4|Mercredi 01 Septembre|La Rochelle|Toulon|13|15|Bd|
+6|Orange|4|Mercredi 01 Septembre|Racing 92|Clermont|28|17||
+0|Orange|5|Dimanche 05 Septembre|Castres|Racing 92|31|25||
+1|Orange|5|Dimanche 05 Septembre|Bourgoin|Bayonne|23|28|Bd|
+2|Orange|5|Dimanche 05 Septembre|Agen|Perpignan|23|23||
+3|Orange|5|Dimanche 05 Septembre|Toulouse|La Rochelle|50|3|Bo|
+4|Orange|5|Dimanche 05 Septembre|Clermont|Montpellier|27|10||
+5|Orange|5|Dimanche 05 Septembre|Brive|Toulon|27|9|Bo|
+6|Orange|5|Dimanche 05 Septembre|Biarritz|Paris|19|11||
+0|Orange|6|Vendredi 10 Septembre|Bayonne|Clermont|18|16||Bd
+1|Orange|6|Samedi 11 Septembre|Montpellier|Castres|23|12||
+2|Orange|6|Samedi 11 Septembre|Racing 92|La Rochelle|43|18|Bo|
+3|Orange|6|Samedi 11 Septembre|Perpignan|Bourgoin|27|20||
+4|Orange|6|Samedi 11 Septembre|Paris|Brive|27|29|Bd|
+5|Orange|6|Samedi 11 Septembre|Toulon|Agen|41|10|Bo|
+6|Orange|6|Samedi 11 Septembre|Biarritz|Toulouse|25|20||Bd
+0|Orange|7|Vendredi 17 Septembre|Toulouse|Bayonne|29|20||
+1|Orange|7|Samedi 18 Septembre|Castres|Brive|28|6||
+2|Orange|7|Samedi 18 Septembre|La Rochelle|Biarritz|23|29||
+3|Orange|7|Samedi 18 Septembre|Racing 92|Bourgoin|51|20|Bo|
+4|Orange|7|Samedi 18 Septembre|Perpignan|Paris|22|21||Bd
+5|Orange|7|Samedi 18 Septembre|Toulon|Clermont|28|16||
+6|Orange|7|Samedi 18 Septembre|Agen|Montpellier|6|35||Bo
+0|Orange|8|Vendredi 24 Septembre|Bourgoin|Toulon|3|26||
+1|Orange|8|Samedi 25 Septembre|Racing 92|Biarritz|17|12||Bd
+2|Orange|8|Samedi 25 Septembre|Clermont|Castres|24|6||
+3|Orange|8|Samedi 25 Septembre|Brive|Toulouse|16|16||
+4|Orange|8|Samedi 25 Septembre|Agen|Paris|12|27||
+5|Orange|8|Samedi 25 Septembre|Bayonne|Perpignan|25|26|Bd|
+6|Orange|8|Samedi 25 Septembre|Montpellier|La Rochelle|26|6|Bo|
+0|Orange|9|Vendredi 01 Octobre|Toulon|Castres|22|15||
+1|Orange|9|Samedi 02 Octobre|Bourgoin|Brive|18|3||
+2|Orange|9|Samedi 02 Octobre|Perpignan|La Rochelle|21|16||Bd
+3|Orange|9|Samedi 02 Octobre|Paris|Montpellier|30|13||
+4|Orange|9|Samedi 02 Octobre|Clermont|Agen|45|19|Bo|
+5|Orange|9|Samedi 02 Octobre|Toulouse|Racing 92|28|23||Bd
+6|Orange|9|Samedi 02 Octobre|Bayonne|Biarritz|19|22|Bd|
+0|Orange|10|Vendredi 22 Octobre|Racing 92|Bayonne|15|9||
+1|Orange|10|Samedi 23 Octobre|Toulouse|Perpignan|38|29|Bo|
+2|Orange|10|Samedi 23 Octobre|La Rochelle|Brive|26|21||Bd
+3|Orange|10|Samedi 23 Octobre|Montpellier|Bourgoin|28|3|Bo|
+4|Orange|10|Samedi 23 Octobre|Castres|Agen|38|11|Bo|
+5|Orange|10|Samedi 23 Octobre|Biarritz|Clermont|16|13||Bd
+6|Orange|10|Samedi 23 Octobre|Paris|Toulon|22|15||
+0|Orange|11|Vendredi 29 Octobre|Racing 92|Perpignan|18|18||
+1|Orange|11|Samedi 30 Octobre|Clermont|Paris|27|3|Bo|
+2|Orange|11|Samedi 30 Octobre|Agen|La Rochelle|29|14||
+3|Orange|11|Samedi 30 Octobre|Brive|Biarritz|21|27||
+4|Orange|11|Samedi 30 Octobre|Bayonne|Montpellier|18|29||
+5|Orange|11|Samedi 30 Octobre|Castres|Bourgoin|41|24|Bo|
+6|Orange|11|Samedi 30 Octobre|Toulouse|Toulon|44|5|Bo|
+0|Orange|12|Jeudi 04 Novembre|Perpignan|Toulon|20|29||
+1|Orange|12|Jeudi 04 Novembre|Agen|Racing 92|21|20||Bd
+2|Orange|12|Jeudi 04 Novembre|Biarritz|Castres|17|17||
+3|Orange|12|Jeudi 04 Novembre|Paris|Bayonne|20|24|Bd|
+4|Orange|12|Jeudi 04 Novembre|Montpellier|Brive|35|9|Bo|
+5|Orange|12|Jeudi 04 Novembre|La Rochelle|Clermont|22|14||
+6|Orange|12|Jeudi 04 Novembre|Bourgoin|Toulouse|11|35||Bo
+0|Orange|13|Vendredi 03 Décembre|Toulon|Montpellier|29|13||
+1|Orange|13|Samedi 04 Décembre|Racing 92|Paris|15|13||Bd
+2|Orange|13|Samedi 04 Décembre|Castres|Perpignan|23|13||
+3|Orange|13|Samedi 04 Décembre|Brive|Agen|12|30||Bo
+4|Orange|13|Samedi 04 Décembre|Bayonne|La Rochelle|23|14||
+5|Orange|13|Samedi 04 Décembre|Clermont|Toulouse|32|25||
+6|Orange|13|Dimanche 05 Décembre|Biarritz|Bourgoin|37|20|Bo|
+0|Orange|14|Mercredi 29 Décembre|Montpellier|Biarritz|22|16||
+1|Orange|14|Mercredi 29 Décembre|Bayonne|Toulon|20|9||
+2|Orange|14|Mercredi 29 Décembre|Agen|Toulouse|8|25||
+3|Orange|14|Mercredi 29 Décembre|Castres|La Rochelle|25|10||
+4|Orange|14|Mercredi 29 Décembre|Bourgoin|Paris|16|26||
+5|Orange|14|Mercredi 29 Décembre|Racing 92|Brive|6|6||
+6|Orange|14|Mercredi 29 Décembre|Clermont|Perpignan|22|16||
+0|Orange|15|Dimanche 02 Janvier|Agen|Bayonne|21|3||
+1|Orange|15|Dimanche 02 Janvier|Toulon|Biarritz|38|26||
+2|Orange|15|Dimanche 02 Janvier|Perpignan|Brive|23|16||
+3|Orange|15|Dimanche 02 Janvier|Clermont|Bourgoin|34|9|Bo|
+4|Orange|15|Dimanche 02 Janvier|La Rochelle|Paris|26|26||
+5|Orange|15|Dimanche 02 Janvier|Racing 92|Montpellier|28|16||
+6|Orange|15|Dimanche 02 Janvier|Toulouse|Castres|23|16||
+0|Orange|16|Vendredi 07 Janvier|Brive|Clermont|29|22||
+1|Orange|16|Samedi 08 Janvier|Montpellier|Perpignan|12|12||
+2|Orange|16|Samedi 08 Janvier|Biarritz|Agen|65|22|Bo|
+3|Orange|16|Samedi 08 Janvier|Bayonne|Castres|25|22||Bd
+4|Orange|16|Samedi 08 Janvier|Bourgoin|La Rochelle|14|44||Bo
+5|Orange|16|Samedi 08 Janvier|Paris|Toulouse|31|3|Bo|
+6|Orange|16|Dimanche 09 Janvier|Racing 92|Toulon|15|12||Bd
+0|Orange|17|Mercredi 26 Janvier|Clermont|Racing 92|31|15|Bo|
+1|Orange|17|Jeudi 27 Janvier|Castres|Paris|34|12|Bo|
+2|Orange|17|Jeudi 27 Janvier|Agen|Bourgoin|26|9||
+3|Orange|17|Jeudi 27 Janvier|Toulon|La Rochelle|12|9||Bd
+4|Orange|17|Jeudi 27 Janvier|Brive|Bayonne|18|26||
+5|Orange|17|Jeudi 27 Janvier|Biarritz|Perpignan|23|21||Bd
+6|Orange|17|Jeudi 27 Janvier|Toulouse|Montpellier|29|9|Bo|
+0|Orange|18|Vendredi 11 Février|La Rochelle|Toulouse|19|22|Bd|
+1|Orange|18|Samedi 12 Février|Toulon|Brive|22|16||
+2|Orange|18|Samedi 12 Février|Racing 92|Castres|20|13||
+3|Orange|18|Samedi 12 Février|Perpignan|Agen|31|18|Bo|
+4|Orange|18|Samedi 12 Février|Bayonne|Bourgoin|24|7||
+5|Orange|18|Samedi 12 Février|Montpellier|Clermont|29|9|Bo|
+6|Orange|18|Samedi 12 Février|Paris|Biarritz|31|18||
+0|Orange|19|Vendredi 18 Février|Brive|Paris|26|10||
+1|Orange|19|Samedi 19 Février|Bourgoin|Perpignan|15|32||
+2|Orange|19|Samedi 19 Février|La Rochelle|Racing 92|24|32||
+3|Orange|19|Samedi 19 Février|Castres|Montpellier|43|29||
+4|Orange|19|Samedi 19 Février|Clermont|Bayonne|24|19||Bd
+5|Orange|19|Samedi 19 Février|Toulouse|Biarritz|23|19||Bd
+6|Orange|19|Samedi 19 Février|Agen|Toulon|23|13||
+0|Orange|20|Vendredi 04 Mars|Clermont|Toulon|19|12||
+1|Orange|20|Samedi 05 Mars|Paris|Perpignan|9|21||
+2|Orange|20|Samedi 05 Mars|Bourgoin|Racing 92|19|38||Bo
+3|Orange|20|Samedi 05 Mars|Biarritz|La Rochelle|32|30||Bd
+4|Orange|20|Samedi 05 Mars|Brive|Castres|12|20||
+5|Orange|20|Samedi 05 Mars|Bayonne|Toulouse|19|13||
+6|Orange|20|Samedi 05 Mars|Montpellier|Agen|25|24||Bd
+0|Orange|21|Vendredi 11 Mars|Perpignan|Bayonne|25|19||
+1|Orange|21|Samedi 12 Mars|Biarritz|Racing 92|36|32||Bd
+2|Orange|21|Samedi 12 Mars|Paris|Agen|22|18||Bd
+3|Orange|21|Samedi 12 Mars|Toulouse|Brive|23|22||Bd
+4|Orange|21|Samedi 12 Mars|Toulon|Bourgoin|39|17|Bo|
+5|Orange|21|Samedi 12 Mars|La Rochelle|Montpellier|20|16||Bd
+6|Orange|21|Samedi 12 Mars|Castres|Clermont|23|19||Bd
+0|Orange|22|Vendredi 25 Mars|Castres|Toulon|18|12||
+1|Orange|22|Samedi 26 Mars|Brive|Bourgoin|50|6|Bo|
+2|Orange|22|Samedi 26 Mars|Agen|Clermont|26|17||
+3|Orange|22|Samedi 26 Mars|La Rochelle|Perpignan|16|34||Bo
+4|Orange|22|Samedi 26 Mars|Biarritz|Bayonne|40|10|Bo|
+5|Orange|22|Samedi 26 Mars|Racing 92|Toulouse|43|21|Bo|
+6|Orange|22|Dimanche 27 Mars|Montpellier|Paris|29|23||
+0|Orange|23|Vendredi 01 Avril|Perpignan|Toulouse|24|25|Bd|
+1|Orange|23|Samedi 02 Avril|Toulon|Paris|38|10|Bo|
+2|Orange|23|Samedi 02 Avril|Brive|La Rochelle|26|9|Bo|
+3|Orange|23|Samedi 02 Avril|Bayonne|Racing 92|26|16||
+4|Orange|23|Samedi 02 Avril|Bourgoin|Montpellier|27|42||
+5|Orange|23|Samedi 02 Avril|Clermont|Biarritz|41|13|Bo|
+6|Orange|23|Samedi 02 Avril|Agen|Castres|21|16||Bd
+0|Orange|24|Vendredi 15 Avril|La Rochelle|Agen|19|29||
+1|Orange|24|Samedi 16 Avril|Paris|Clermont|12|20||
+2|Orange|24|Samedi 16 Avril|Biarritz|Brive|52|26|Bo|
+3|Orange|24|Samedi 16 Avril|Perpignan|Racing 92|23|16||
+4|Orange|24|Samedi 16 Avril|Montpellier|Bayonne|17|22|Bd|
+5|Orange|24|Samedi 16 Avril|Bourgoin|Castres|22|33||
+6|Orange|24|Samedi 16 Avril|Toulon|Toulouse|21|9||
+0|Orange|25|Vendredi 22 Avril|Castres|Biarritz|16|13||Bd
+1|Orange|25|Samedi 23 Avril|Racing 92|Agen|51|34|Bo|
+2|Orange|25|Samedi 23 Avril|Bayonne|Paris|54|20|Bo|
+3|Orange|25|Samedi 23 Avril|Toulouse|Bourgoin|33|0|Bo|
+4|Orange|25|Samedi 23 Avril|Clermont|La Rochelle|34|10|Bo|
+5|Orange|25|Samedi 23 Avril|Toulon|Perpignan|43|12|Bo|
+6|Orange|25|Samedi 23 Avril|Brive|Montpellier|23|21||Bd
+0|Orange|26|Samedi 07 Mai|Perpignan|Castres|10|29||
+1|Orange|26|Samedi 07 Mai|Paris|Racing 92|16|29||
+2|Orange|26|Samedi 07 Mai|Montpellier|Toulon|27|3|Bo|
+3|Orange|26|Samedi 07 Mai|Bourgoin|Biarritz|18|22|Bd|
+4|Orange|26|Samedi 07 Mai|Agen|Brive|36|10|Bo|
+5|Orange|26|Samedi 07 Mai|La Rochelle|Bayonne|17|30||
+6|Orange|26|Samedi 07 Mai|Toulouse|Clermont|15|6||
+0|Orange|Barrages|Vendredi 13 Mai|Clermont|Biarritz|27|17||
+1|Orange|Barrages|Samedi 14 Mai|Castres|Montpellier|17|18|Bd|
+0|Orange|Demi-finales|Vendredi 27 Mai|Toulouse|Clermont|29|6||
+1|Orange|Demi-finales|Samedi 28 Mai|Racing 92|Montpellier|25|26|Bd|
+0|Orange|Finale|Samedi 04 Juin|Toulouse|Montpellier|15|10||Bd
+0|Orange|1|Vendredi 26 Août|Bayonne|Toulouse|18|13||Bd
+1|Orange|1|Vendredi 26 Août|Perpignan|Castres|25|6||
+2|Orange|1|Vendredi 26 Août|Racing 92|Montpellier|30|22||
+3|Orange|1|Vendredi 26 Août|Paris|Bordeaux-Bègles|41|20|Bo|
+4|Orange|1|Vendredi 26 Août|Clermont|Lyon|22|13||
+5|Orange|1|Vendredi 26 Août|Brive|Agen|19|20|Bd|
+6|Orange|1|Samedi 27 Août|Toulon|Biarritz|30|5||
+0|Orange|2|Samedi 03 Septembre|Castres|Paris|35|10|Bo|
+1|Orange|2|Samedi 03 Septembre|Racing 92|Perpignan|47|23|Bo|
+2|Orange|2|Samedi 03 Septembre|Biarritz|Agen|9|9||
+3|Orange|2|Samedi 03 Septembre|Montpellier|Brive|12|28||
+4|Orange|2|Samedi 03 Septembre|Toulon|Clermont|0|17||
+5|Orange|2|Samedi 03 Septembre|Bordeaux-Bègles|Bayonne|18|6||
+6|Orange|2|Dimanche 04 Septembre|Lyon|Toulouse|9|19||
+0|Orange|3|Vendredi 09 Septembre|Clermont|Bordeaux-Bègles|34|6|Bo|
+1|Orange|3|Vendredi 09 Septembre|Biarritz|Castres|18|23|Bd|
+2|Orange|3|Vendredi 09 Septembre|Agen|Lyon|24|18||
+3|Orange|3|Vendredi 09 Septembre|Perpignan|Brive|12|9||Bd
+4|Orange|3|Vendredi 09 Septembre|Bayonne|Toulon|12|12||
+5|Orange|3|Vendredi 09 Septembre|Paris|Montpellier|19|19||
+6|Orange|3|Samedi 10 Septembre|Toulouse|Racing 92|41|36||Bd
+0|Orange|4|Vendredi 16 Septembre|Castres|Agen|30|11|Bo|
+1|Orange|4|Vendredi 16 Septembre|Brive|Lyon|12|15|Bd|
+2|Orange|4|Vendredi 16 Septembre|Paris|Bayonne|33|18||
+3|Orange|4|Vendredi 16 Septembre|Perpignan|Montpellier|19|12||
+4|Orange|4|Vendredi 16 Septembre|Bordeaux-Bègles|Toulon|16|27||
+5|Orange|4|Vendredi 16 Septembre|Toulouse|Biarritz|24|0|Bo|
+6|Orange|4|Samedi 17 Septembre|Racing 92|Clermont|11|22||
+0|Orange|5|Vendredi 23 Septembre|Biarritz|Perpignan|24|29|Bd|
+1|Orange|5|Vendredi 23 Septembre|Montpellier|Bordeaux-Bègles|16|20|Bd|
+2|Orange|5|Vendredi 23 Septembre|Clermont|Bayonne|19|13||
+3|Orange|5|Vendredi 23 Septembre|Castres|Brive|30|24||
+4|Orange|5|Vendredi 23 Septembre|Racing 92|Lyon|25|12||
+5|Orange|5|Vendredi 23 Septembre|Agen|Toulouse|23|24|Bd|
+6|Orange|5|Samedi 24 Septembre|Toulon|Paris|34|8|Bo|
+0|Orange|6|Vendredi 30 Septembre|Lyon|Castres|16|18|Bd|
+1|Orange|6|Vendredi 30 Septembre|Perpignan|Agen|12|19||
+2|Orange|6|Vendredi 30 Septembre|Bordeaux-Bègles|Biarritz|11|13|Bd|
+3|Orange|6|Vendredi 30 Septembre|Paris|Brive|28|17||
+4|Orange|6|Vendredi 30 Septembre|Bayonne|Racing 92|27|23||Bd
+5|Orange|6|Vendredi 30 Septembre|Montpellier|Toulon|19|6||
+6|Orange|6|Samedi 01 Octobre|Toulouse|Clermont|22|9|Bo|
+0|Orange|7|Vendredi 14 Octobre|Brive|Biarritz|32|7|Bo|
+1|Orange|7|Vendredi 14 Octobre|Clermont|Agen|29|13||
+2|Orange|7|Vendredi 14 Octobre|Bordeaux-Bègles|Racing 92|22|18||Bd
+3|Orange|7|Vendredi 14 Octobre|Bayonne|Montpellier|17|26||
+4|Orange|7|Vendredi 14 Octobre|Castres|Toulouse|24|3||
+5|Orange|7|Samedi 15 Octobre|Toulon|Perpignan|38|0|Bo|
+6|Orange|7|Dimanche 16 Octobre|Lyon|Paris|18|6||
+0|Orange|8|Vendredi 21 Octobre|Perpignan|Clermont|3|39||Bo
+1|Orange|8|Samedi 22 Octobre|Montpellier|Castres|16|21|Bd|
+2|Orange|8|Samedi 22 Octobre|Brive|Bayonne|30|10|Bo|
+3|Orange|8|Samedi 22 Octobre|Toulouse|Bordeaux-Bègles|56|6|Bo|
+4|Orange|8|Samedi 22 Octobre|Biarritz|Lyon|15|15||
+5|Orange|8|Samedi 22 Octobre|Agen|Paris|37|13|Bo|
+6|Orange|8|Samedi 22 Octobre|Racing 92|Toulon|9|16||
+0|Orange|9|Vendredi 28 Octobre|Castres|Racing 92|19|23|Bd|
+1|Orange|9|Samedi 29 Octobre|Bayonne|Perpignan|18|16||Bd
+2|Orange|9|Samedi 29 Octobre|Toulon|Brive|18|3||
+3|Orange|9|Samedi 29 Octobre|Clermont|Biarritz|41|0|Bo|
+4|Orange|9|Samedi 29 Octobre|Toulouse|Paris|18|15||Bd
+5|Orange|9|Samedi 29 Octobre|Agen|Montpellier|18|12||
+0|Orange|10|Vendredi 04 Novembre|Brive|Racing 92|12|18||
+1|Orange|10|Samedi 05 Novembre|Toulouse|Perpignan|21|17||Bd
+2|Orange|10|Samedi 05 Novembre|Bordeaux-Bègles|Castres|24|9||
+3|Orange|10|Samedi 05 Novembre|Paris|Clermont|37|16|Bo|
+0|Orange|11|Vendredi 25 Novembre|Bayonne|Lyon|15|9||
+1|Orange|11|Vendredi 25 Novembre|Racing 92|Biarritz|28|9|Bo|
+2|Orange|11|Vendredi 25 Novembre|Perpignan|Paris|16|35||Bo
+3|Orange|11|Samedi 26 Novembre|Brive|Toulouse|9|9||
+4|Orange|11|Samedi 26 Novembre|Montpellier|Clermont|29|23||
+5|Orange|11|Samedi 26 Novembre|Castres|Toulon|22|22||
+6|Orange|11|Samedi 26 Novembre|Agen|Bordeaux-Bègles|24|15||
+0|Orange|12|Vendredi 02 Décembre|Bordeaux-Bègles|Brive|16|12||Bd
+1|Orange|12|Samedi 03 Décembre|Toulouse|Toulon|33|12|Bo|
+2|Orange|12|Samedi 03 Décembre|Clermont|Castres|33|16||
+3|Orange|12|Samedi 03 Décembre|Paris|Racing 92|29|3||
+4|Orange|12|Dimanche 04 Décembre|Lyon|Perpignan|19|12||
+5|Orange|12|Dimanche 04 Décembre|Agen|Bayonne|37|18||
+6|Orange|12|Dimanche 04 Décembre|Biarritz|Montpellier|23|30||Bo
+0|Orange|13|Vendredi 23 Décembre|Brive|Clermont|6|9|Bd|
+1|Orange|13|Vendredi 23 Décembre|Paris|Biarritz|23|10||
+2|Orange|13|Vendredi 23 Décembre|Toulon|Lyon|20|15||Bd
+3|Orange|13|Vendredi 23 Décembre|Bayonne|Castres|16|16||
+4|Orange|13|Vendredi 23 Décembre|Perpignan|Bordeaux-Bègles|38|13|Bo|
+5|Orange|13|Vendredi 23 Décembre|Racing 92|Agen|26|8||
+6|Orange|13|Vendredi 23 Décembre|Montpellier|Toulouse|25|45||
+0|Orange|14|Vendredi 30 Décembre|Toulouse|Bayonne|30|15||
+1|Orange|14|Samedi 31 Décembre|Montpellier|Racing 92|29|14||
+2|Orange|14|Samedi 31 Décembre|Castres|Perpignan|33|6|Bo|
+3|Orange|14|Samedi 31 Décembre|Bordeaux-Bègles|Paris|39|6|Bo|
+4|Orange|14|Samedi 31 Décembre|Lyon|Clermont|6|6||
+5|Orange|14|Samedi 31 Décembre|Agen|Brive|15|9||
+6|Orange|14|Samedi 31 Décembre|Biarritz|Toulon|25|6||
+0|Orange|15|Vendredi 06 Janvier|Agen|Biarritz|6|15||
+1|Orange|15|Samedi 07 Janvier|Toulouse|Lyon|51|10|Bo|
+2|Orange|15|Samedi 07 Janvier|Brive|Montpellier|9|23||
+3|Orange|15|Samedi 07 Janvier|Paris|Castres|38|21|Bo|
+4|Orange|15|Samedi 07 Janvier|Bayonne|Bordeaux-Bègles|20|27||
+5|Orange|15|Samedi 07 Janvier|Perpignan|Racing 92|14|14||
+6|Orange|15|Dimanche 08 Janvier|Clermont|Toulon|25|19||
+0|Orange|16|Vendredi 27 Janvier|Montpellier|Paris|38|6|Bo|
+1|Orange|16|Samedi 28 Janvier|Castres|Biarritz|29|23||
+2|Orange|16|Samedi 28 Janvier|Lyon|Agen|19|11||
+3|Orange|16|Samedi 28 Janvier|Brive|Perpignan|17|9||
+4|Orange|16|Samedi 28 Janvier|Toulon|Bayonne|50|10|Bo|
+5|Orange|16|Samedi 28 Janvier|Racing 92|Toulouse|13|19||
+6|Orange|16|Samedi 28 Janvier|Bordeaux-Bègles|Clermont|10|17||
+0|Orange|17|Vendredi 10 Février|Montpellier|Perpignan|22|11||
+1|Orange|17|Vendredi 10 Février|Biarritz|Toulouse|15|20|Bd|Bo
+2|Orange|17|Samedi 11 Février|Bayonne|Paris|26|20||
+3|Orange|17|Samedi 11 Février|Toulon|Bordeaux-Bègles|44|7|Bo|
+4|Orange|17|Samedi 11 Février|Clermont|Racing 92|31|13|Bo|
+0|Orange|18|Vendredi 17 Février|Perpignan|Biarritz|25|6||
+1|Orange|18|Samedi 18 Février|Bordeaux-Bègles|Montpellier|26|30|Bd|
+2|Orange|18|Samedi 18 Février|Bayonne|Clermont|22|22||
+3|Orange|18|Samedi 18 Février|Brive|Castres|13|15|Bd|
+4|Orange|18|Samedi 18 Février|Lyon|Racing 92|22|33||
+5|Orange|18|Samedi 18 Février|Toulouse|Agen|21|10||
+6|Orange|18|Samedi 18 Février|Paris|Toulon|19|19||
+0|Orange|19|Vendredi 02 Mars|Toulon|Montpellier|19|6||
+1|Orange|19|Samedi 03 Mars|Agen|Perpignan|22|17||Bd
+2|Orange|19|Samedi 03 Mars|Racing 92|Bayonne|22|21||Bd
+3|Orange|19|Samedi 03 Mars|Biarritz|Bordeaux-Bègles|38|13|Bo|
+4|Orange|19|Samedi 03 Mars|Brive|Paris|25|9||
+5|Orange|19|Samedi 03 Mars|Clermont|Toulouse|35|5||
+6|Orange|19|Samedi 03 Mars|Castres|Lyon|6|6||
+0|Orange|20|Vendredi 09 Mars|Racing 92|Bordeaux-Bègles|22|13||
+1|Orange|20|Samedi 10 Mars|Toulouse|Castres|34|27||
+2|Orange|20|Samedi 10 Mars|Montpellier|Bayonne|37|26||
+3|Orange|20|Samedi 10 Mars|Paris|Lyon|40|19|Bo|
+4|Orange|20|Samedi 10 Mars|Agen|Clermont|20|29||
+5|Orange|20|Samedi 10 Mars|Biarritz|Brive|26|11||
+6|Orange|20|Samedi 10 Mars|Perpignan|Toulon|22|22||
+0|Orange|21|Vendredi 23 Mars|Bordeaux-Bègles|Toulouse|18|17||Bd
+1|Orange|21|Samedi 24 Mars|Lyon|Biarritz|17|34||
+2|Orange|21|Samedi 24 Mars|Castres|Montpellier|27|18||
+3|Orange|21|Samedi 24 Mars|Clermont|Perpignan|29|23||
+4|Orange|21|Samedi 24 Mars|Paris|Agen|53|27|Bo|
+5|Orange|21|Samedi 24 Mars|Toulon|Racing 92|32|20||
+6|Orange|21|Samedi 24 Mars|Bayonne|Brive|19|12||
+0|Orange|22|Vendredi 30 Mars|Racing 92|Castres|27|16|Bo|
+1|Orange|22|Samedi 31 Mars|Biarritz|Clermont|15|14||Bd
+2|Orange|22|Samedi 31 Mars|Perpignan|Bayonne|47|9|Bo|
+3|Orange|22|Samedi 31 Mars|Lyon|Bordeaux-Bègles|24|13||
+4|Orange|22|Samedi 31 Mars|Montpellier|Agen|44|18|Bo|
+5|Orange|22|Samedi 31 Mars|Brive|Toulon|14|9||Bd
+6|Orange|22|Samedi 31 Mars|Paris|Toulouse|18|22|Bd|
+0|Orange|23|Vendredi 13 Avril|Perpignan|Toulouse|25|10||
+1|Orange|23|Samedi 14 Avril|Agen|Toulon|22|13||
+2|Orange|23|Samedi 14 Avril|Racing 92|Brive|40|19|Bo|
+3|Orange|23|Samedi 14 Avril|Montpellier|Lyon|43|12|Bo|
+4|Orange|23|Samedi 14 Avril|Clermont|Paris|25|9||
+5|Orange|23|Samedi 14 Avril|Bayonne|Biarritz|24|19||Bd
+6|Orange|23|Samedi 14 Avril|Castres|Bordeaux-Bègles|44|20||
+0|Orange|24|Vendredi 20 Avril|Clermont|Montpellier|22|9||
+1|Orange|24|Samedi 21 Avril|Toulouse|Brive|30|21||
+2|Orange|24|Samedi 21 Avril|Paris|Perpignan|35|31||Bd
+3|Orange|24|Samedi 21 Avril|Lyon|Bayonne|19|20|Bd|
+4|Orange|24|Samedi 21 Avril|Bordeaux-Bègles|Agen|29|15||
+5|Orange|24|Samedi 21 Avril|Biarritz|Racing 92|22|13||
+6|Orange|24|Samedi 21 Avril|Toulon|Castres|25|25||
+0|Orange|25|Vendredi 04 Mai|Montpellier|Biarritz|21|16||Bd
+1|Orange|25|Samedi 05 Mai|Toulon|Toulouse|25|22||Bd
+2|Orange|25|Samedi 05 Mai|Perpignan|Lyon|34|22||
+3|Orange|25|Samedi 05 Mai|Brive|Bordeaux-Bègles|9|23||
+4|Orange|25|Samedi 05 Mai|Bayonne|Agen|31|10|Bo|
+5|Orange|25|Samedi 05 Mai|Castres|Clermont|30|19||
+6|Orange|25|Samedi 05 Mai|Racing 92|Paris|19|13||
+0|Orange|26|Samedi 12 Mai|Clermont|Brive|57|14|Bo|
+1|Orange|26|Samedi 12 Mai|Biarritz|Paris|16|5||
+2|Orange|26|Samedi 12 Mai|Lyon|Toulon|5|29||
+3|Orange|26|Samedi 12 Mai|Agen|Racing 92|25|22||Bd
+4|Orange|26|Samedi 12 Mai|Bordeaux-Bègles|Perpignan|37|29||
+5|Orange|26|Samedi 12 Mai|Toulouse|Montpellier|20|13||
+6|Orange|26|Samedi 12 Mai|Castres|Bayonne|31|29||Bd
+0|Orange|Barrages|Vendredi 25 Mai|Castres|Montpellier|31|15||
+1|Orange|Barrages|Samedi 26 Mai|Toulon|Racing 92|17|13||Bd
+0|Orange|Demi-Finales|Samedi 02 Juin|Toulouse|Castres|24|15||
+1|Orange|Demi-Finales|Dimanche 03 Juin|Clermont|Toulon|12|15|Bd|
+0|Orange|Finale|Samedi 09 Juin|Toulouse|Toulon|18|12||
+0|2012-2013|1|Vendredi 17 Août|Toulouse|Castres|23|22||Bd
+1|2012-2013|1|Samedi 18 Août|Biarritz|Mont-de-Marsan|35|10|Bo|
+2|2012-2013|1|Samedi 18 Août|Agen|Racing 92|20|24|Bd|
+3|2012-2013|1|Samedi 18 Août|Paris|Montpellier|32|16||
+4|2012-2013|1|Samedi 18 Août|Bordeaux-Bègles|Grenoble|28|29|Bd|
+5|2012-2013|1|Samedi 18 Août|Bayonne|Clermont|6|13||
+6|2012-2013|1|Samedi 18 Août|Perpignan|Toulon|15|21||
+0|2012-2013|2|Vendredi 24 Août|Bordeaux-Bègles|Perpignan|26|22||Bd
+1|2012-2013|2|Samedi 25 Août|Racing 92|Toulon|21|23|Bd|
+2|2012-2013|2|Samedi 25 Août|Toulouse|Mont-de-Marsan|37|22|Bo|
+3|2012-2013|2|Samedi 25 Août|Montpellier|Clermont|13|8||Bd
+4|2012-2013|2|Samedi 25 Août|Castres|Grenoble|30|13||
+5|2012-2013|2|Samedi 25 Août|Bayonne|Paris|24|11||
+6|2012-2013|2|Samedi 25 Août|Agen|Biarritz|19|25||
+0|2012-2013|3|Vendredi 31 Août|Grenoble|Paris|26|12||
+1|2012-2013|3|Samedi 01 Septembre|Biarritz|Toulouse|22|17||Bd
+2|2012-2013|3|Samedi 01 Septembre|Montpellier|Agen|32|15|Bo|
+3|2012-2013|3|Samedi 01 Septembre|Castres|Bayonne|31|10||
+4|2012-2013|3|Samedi 01 Septembre|Clermont|Perpignan|53|31|Bo|
+5|2012-2013|3|Samedi 01 Septembre|Racing 92|Bordeaux-Bègles|18|7||
+6|2012-2013|3|Samedi 01 Septembre|Mont-de-Marsan|Toulon|15|29||Bo
+0|2012-2013|4|Samedi 08 Septembre|Biarritz|Montpellier|27|8||
+1|2012-2013|4|Samedi 08 Septembre|Perpignan|Bayonne|18|13||Bd
+2|2012-2013|4|Samedi 08 Septembre|Grenoble|Mont-de-Marsan|52|7|Bo|
+3|2012-2013|4|Samedi 08 Septembre|Toulouse|Agen|62|13|Bo|
+4|2012-2013|4|Samedi 08 Septembre|Paris|Castres|20|20||
+5|2012-2013|4|Samedi 08 Septembre|Toulon|Bordeaux-Bègles|42|12|Bo|
+6|2012-2013|4|Dimanche 09 Septembre|Clermont|Racing 92|13|12||Bd
+0|2012-2013|5|Vendredi 14 Septembre|Montpellier|Toulon|25|32||
+1|2012-2013|5|Samedi 15 Septembre|Perpignan|Toulouse|34|20|Bo|
+2|2012-2013|5|Samedi 15 Septembre|Bayonne|Racing 92|18|25||
+3|2012-2013|5|Samedi 15 Septembre|Mont-de-Marsan|Clermont|6|14||
+4|2012-2013|5|Samedi 15 Septembre|Agen|Grenoble|32|26||
+5|2012-2013|5|Samedi 15 Septembre|Castres|Biarritz|28|13||
+6|2012-2013|5|Samedi 15 Septembre|Bordeaux-Bègles|Paris|30|22||
+0|2012-2013|6|Vendredi 21 Septembre|Bayonne|Toulouse|6|35||Bo
+1|2012-2013|6|Samedi 22 Septembre|Toulon|Castres|33|12|Bo|
+2|2012-2013|6|Samedi 22 Septembre|Bordeaux-Bègles|Montpellier|15|23||Bo
+3|2012-2013|6|Samedi 22 Septembre|Paris|Perpignan|34|24||
+4|2012-2013|6|Samedi 22 Septembre|Clermont|Grenoble|44|20|Bo|
+5|2012-2013|6|Samedi 22 Septembre|Mont-de-Marsan|Agen|16|28||
+6|2012-2013|6|Samedi 22 Septembre|Racing 92|Biarritz|13|12||Bd
+0|2012-2013|7|Vendredi 28 Septembre|Clermont|Paris|28|25||Bd
+1|2012-2013|7|Samedi 29 Septembre|Perpignan|Mont-de-Marsan|15|6||
+2|2012-2013|7|Samedi 29 Septembre|Grenoble|Racing 92|27|13||
+3|2012-2013|7|Samedi 29 Septembre|Montpellier|Castres|19|12||
+4|2012-2013|7|Samedi 29 Septembre|Agen|Bordeaux-Bègles|19|15||Bd
+5|2012-2013|7|Samedi 29 Septembre|Toulouse|Toulon|32|9||
+6|2012-2013|7|Dimanche 30 Septembre|Biarritz|Bayonne|15|16|Bd|
+0|2012-2013|8|Vendredi 05 Octobre|Castres|Clermont|16|13||Bd
+1|2012-2013|8|Samedi 06 Octobre|Biarritz|Toulon|9|36||Bo
+2|2012-2013|8|Samedi 06 Octobre|Racing 92|Montpellier|12|16|Bd|
+3|2012-2013|8|Samedi 06 Octobre|Grenoble|Perpignan|28|23||Bd
+4|2012-2013|8|Samedi 06 Octobre|Bayonne|Agen|37|16||
+5|2012-2013|8|Samedi 06 Octobre|Mont-de-Marsan|Paris|28|30|Bd|
+6|2012-2013|8|Samedi 06 Octobre|Bordeaux-Bègles|Toulouse|32|34|Bd|
+0|2012-2013|9|Vendredi 26 Octobre|Clermont|Biarritz|19|12||
+1|2012-2013|9|Samedi 27 Octobre|Paris|Toulouse|28|24||Bd
+2|2012-2013|9|Samedi 27 Octobre|Montpellier|Grenoble|23|6||
+3|2012-2013|9|Samedi 27 Octobre|Agen|Castres|14|22||
+4|2012-2013|9|Samedi 27 Octobre|Mont-de-Marsan|Bordeaux-Bègles|12|17|Bd|
+5|2012-2013|9|Samedi 27 Octobre|Toulon|Bayonne|59|0|Bo|
+6|2012-2013|9|Samedi 27 Octobre|Perpignan|Racing 92|17|13||Bd
+0|2012-2013|10|Jeudi 01 Novembre|Grenoble|Biarritz|34|21||
+1|2012-2013|10|Jeudi 01 Novembre|Castres|Perpignan|38|36||Bd
+2|2012-2013|10|Jeudi 01 Novembre|Agen|Clermont|11|18||
+3|2012-2013|10|Jeudi 01 Novembre|Montpellier|Mont-de-Marsan|32|16|Bo|
+4|2012-2013|10|Jeudi 01 Novembre|Bayonne|Bordeaux-Bègles|22|11||
+5|2012-2013|10|Jeudi 01 Novembre|Toulon|Paris|24|19||Bd
+6|2012-2013|10|Jeudi 01 Novembre|Toulouse|Racing 92|32|13|Bo|
+0|2012-2013|11|Vendredi 09 Novembre|Toulouse|Montpellier|27|9||
+1|2012-2013|11|Samedi 10 Novembre|Clermont|Toulon|24|21||Bd
+2|2012-2013|11|Samedi 10 Novembre|Paris|Agen|20|13||
+3|2012-2013|11|Samedi 10 Novembre|Racing 92|Mont-de-Marsan|16|17|Bd|
+4|2012-2013|11|Samedi 10 Novembre|Biarritz|Perpignan|15|3||
+5|2012-2013|11|Samedi 10 Novembre|Bordeaux-Bègles|Castres|13|16|Bd|
+6|2012-2013|11|Samedi 10 Novembre|Grenoble|Bayonne|9|6||Bd
+0|2012-2013|12|Vendredi 30 Novembre|Perpignan|Agen|39|13|Bo|
+1|2012-2013|12|Samedi 01 Décembre|Toulouse|Clermont|30|22||
+2|2012-2013|12|Samedi 01 Décembre|Biarritz|Bordeaux-Bègles|25|22||Bd
+3|2012-2013|12|Samedi 01 Décembre|Mont-de-Marsan|Castres|15|31||Bo
+4|2012-2013|12|Samedi 01 Décembre|Montpellier|Bayonne|29|22||
+5|2012-2013|12|Samedi 01 Décembre|Toulon|Grenoble|39|3|Bo|
+6|2012-2013|12|Samedi 01 Décembre|Racing 92|Paris|23|15||
+0|2012-2013|13|Vendredi 21 Décembre|Bordeaux-Bègles|Clermont|24|28|Bd|
+1|2012-2013|13|Samedi 22 Décembre|Grenoble|Toulouse|15|6||
+2|2012-2013|13|Samedi 22 Décembre|Perpignan|Montpellier|30|19||
+3|2012-2013|13|Samedi 22 Décembre|Bayonne|Mont-de-Marsan|39|13|Bo|
+4|2012-2013|13|Samedi 22 Décembre|Castres|Racing 92|31|10|Bo|
+5|2012-2013|13|Samedi 22 Décembre|Paris|Biarritz|36|23||
+6|2012-2013|13|Samedi 22 Décembre|Agen|Toulon|9|15||
+0|2012-2013|14|Dimanche 30 Décembre|Mont-de-Marsan|Biarritz|18|19|Bd|
+1|2012-2013|14|Dimanche 30 Décembre|Clermont|Bayonne|48|3|Bo|
+2|2012-2013|14|Dimanche 30 Décembre|Racing 92|Agen|40|6|Bo|
+3|2012-2013|14|Dimanche 30 Décembre|Grenoble|Bordeaux-Bègles|19|9||
+4|2012-2013|14|Dimanche 30 Décembre|Castres|Toulouse|16|18|Bd|
+5|2012-2013|14|Dimanche 30 Décembre|Montpellier|Paris|54|16|Bo|
+6|2012-2013|14|Dimanche 30 Décembre|Toulon|Perpignan|46|13|Bo|
+0|2012-2013|15|Vendredi 04 Janvier|Biarritz|Agen|16|11||Bd
+1|2012-2013|15|Samedi 05 Janvier|Clermont|Montpellier|36|18||
+2|2012-2013|15|Samedi 05 Janvier|Paris|Bayonne|21|13||
+3|2012-2013|15|Samedi 05 Janvier|Grenoble|Castres|14|12||Bd
+4|2012-2013|15|Samedi 05 Janvier|Perpignan|Bordeaux-Bègles|26|16||
+5|2012-2013|15|Samedi 05 Janvier|Mont-de-Marsan|Toulouse|12|16|Bd|
+6|2012-2013|15|Dimanche 06 Janvier|Toulon|Racing 92|15|19|Bd|
+0|2012-2013|16|Jeudi 24 Janvier|Bayonne|Castres|22|12||
+1|2012-2013|16|Vendredi 25 Janvier|Agen|Montpellier|9|13|Bd|
+2|2012-2013|16|Vendredi 25 Janvier|Toulon|Mont-de-Marsan|15|9||
+3|2012-2013|16|Vendredi 25 Janvier|Paris|Grenoble|35|6|Bo|
+4|2012-2013|16|Vendredi 25 Janvier|Perpignan|Clermont|26|19||
+5|2012-2013|16|Vendredi 25 Janvier|Bordeaux-Bègles|Racing 92|15|22||
+6|2012-2013|16|Vendredi 25 Janvier|Toulouse|Biarritz|19|14||Bd
+0|2012-2013|17|Vendredi 08 Février|Racing 92|Clermont|12|6||
+1|2012-2013|17|Samedi 09 Février|Castres|Paris|44|13|Bo|
+2|2012-2013|17|Samedi 09 Février|Bordeaux-Bègles|Toulon|41|0|Bo|
+3|2012-2013|17|Samedi 09 Février|Mont-de-Marsan|Grenoble|32|14|Bo|
+4|2012-2013|17|Samedi 09 Février|Bayonne|Perpignan|13|10||Bd
+5|2012-2013|17|Samedi 09 Février|Agen|Toulouse|22|9||
+6|2012-2013|17|Samedi 09 Février|Montpellier|Biarritz|33|10||
+0|2012-2013|18|Vendredi 15 Février|Toulouse|Perpignan|18|19|Bd|
+1|2012-2013|18|Samedi 16 Février|Toulon|Montpellier|51|6|Bo|
+2|2012-2013|18|Samedi 16 Février|Racing 92|Bayonne|15|10||Bd
+3|2012-2013|18|Samedi 16 Février|Paris|Bordeaux-Bègles|30|14||
+4|2012-2013|18|Samedi 16 Février|Clermont|Mont-de-Marsan|56|3|Bo|
+5|2012-2013|18|Samedi 16 Février|Grenoble|Agen|27|13||
+6|2012-2013|18|Samedi 16 Février|Biarritz|Castres|15|9||
+0|2012-2013|19|Vendredi 22 Février|Castres|Toulon|25|20||Bd
+1|2012-2013|19|Samedi 23 Février|Biarritz|Racing 92|11|23||
+2|2012-2013|19|Samedi 23 Février|Montpellier|Bordeaux-Bègles|15|13||Bd
+3|2012-2013|19|Samedi 23 Février|Agen|Mont-de-Marsan|9|3||
+4|2012-2013|19|Samedi 23 Février|Grenoble|Clermont|10|17||
+5|2012-2013|19|Samedi 23 Février|Toulouse|Bayonne|42|6|Bo|
+6|2012-2013|19|Samedi 23 Février|Perpignan|Paris|32|16||
+0|2012-2013|20|Vendredi 01 Mars|Bayonne|Biarritz|6|6||
+1|2012-2013|20|Samedi 02 Mars|Paris|Clermont|10|37||Bo
+2|2012-2013|20|Samedi 02 Mars|Racing 92|Grenoble|23|3||
+3|2012-2013|20|Samedi 02 Mars|Bordeaux-Bègles|Agen|48|17|Bo|
+4|2012-2013|20|Samedi 02 Mars|Castres|Montpellier|26|20||
+5|2012-2013|20|Samedi 02 Mars|Mont-de-Marsan|Perpignan|17|31||
+6|2012-2013|20|Samedi 02 Mars|Toulon|Toulouse|35|16||
+0|2012-2013|21|Vendredi 08 Mars|Montpellier|Racing 92|15|17|Bd|
+1|2012-2013|21|Samedi 09 Mars|Perpignan|Grenoble|20|18||Bd
+2|2012-2013|21|Samedi 09 Mars|Toulon|Biarritz|50|15|Bo|
+3|2012-2013|21|Samedi 09 Mars|Toulouse|Bordeaux-Bègles|33|32||Bd
+4|2012-2013|21|Samedi 09 Mars|Agen|Bayonne|20|30||
+5|2012-2013|21|Samedi 09 Mars|Paris|Mont-de-Marsan|42|14|Bo|
+6|2012-2013|21|Samedi 09 Mars|Clermont|Castres|37|10|Bo|
+0|2012-2013|22|Samedi 23 Mars|Bayonne|Toulon|33|28||Bd
+1|2012-2013|22|Samedi 23 Mars|Racing 92|Perpignan|23|19||Bd
+2|2012-2013|22|Samedi 23 Mars|Grenoble|Montpellier|9|16||
+3|2012-2013|22|Samedi 23 Mars|Castres|Agen|20|9||
+4|2012-2013|22|Samedi 23 Mars|Bordeaux-Bègles|Mont-de-Marsan|40|7|Bo|
+5|2012-2013|22|Samedi 23 Mars|Biarritz|Clermont|32|28||Bd
+6|2012-2013|22|Dimanche 24 Mars|Toulouse|Paris|43|16|Bo|
+0|2012-2013|23|Vendredi 29 Mars|Biarritz|Grenoble|33|16||
+1|2012-2013|23|Samedi 30 Mars|Paris|Toulon|11|43||Bo
+2|2012-2013|23|Samedi 30 Mars|Mont-de-Marsan|Montpellier|17|30||
+3|2012-2013|23|Samedi 30 Mars|Clermont|Agen|66|21|Bo|
+4|2012-2013|23|Samedi 30 Mars|Bordeaux-Bègles|Bayonne|39|13|Bo|
+5|2012-2013|23|Samedi 30 Mars|Perpignan|Castres|20|21|Bd|
+6|2012-2013|23|Samedi 30 Mars|Racing 92|Toulouse|26|27|Bd|
+0|2012-2013|24|Vendredi 12 Avril|Castres|Bordeaux-Bègles|23|23||
+1|2012-2013|24|Samedi 13 Avril|Montpellier|Toulouse|10|8||Bd
+2|2012-2013|24|Samedi 13 Avril|Agen|Paris|20|28||
+3|2012-2013|24|Samedi 13 Avril|Bayonne|Grenoble|31|24||
+4|2012-2013|24|Samedi 13 Avril|Mont-de-Marsan|Racing 92|9|34||Bo
+5|2012-2013|24|Dimanche 14 Avril|Perpignan|Biarritz|33|28||Bd
+6|2012-2013|24|Dimanche 14 Avril|Toulon|Clermont|26|26||
+0|2012-2013|25|Samedi 20 Avril|Clermont|Toulouse|39|17||
+1|2012-2013|25|Samedi 20 Avril|Agen|Perpignan|23|15||
+2|2012-2013|25|Samedi 20 Avril|Bordeaux-Bègles|Biarritz|16|0||
+3|2012-2013|25|Samedi 20 Avril|Bayonne|Montpellier|32|26||
+4|2012-2013|25|Samedi 20 Avril|Castres|Mont-de-Marsan|44|17|Bo|
+5|2012-2013|25|Samedi 20 Avril|Grenoble|Toulon|25|24||Bd
+6|2012-2013|25|Dimanche 21 Avril|Paris|Racing 92|19|16||Bd
+0|2012-2013|26|Samedi 04 Mai|Biarritz|Paris|52|17|Bo|
+1|2012-2013|26|Samedi 04 Mai|Toulon|Agen|43|21|Bo|
+2|2012-2013|26|Samedi 04 Mai|Toulouse|Grenoble|57|7|Bo|
+3|2012-2013|26|Samedi 04 Mai|Racing 92|Castres|29|28||Bd
+4|2012-2013|26|Samedi 04 Mai|Montpellier|Perpignan|50|22|Bo|
+5|2012-2013|26|Samedi 04 Mai|Mont-de-Marsan|Bayonne|33|36|Bd|
+6|2012-2013|26|Samedi 04 Mai|Clermont|Bordeaux-Bègles|67|3|Bo|
+0|2012-2013|Barrages|Vendredi 10 Mai|Toulouse|Racing 92|33|19||
+1|2012-2013|Barrages|Samedi 11 Mai|Castres|Montpellier|25|12||
+0|2012-2013|Demi-Finales|Vendredi 24 Mai|Toulon|Toulouse|24|9||
+1|2012-2013|Demi-Finales|Samedi 25 Mai|Clermont|Castres|9|25||
+0|2012-2013|Finale|Samedi 01 Juin|Toulon|Castres|14|19|Bd|
+0|2013-2014|1|Vendredi 16 Août|Montpellier|Toulon|22|22||
+1|2013-2014|1|Samedi 17 Août|Biarritz|Clermont|18|22|Bd|
+2|2013-2014|1|Samedi 17 Août|Bordeaux-Bègles|Toulouse|31|25||
+3|2013-2014|1|Samedi 17 Août|Bayonne|Oyonnax|39|11|Bo|
+4|2013-2014|1|Samedi 17 Août|Grenoble|Paris|19|16||Bd
+5|2013-2014|1|Samedi 17 Août|Racing 92|Brive|19|14||Bd
+6|2013-2014|1|Samedi 17 Août|Perpignan|Castres|26|23||Bd
+0|2013-2014|2|Vendredi 23 Août|Toulon|Racing 92|41|14|Bo|
+1|2013-2014|2|Samedi 24 Août|Oyonnax|Clermont|30|19||
+2|2013-2014|2|Samedi 24 Août|Perpignan|Paris|27|28|Bd|
+3|2013-2014|2|Samedi 24 Août|Castres|Grenoble|34|6|Bo|
+4|2013-2014|2|Samedi 24 Août|Biarritz|Montpellier|19|12||
+5|2013-2014|2|Samedi 24 Août|Toulouse|Bayonne|40|3|Bo|
+6|2013-2014|2|Samedi 24 Août|Brive|Bordeaux-Bègles|25|12||
+0|2013-2014|3|Vendredi 30 Août|Paris|Biarritz|38|3|Bo|
+1|2013-2014|3|Samedi 31 Août|Clermont|Toulouse|38|19|Bo|
+2|2013-2014|3|Samedi 31 Août|Bordeaux-Bègles|Castres|21|20||Bd
+3|2013-2014|3|Samedi 31 Août|Racing 92|Oyonnax|22|9||
+4|2013-2014|3|Samedi 31 Août|Montpellier|Brive|33|24||
+5|2013-2014|3|Samedi 31 Août|Bayonne|Perpignan|31|20||
+6|2013-2014|3|Samedi 31 Août|Grenoble|Toulon|28|26||Bd
+0|2013-2014|4|Mercredi 04 Septembre|Castres|Paris|38|10|Bo|
+1|2013-2014|4|Mercredi 04 Septembre|Bordeaux-Bègles|Montpellier|29|36||
+2|2013-2014|4|Mercredi 04 Septembre|Toulon|Brive|62|12|Bo|
+3|2013-2014|4|Mercredi 04 Septembre|Clermont|Bayonne|55|0|Bo|
+4|2013-2014|4|Mercredi 04 Septembre|Perpignan|Grenoble|36|13|Bo|
+5|2013-2014|4|Mercredi 04 Septembre|Oyonnax|Biarritz|24|22||Bd
+6|2013-2014|4|Mercredi 04 Septembre|Toulouse|Racing 92|30|6|Bo|
+0|2013-2014|5|Dimanche 08 Septembre|Montpellier|Toulouse|25|0|Bo|
+1|2013-2014|5|Dimanche 08 Septembre|Grenoble|Bordeaux-Bègles|21|14||
+2|2013-2014|5|Dimanche 08 Septembre|Biarritz|Toulon|13|24||
+3|2013-2014|5|Dimanche 08 Septembre|Brive|Bayonne|17|10||
+4|2013-2014|5|Dimanche 08 Septembre|Oyonnax|Castres|19|9||
+5|2013-2014|5|Dimanche 08 Septembre|Racing 92|Perpignan|19|16||Bd
+6|2013-2014|5|Dimanche 08 Septembre|Paris|Clermont|23|16||
+0|2013-2014|6|Vendredi 13 Septembre|Perpignan|Montpellier|28|16|Bo|
+1|2013-2014|6|Samedi 14 Septembre|Castres|Toulon|22|15||
+2|2013-2014|6|Samedi 14 Septembre|Bordeaux-Bègles|Oyonnax|35|10|Bo|
+3|2013-2014|6|Samedi 14 Septembre|Clermont|Grenoble|27|13||
+4|2013-2014|6|Samedi 14 Septembre|Toulouse|Biarritz|31|7|Bo|
+5|2013-2014|6|Samedi 14 Septembre|Paris|Brive|25|18||
+6|2013-2014|6|Samedi 14 Septembre|Bayonne|Racing 92|16|19|Bd|
+0|2013-2014|7|Vendredi 20 Septembre|Montpellier|Clermont|43|3|Bo|
+1|2013-2014|7|Samedi 21 Septembre|Toulouse|Castres|26|9|Bo|
+2|2013-2014|7|Samedi 21 Septembre|Racing 92|Bordeaux-Bègles|26|19||
+3|2013-2014|7|Samedi 21 Septembre|Biarritz|Grenoble|21|27||Bo
+4|2013-2014|7|Samedi 21 Septembre|Brive|Perpignan|31|6|Bo|
+5|2013-2014|7|Samedi 21 Septembre|Toulon|Bayonne|18|12||
+6|2013-2014|7|Samedi 21 Septembre|Oyonnax|Paris|15|16|Bd|
+0|2013-2014|8|Vendredi 27 Septembre|Paris|Montpellier|18|11||
+1|2013-2014|8|Samedi 28 Septembre|Oyonnax|Toulon|25|22||Bd
+2|2013-2014|8|Samedi 28 Septembre|Castres|Racing 92|19|15||Bd
+3|2013-2014|8|Samedi 28 Septembre|Bayonne|Biarritz|27|19||
+4|2013-2014|8|Samedi 28 Septembre|Grenoble|Brive|12|12||
+5|2013-2014|8|Samedi 28 Septembre|Perpignan|Toulouse|20|16||Bd
+6|2013-2014|8|Dimanche 29 Septembre|Clermont|Bordeaux-Bègles|40|11|Bo|
+0|2013-2014|9|Vendredi 04 Octobre|Biarritz|Perpignan|12|16|Bd|
+1|2013-2014|9|Samedi 05 Octobre|Toulon|Clermont|25|19||
+2|2013-2014|9|Samedi 05 Octobre|Brive|Castres|34|0|Bo|
+3|2013-2014|9|Samedi 05 Octobre|Bordeaux-Bègles|Bayonne|34|6|Bo|
+4|2013-2014|9|Samedi 05 Octobre|Racing 92|Grenoble|20|22|Bd|
+5|2013-2014|9|Samedi 05 Octobre|Montpellier|Oyonnax|45|20|Bo|
+6|2013-2014|9|Samedi 05 Octobre|Toulouse|Paris|28|10|Bo|
+0|2013-2014|10|Vendredi 25 Octobre|Bayonne|Montpellier|24|19||Bd
+1|2013-2014|10|Samedi 26 Octobre|Toulouse|Toulon|13|12||Bd
+2|2013-2014|10|Samedi 26 Octobre|Castres|Biarritz|39|0|Bo|
+3|2013-2014|10|Samedi 26 Octobre|Clermont|Brive|36|29||
+4|2013-2014|10|Samedi 26 Octobre|Perpignan|Bordeaux-Bègles|31|20||
+5|2013-2014|10|Samedi 26 Octobre|Grenoble|Oyonnax|23|10||
+6|2013-2014|10|Samedi 26 Octobre|Racing 92|Paris|16|12||Bd
+0|2013-2014|11|Vendredi 01 Novembre|Toulon|Bordeaux-Bègles|37|17||
+1|2013-2014|11|Vendredi 01 Novembre|Castres|Clermont|22|22||
+2|2013-2014|11|Samedi 02 Novembre|Brive|Toulouse|25|13||
+3|2013-2014|11|Samedi 02 Novembre|Biarritz|Racing 92|9|6||Bd
+4|2013-2014|11|Samedi 02 Novembre|Montpellier|Grenoble|25|18||
+5|2013-2014|11|Samedi 02 Novembre|Oyonnax|Perpignan|22|9||
+6|2013-2014|11|Samedi 02 Novembre|Paris|Bayonne|13|9||Bd
+0|2013-2014|12|Vendredi 22 Novembre|Toulon|Perpignan|15|9||
+1|2013-2014|12|Samedi 23 Novembre|Brive|Biarritz|9|14|Bd|
+2|2013-2014|12|Samedi 23 Novembre|Bayonne|Grenoble|24|21||Bd
+3|2013-2014|12|Samedi 23 Novembre|Toulouse|Oyonnax|14|3||
+4|2013-2014|12|Samedi 23 Novembre|Montpellier|Castres|16|20|Bd|
+5|2013-2014|12|Samedi 23 Novembre|Bordeaux-Bègles|Paris|45|23|Bo|
+6|2013-2014|12|Samedi 23 Novembre|Clermont|Racing 92|47|14|Bo|
+0|2013-2014|13|Vendredi 29 Novembre|Perpignan|Clermont|23|30||
+1|2013-2014|13|Samedi 30 Novembre|Paris|Toulon|23|0||
+2|2013-2014|13|Samedi 30 Novembre|Castres|Bayonne|46|16|Bo|
+3|2013-2014|13|Samedi 30 Novembre|Biarritz|Bordeaux-Bègles|15|22||
+4|2013-2014|13|Samedi 30 Novembre|Oyonnax|Brive|26|9||
+5|2013-2014|13|Samedi 30 Novembre|Racing 92|Montpellier|17|12||Bd
+6|2013-2014|13|Samedi 30 Novembre|Grenoble|Toulouse|25|18||
+0|2013-2014|14|Vendredi 20 Décembre|Paris|Grenoble|21|6||
+1|2013-2014|14|Samedi 21 Décembre|Toulon|Montpellier|43|10|Bo|
+2|2013-2014|14|Samedi 21 Décembre|Castres|Perpignan|37|13|Bo|
+3|2013-2014|14|Samedi 21 Décembre|Brive|Racing 92|9|9||
+4|2013-2014|14|Samedi 21 Décembre|Clermont|Biarritz|35|6|Bo|
+5|2013-2014|14|Samedi 21 Décembre|Oyonnax|Bayonne|9|6||Bd
+6|2013-2014|14|Samedi 21 Décembre|Toulouse|Bordeaux-Bègles|18|16||Bd
+0|2013-2014|15|Dimanche 29 Décembre|Paris|Perpignan|19|12||
+1|2013-2014|15|Dimanche 29 Décembre|Bordeaux-Bègles|Brive|27|23||Bd
+2|2013-2014|15|Dimanche 29 Décembre|Clermont|Oyonnax|33|19||
+3|2013-2014|15|Dimanche 29 Décembre|Grenoble|Castres|20|16||Bd
+4|2013-2014|15|Dimanche 29 Décembre|Montpellier|Biarritz|48|22|Bo|
+5|2013-2014|15|Dimanche 29 Décembre|Bayonne|Toulouse|21|13||
+6|2013-2014|15|Dimanche 29 Décembre|Racing 92|Toulon|14|3||
+0|2013-2014|16|Vendredi 03 Janvier|Castres|Bordeaux-Bègles|15|9||
+1|2013-2014|16|Samedi 04 Janvier|Toulon|Grenoble|21|22|Bd|
+2|2013-2014|16|Samedi 04 Janvier|Biarritz|Paris|6|18||
+3|2013-2014|16|Samedi 04 Janvier|Oyonnax|Racing 92|6|0||
+4|2013-2014|16|Samedi 04 Janvier|Perpignan|Bayonne|20|8||
+5|2013-2014|16|Samedi 04 Janvier|Brive|Montpellier|15|9||
+6|2013-2014|16|Dimanche 05 Janvier|Toulouse|Clermont|19|12||
+0|2013-2014|17|Vendredi 24 Janvier|Paris|Castres|32|6|Bo|
+1|2013-2014|17|Samedi 25 Janvier|Racing 92|Toulouse|25|5||
+2|2013-2014|17|Samedi 25 Janvier|Bayonne|Clermont|18|9||
+3|2013-2014|17|Samedi 25 Janvier|Montpellier|Bordeaux-Bègles|28|23||Bd
+4|2013-2014|17|Samedi 25 Janvier|Grenoble|Perpignan|25|19||
+5|2013-2014|17|Samedi 25 Janvier|Brive|Toulon|23|10||
+0|2013-2014|18|Vendredi 07 Février|Bordeaux-Bègles|Grenoble|38|17|Bo|
+1|2013-2014|18|Samedi 08 Février|Clermont|Paris|25|13||
+2|2013-2014|18|Samedi 08 Février|Toulon|Biarritz|33|20|Bo|
+3|2013-2014|18|Samedi 08 Février|Bayonne|Brive|9|6||Bd
+4|2013-2014|18|Samedi 08 Février|Castres|Oyonnax|17|16||Bd
+5|2013-2014|18|Samedi 08 Février|Perpignan|Racing 92|19|19||
+6|2013-2014|18|Samedi 08 Février|Toulouse|Montpellier|12|15|Bd|
+0|2013-2014|19|Vendredi 14 Février|Grenoble|Clermont|16|13||Bd
+1|2013-2014|19|Samedi 15 Février|Toulon|Castres|19|13||
+2|2013-2014|19|Samedi 15 Février|Biarritz|Toulouse|6|16||
+3|2013-2014|19|Samedi 15 Février|Montpellier|Perpignan|50|19|Bo|
+4|2013-2014|19|Samedi 15 Février|Racing 92|Bayonne|18|8||
+5|2013-2014|19|Samedi 15 Février|Brive|Paris|28|12|Bo|
+0|2013-2014|20|Samedi 22 Février|Clermont|Montpellier|42|16||
+1|2013-2014|20|Samedi 22 Février|Bordeaux-Bègles|Racing 92|25|9||
+2|2013-2014|20|Samedi 22 Février|Perpignan|Brive|12|6||
+3|2013-2014|20|Samedi 22 Février|Grenoble|Biarritz|20|22|Bd|
+4|2013-2014|20|Samedi 22 Février|Paris|Oyonnax|29|26||Bd
+5|2013-2014|20|Samedi 22 Février|Castres|Toulouse|29|27||Bd
+6|2013-2014|20|Dimanche 23 Février|Bayonne|Toulon|9|15||
+0|2013-2014|21|Vendredi 28 Février|Montpellier|Paris|19|10||
+1|2013-2014|21|Samedi 01 Mars|Bordeaux-Bègles|Clermont|26|16||
+2|2013-2014|21|Samedi 01 Mars|Brive|Grenoble|31|6|Bo|
+3|2013-2014|21|Samedi 01 Mars|Racing 92|Castres|25|15||
+4|2013-2014|21|Samedi 01 Mars|Toulon|Oyonnax|64|10|Bo|
+5|2013-2014|21|Samedi 01 Mars|Toulouse|Perpignan|37|9|Bo|
+6|2013-2014|21|Dimanche 02 Mars|Biarritz|Bayonne|8|11|Bd|
+0|2013-2014|22|Vendredi 21 Mars|Clermont|Toulon|22|16||
+1|2013-2014|22|Samedi 22 Mars|Paris|Toulouse|27|27||
+2|2013-2014|22|Samedi 22 Mars|Castres|Brive|38|6|Bo|
+3|2013-2014|22|Samedi 22 Mars|Perpignan|Biarritz|16|10||
+4|2013-2014|22|Samedi 22 Mars|Oyonnax|Montpellier|8|22||
+5|2013-2014|22|Samedi 22 Mars|Bayonne|Bordeaux-Bègles|22|23|Bd|
+6|2013-2014|22|Samedi 22 Mars|Grenoble|Racing 92|13|26||
+0|2013-2014|23|Vendredi 28 Mars|Brive|Clermont|26|24||Bd
+1|2013-2014|23|Samedi 29 Mars|Paris|Racing 92|22|32||
+2|2013-2014|23|Samedi 29 Mars|Biarritz|Castres|34|34||
+3|2013-2014|23|Samedi 29 Mars|Bordeaux-Bègles|Perpignan|23|5||
+4|2013-2014|23|Samedi 29 Mars|Montpellier|Bayonne|43|27|Bo|
+5|2013-2014|23|Samedi 29 Mars|Oyonnax|Grenoble|40|13|Bo|
+6|2013-2014|23|Samedi 29 Mars|Toulon|Toulouse|32|28||Bd
+0|2013-2014|24|Vendredi 11 Avril|Clermont|Castres|23|11||
+1|2013-2014|24|Samedi 12 Avril|Bordeaux-Bègles|Toulon|20|22|Bd|
+2|2013-2014|24|Samedi 12 Avril|Bayonne|Paris|24|19||Bd
+3|2013-2014|24|Samedi 12 Avril|Racing 92|Biarritz|37|7|Bo|
+4|2013-2014|24|Samedi 12 Avril|Perpignan|Oyonnax|22|12||
+5|2013-2014|24|Samedi 12 Avril|Grenoble|Montpellier|30|36||
+6|2013-2014|24|Samedi 12 Avril|Toulouse|Brive|16|9||
+0|2013-2014|25|Vendredi 18 Avril|Castres|Montpellier|22|15||
+1|2013-2014|25|Samedi 19 Avril|Oyonnax|Toulouse|19|19||
+2|2013-2014|25|Samedi 19 Avril|Perpignan|Toulon|31|46||
+3|2013-2014|25|Samedi 19 Avril|Racing 92|Clermont|22|6||
+4|2013-2014|25|Samedi 19 Avril|Grenoble|Bayonne|21|21||
+5|2013-2014|25|Samedi 19 Avril|Biarritz|Brive|19|13||
+6|2013-2014|25|Samedi 19 Avril|Paris|Bordeaux-Bègles|37|23|Bo|
+0|2013-2014|26|Samedi 03 Mai|Brive|Oyonnax|19|17||Bd
+1|2013-2014|26|Samedi 03 Mai|Bayonne|Castres|23|13||
+2|2013-2014|26|Samedi 03 Mai|Toulon|Paris|17|15||Bd
+3|2013-2014|26|Samedi 03 Mai|Bordeaux-Bègles|Biarritz|54|20|Bo|
+4|2013-2014|26|Samedi 03 Mai|Montpellier|Racing 92|44|10|Bo|
+5|2013-2014|26|Samedi 03 Mai|Clermont|Perpignan|25|22||Bd
+6|2013-2014|26|Samedi 03 Mai|Toulouse|Grenoble|38|8|Bo|
+0|2013-2014|Barrages|Vendredi 09 Mai|Toulouse|Racing 92|16|21|Bd|
+1|2013-2014|Barrages|Samedi 10 Mai|Clermont|Castres|16|22||
+0|2013-2014|Demi-Finales|Vendredi 16 Mai|Toulon|Racing 92|16|6||
+1|2013-2014|Demi-Finales|Samedi 17 Mai|Montpellier|Castres|19|22|Bd|
+0|2013-2014|Finale|Samedi 31 Mai|Toulon|Castres|18|10||
+0|2014-2015|1|Vendredi 15 Août|Bayonne|Toulon|15|29||
+1|2014-2015|1|Samedi 16 Août|Clermont|Grenoble|30|26||Bd
+2|2014-2015|1|Samedi 16 Août|Brive|La Rochelle|37|15|Bo|
+3|2014-2015|1|Samedi 16 Août|Bordeaux-Bègles|Lyon|18|9||
+4|2014-2015|1|Samedi 16 Août|Castres|Paris|22|25|Bd|
+5|2014-2015|1|Samedi 16 Août|Toulouse|Oyonnax|20|19||Bd
+6|2014-2015|1|Samedi 16 Août|Montpellier|Racing 92|16|19|Bd|
+0|2014-2015|2|Vendredi 22 Août|Toulouse|Castres|35|6|Bo|
+1|2014-2015|2|Samedi 23 Août|Brive|Clermont|6|21||
+2|2014-2015|2|Samedi 23 Août|Bordeaux-Bègles|Racing 92|30|21||
+3|2014-2015|2|Samedi 23 Août|Bayonne|Oyonnax|38|12|Bo|
+4|2014-2015|2|Samedi 23 Août|Montpellier|Grenoble|20|17||Bd
+5|2014-2015|2|Samedi 23 Août|Toulon|La Rochelle|60|19|Bo|
+6|2014-2015|2|Samedi 23 Août|Paris|Lyon|23|20||Bd
+0|2014-2015|3|Vendredi 29 Août|Clermont|Montpellier|20|21|Bd|
+1|2014-2015|3|Samedi 30 Août|La Rochelle|Toulouse|37|25||
+2|2014-2015|3|Samedi 30 Août|Oyonnax|Paris|33|6|Bo|
+3|2014-2015|3|Samedi 30 Août|Castres|Bayonne|30|6|Bo|
+4|2014-2015|3|Samedi 30 Août|Grenoble|Bordeaux-Bègles|37|23|Bo|
+5|2014-2015|3|Samedi 30 Août|Lyon|Brive|24|6||
+6|2014-2015|3|Samedi 30 Août|Racing 92|Toulon|17|10||
+0|2014-2015|4|Vendredi 05 Septembre|Montpellier|Castres|43|10|Bo|
+1|2014-2015|4|Samedi 06 Septembre|Brive|Toulouse|26|19||
+2|2014-2015|4|Samedi 06 Septembre|Clermont|Racing 92|32|6|Bo|
+3|2014-2015|4|Samedi 06 Septembre|Paris|Bayonne|34|29|Bo|Bd
+4|2014-2015|4|Samedi 06 Septembre|Grenoble|La Rochelle|30|12|Bo|
+5|2014-2015|4|Samedi 06 Septembre|Lyon|Oyonnax|26|23||Bd
+6|2014-2015|4|Samedi 06 Septembre|Toulon|Bordeaux-Bègles|18|13||Bd
+0|2014-2015|5|Vendredi 12 Septembre|La Rochelle|Castres|41|16|Bo|
+1|2014-2015|5|Samedi 13 Septembre|Toulouse|Clermont|9|13|Bd|
+2|2014-2015|5|Samedi 13 Septembre|Racing 92|Lyon|28|11|Bo|
+3|2014-2015|5|Samedi 13 Septembre|Bayonne|Brive|23|6||
+4|2014-2015|5|Samedi 13 Septembre|Oyonnax|Grenoble|40|27||
+5|2014-2015|5|Samedi 13 Septembre|Toulon|Paris|24|28|Bd|
+6|2014-2015|5|Dimanche 14 Septembre|Bordeaux-Bègles|Montpellier|27|21||
+0|2014-2015|6|Vendredi 19 Septembre|Brive|Toulon|13|53||Bo
+1|2014-2015|6|Samedi 20 Septembre|Racing 92|Toulouse|27|16||
+2|2014-2015|6|Samedi 20 Septembre|Castres|Oyonnax|27|18||
+3|2014-2015|6|Samedi 20 Septembre|Clermont|Lyon|43|12|Bo|
+4|2014-2015|6|Samedi 20 Septembre|La Rochelle|Bordeaux-Bègles|26|29|Bd|
+5|2014-2015|6|Samedi 20 Septembre|Grenoble|Bayonne|24|15||
+6|2014-2015|6|Samedi 20 Septembre|Montpellier|Paris|23|3||
+0|2014-2015|7|Vendredi 26 Septembre|Bayonne|Toulouse|35|19|Bo|
+1|2014-2015|7|Samedi 27 Septembre|Toulon|Montpellier|40|17|Bo|
+2|2014-2015|7|Samedi 27 Septembre|Grenoble|Racing 92|27|25||Bd
+3|2014-2015|7|Samedi 27 Septembre|Brive|Bordeaux-Bègles|34|24||
+4|2014-2015|7|Samedi 27 Septembre|Lyon|Castres|28|18||
+5|2014-2015|7|Samedi 27 Septembre|Paris|La Rochelle|43|10|Bo|
+6|2014-2015|7|Samedi 27 Septembre|Oyonnax|Clermont|8|19||
+0|2014-2015|8|Vendredi 03 Octobre|Oyonnax|Toulon|18|21|Bd|
+1|2014-2015|8|Samedi 04 Octobre|Bordeaux-Bègles|Clermont|51|21|Bo|
+2|2014-2015|8|Samedi 04 Octobre|Bayonne|Montpellier|10|15|Bd|
+3|2014-2015|8|Samedi 04 Octobre|Castres|Grenoble|51|10|Bo|
+4|2014-2015|8|Samedi 04 Octobre|Racing 92|Brive|46|32|Bo|
+5|2014-2015|8|Samedi 04 Octobre|La Rochelle|Lyon|29|10|Bo|
+6|2014-2015|8|Samedi 04 Octobre|Toulouse|Paris|22|10||
+0|2014-2015|9|Vendredi 10 Octobre|Grenoble|Brive|26|25||Bd
+1|2014-2015|9|Samedi 11 Octobre|Bordeaux-Bègles|Castres|59|7|Bo|
+2|2014-2015|9|Samedi 11 Octobre|Montpellier|Oyonnax|25|9||
+3|2014-2015|9|Samedi 11 Octobre|Clermont|La Rochelle|30|10||
+4|2014-2015|9|Samedi 11 Octobre|Lyon|Bayonne|24|19||Bd
+5|2014-2015|9|Samedi 11 Octobre|Paris|Racing 92|23|19||Bd
+6|2014-2015|9|Dimanche 12 Octobre|Toulouse|Toulon|21|10||
+0|2014-2015|10|Samedi 01 Novembre|Lyon|Toulouse|17|41||Bo
+1|2014-2015|10|Samedi 01 Novembre|Brive|Castres|21|15||
+2|2014-2015|10|Samedi 01 Novembre|Racing 92|Oyonnax|17|21|Bd|
+3|2014-2015|10|Samedi 01 Novembre|La Rochelle|Montpellier|21|15||
+4|2014-2015|10|Samedi 01 Novembre|Paris|Bordeaux-Bègles|39|22|Bo|
+5|2014-2015|10|Samedi 01 Novembre|Bayonne|Clermont|24|13||
+6|2014-2015|10|Dimanche 02 Novembre|Toulon|Grenoble|61|28|Bo|
+0|2014-2015|11|Vendredi 07 Novembre|Montpellier|Brive|10|25||
+1|2014-2015|11|Samedi 08 Novembre|Castres|Toulon|22|14||
+2|2014-2015|11|Samedi 08 Novembre|Oyonnax|La Rochelle|37|9|Bo|
+3|2014-2015|11|Samedi 08 Novembre|Grenoble|Lyon|34|30||Bd
+4|2014-2015|11|Samedi 08 Novembre|Clermont|Paris|51|9|Bo|
+5|2014-2015|11|Samedi 08 Novembre|Racing 92|Bayonne|27|10||
+6|2014-2015|11|Samedi 08 Novembre|Bordeaux-Bègles|Toulouse|20|21|Bd|
+0|2014-2015|12|Samedi 29 Novembre|Toulon|Clermont|27|19||
+1|2014-2015|12|Samedi 29 Novembre|Oyonnax|Bordeaux-Bègles|28|23||Bd
+2|2014-2015|12|Samedi 29 Novembre|La Rochelle|Bayonne|19|19||
+3|2014-2015|12|Samedi 29 Novembre|Castres|Racing 92|9|14|Bd|
+4|2014-2015|12|Samedi 29 Novembre|Lyon|Montpellier|23|20||Bd
+5|2014-2015|12|Samedi 29 Novembre|Toulouse|Grenoble|22|25|Bd|
+6|2014-2015|12|Dimanche 30 Novembre|Paris|Brive|20|17||Bd
+0|2014-2015|13|Vendredi 19 Décembre|Grenoble|Paris|30|43||
+1|2014-2015|13|Samedi 20 Décembre|Montpellier|Toulouse|23|20||Bd
+2|2014-2015|13|Samedi 20 Décembre|Bayonne|Bordeaux-Bègles|15|12||Bd
+3|2014-2015|13|Samedi 20 Décembre|Toulon|Lyon|30|6|Bo|
+4|2014-2015|13|Samedi 20 Décembre|Brive|Oyonnax|19|6||
+5|2014-2015|13|Samedi 20 Décembre|Racing 92|La Rochelle|27|8||
+6|2014-2015|13|Samedi 20 Décembre|Clermont|Castres|19|10||
+0|2014-2015|14|Dimanche 28 Décembre|Toulouse|Racing 92|15|9||
+1|2014-2015|14|Dimanche 28 Décembre|Bordeaux-Bègles|Brive|46|10|Bo|
+2|2014-2015|14|Dimanche 28 Décembre|Castres|Montpellier|27|9||
+3|2014-2015|14|Dimanche 28 Décembre|La Rochelle|Grenoble|19|15||Bd
+4|2014-2015|14|Dimanche 28 Décembre|Oyonnax|Bayonne|12|9||Bd
+5|2014-2015|14|Dimanche 28 Décembre|Lyon|Clermont|16|13||Bd
+6|2014-2015|14|Dimanche 28 Décembre|Paris|Toulon|30|6|Bo|
+0|2014-2015|15|Vendredi 02 Janvier|Lyon|Paris|12|9||Bd
+1|2014-2015|15|Samedi 03 Janvier|Racing 92|Bordeaux-Bègles|12|9||Bd
+2|2014-2015|15|Samedi 03 Janvier|Castres|La Rochelle|30|15||
+3|2014-2015|15|Samedi 03 Janvier|Brive|Bayonne|25|9||
+4|2014-2015|15|Samedi 03 Janvier|Grenoble|Oyonnax|33|19|Bo|
+5|2014-2015|15|Samedi 03 Janvier|Montpellier|Toulon|16|12||Bd
+6|2014-2015|15|Dimanche 04 Janvier|Clermont|Toulouse|24|6||
+0|2014-2015|16|Vendredi 09 Janvier|Paris|Castres|49|13|Bo|
+1|2014-2015|16|Samedi 10 Janvier|Toulon|Racing 92|32|23||
+2|2014-2015|16|Samedi 10 Janvier|Bordeaux-Bègles|Grenoble|34|16||
+3|2014-2015|16|Samedi 10 Janvier|Bayonne|Lyon|23|22||Bd
+4|2014-2015|16|Samedi 10 Janvier|Oyonnax|Montpellier|20|13||
+5|2014-2015|16|Samedi 10 Janvier|Toulouse|La Rochelle|29|26||Bd
+6|2014-2015|16|Samedi 10 Janvier|Clermont|Brive|44|20|Bo|
+0|2014-2015|17|Vendredi 30 Janvier|Toulon|Bayonne|24|17||
+1|2014-2015|17|Samedi 31 Janvier|Montpellier|Bordeaux-Bègles|34|24||
+2|2014-2015|17|Samedi 31 Janvier|La Rochelle|Clermont|16|12||Bd
+3|2014-2015|17|Samedi 31 Janvier|Brive|Grenoble|23|0||
+4|2014-2015|17|Samedi 31 Janvier|Lyon|Racing 92|11|13|Bd|
+5|2014-2015|17|Samedi 31 Janvier|Paris|Oyonnax|13|15|Bd|
+6|2014-2015|17|Samedi 31 Janvier|Castres|Toulouse|9|13|Bd|
+0|2014-2015|18|Jeudi 19 Février|La Rochelle|Brive|19|12||
+1|2014-2015|18|Samedi 21 Février|Bordeaux-Bègles|Toulon|28|23||Bd
+2|2014-2015|18|Samedi 21 Février|Oyonnax|Castres|23|13||
+3|2014-2015|18|Samedi 21 Février|Grenoble|Montpellier|20|18||Bd
+4|2014-2015|18|Samedi 21 Février|Bayonne|Paris|23|6|Bo|
+5|2014-2015|18|Samedi 21 Février|Toulouse|Lyon|23|20||Bd
+6|2014-2015|18|Samedi 21 Février|Racing 92|Clermont|13|13||
+0|2014-2015|19|Vendredi 06 Mars|Oyonnax|Toulouse|9|3||
+1|2014-2015|19|Samedi 07 Mars|Bordeaux-Bègles|Paris|22|23|Bd|
+2|2014-2015|19|Samedi 07 Mars|Clermont|Bayonne|28|16||
+3|2014-2015|19|Samedi 07 Mars|Castres|Lyon|23|20||Bd
+4|2014-2015|19|Samedi 07 Mars|Montpellier|La Rochelle|15|15||
+5|2014-2015|19|Samedi 07 Mars|Racing 92|Grenoble|34|29||Bd
+6|2014-2015|19|Samedi 07 Mars|Toulon|Brive|34|11|Bo|
+0|2014-2015|20|Vendredi 13 Mars|Clermont|Bordeaux-Bègles|31|23||
+1|2014-2015|20|Samedi 14 Mars|Toulouse|Montpellier|18|13||Bd
+2|2014-2015|20|Samedi 14 Mars|Brive|Racing 92|36|12|Bo|
+3|2014-2015|20|Samedi 14 Mars|Bayonne|Castres|21|19||Bd
+4|2014-2015|20|Samedi 14 Mars|La Rochelle|Oyonnax|35|20||
+5|2014-2015|20|Samedi 14 Mars|Paris|Grenoble|21|30||
+6|2014-2015|20|Samedi 14 Mars|Lyon|Toulon|14|22||
+0|2014-2015|21|Vendredi 27 Mars|Bayonne|Racing 92|6|12||
+1|2014-2015|21|Samedi 28 Mars|Paris|Clermont|40|26||
+2|2014-2015|21|Samedi 28 Mars|Bordeaux-Bègles|La Rochelle|21|22|Bd|
+3|2014-2015|21|Samedi 28 Mars|Montpellier|Lyon|45|17|Bo|
+4|2014-2015|21|Samedi 28 Mars|Oyonnax|Brive|24|3||
+5|2014-2015|21|Samedi 28 Mars|Toulon|Toulouse|24|34||
+6|2014-2015|21|Samedi 28 Mars|Grenoble|Castres|12|16|Bd|
+0|2014-2015|22|Vendredi 10 Avril|La Rochelle|Paris|19|19||
+1|2014-2015|22|Samedi 11 Avril|Racing 92|Montpellier|24|24||
+2|2014-2015|22|Samedi 11 Avril|Toulouse|Bayonne|20|17||Bd
+3|2014-2015|22|Samedi 11 Avril|Brive|Lyon|22|20||Bd
+4|2014-2015|22|Samedi 11 Avril|Clermont|Oyonnax|10|11|Bd|
+5|2014-2015|22|Samedi 11 Avril|Grenoble|Toulon|24|35||
+6|2014-2015|22|Samedi 11 Avril|Castres|Bordeaux-Bègles|22|20||Bd
+0|2014-2015|23|Vendredi 24 Avril|Paris|Toulouse|12|21||
+1|2014-2015|23|Samedi 25 Avril|La Rochelle|Toulon|32|29||Bd
+2|2014-2015|23|Samedi 25 Avril|Oyonnax|Racing 92|21|16||Bd
+3|2014-2015|23|Samedi 25 Avril|Bayonne|Grenoble|42|33|Bo|
+4|2014-2015|23|Samedi 25 Avril|Brive|Montpellier|15|10||Bd
+5|2014-2015|23|Samedi 25 Avril|Lyon|Bordeaux-Bègles|22|37||
+6|2014-2015|23|Samedi 25 Avril|Castres|Clermont|31|10|Bo|
+0|2014-2015|24|Samedi 09 Mai|Toulon|Castres|37|21||
+1|2014-2015|24|Samedi 09 Mai|Bordeaux-Bègles|Oyonnax|26|23||Bd
+2|2014-2015|24|Samedi 09 Mai|Lyon|La Rochelle|16|16||
+3|2014-2015|24|Samedi 09 Mai|Montpellier|Bayonne|33|16||
+4|2014-2015|24|Samedi 09 Mai|Toulouse|Brive|67|19|Bo|
+5|2014-2015|24|Samedi 09 Mai|Grenoble|Clermont|17|37||Bo
+6|2014-2015|24|Dimanche 10 Mai|Racing 92|Paris|19|28||
+0|2014-2015|25|Vendredi 15 Mai|Oyonnax|Lyon|28|10||
+1|2014-2015|25|Samedi 16 Mai|Grenoble|Toulouse|32|11||
+2|2014-2015|25|Samedi 16 Mai|La Rochelle|Racing 92|18|18||
+3|2014-2015|25|Samedi 16 Mai|Castres|Brive|32|12|Bo|
+4|2014-2015|25|Samedi 16 Mai|Bordeaux-Bègles|Bayonne|38|20|Bo|
+5|2014-2015|25|Samedi 16 Mai|Paris|Montpellier|35|21|Bo|
+6|2014-2015|25|Dimanche 17 Mai|Clermont|Toulon|22|19||Bd
+0|2014-2015|26|Samedi 23 Mai|Bayonne|La Rochelle|45|12|Bo|
+1|2014-2015|26|Samedi 23 Mai|Brive|Paris|27|0|Bo|
+2|2014-2015|26|Samedi 23 Mai|Toulon|Oyonnax|46|17|Bo|
+3|2014-2015|26|Samedi 23 Mai|Lyon|Grenoble|29|24||Bd
+4|2014-2015|26|Samedi 23 Mai|Racing 92|Castres|53|10|Bo|
+5|2014-2015|26|Samedi 23 Mai|Montpellier|Clermont|17|29||
+6|2014-2015|26|Samedi 23 Mai|Toulouse|Bordeaux-Bègles|23|22||Bd
+0|2014-2015|Barrages|Vendredi 29 Mai|Paris|Racing 92|38|15||
+1|2014-2015|Barrages|Samedi 30 Mai|Toulouse|Oyonnax|20|19||Bd
+0|2014-2015|Demi-finales|Vendredi 05 Juin|Toulon|Paris|16|33||
+1|2014-2015|Demi-finales|Samedi 06 Juin|Clermont|Toulouse|18|14||Bd
+0|2014-2015|Finale|Samedi 13 Juin|Clermont|Paris|6|12||
+0|2015-2016|1|Vendredi 21 Août|Toulon|Racing 92|22|27|Bd|
+1|2015-2016|1|Samedi 22 Août|La Rochelle|Clermont|6|44||Bo
+2|2015-2016|1|Samedi 22 Août|Bordeaux-Bègles|Castres|19|16||Bd
+3|2015-2016|1|Samedi 22 Août|Toulouse|Brive|24|7||
+4|2015-2016|1|Samedi 22 Août|Montpellier|Oyonnax|35|19|Bo|
+5|2015-2016|1|Samedi 22 Août|Grenoble|Agen|38|23|Bo|
+6|2015-2016|1|Dimanche 23 Août|Paris|Pau|34|18||
+0|2015-2016|2|Vendredi 28 Août|Clermont|Grenoble|25|6|Bo|
+1|2015-2016|2|Samedi 29 Août|Agen|Toulouse|9|20||
+2|2015-2016|2|Samedi 29 Août|Oyonnax|Bordeaux-Bègles|37|19|Bo|
+3|2015-2016|2|Samedi 29 Août|Racing 92|La Rochelle|20|19||Bd
+4|2015-2016|2|Samedi 29 Août|Pau|Montpellier|26|16||
+5|2015-2016|2|Samedi 29 Août|Brive|Paris|22|13||
+6|2015-2016|2|Dimanche 30 Août|Castres|Toulon|24|9|Bo|
+0|2015-2016|3|Samedi 05 Septembre|Oyonnax|Clermont|24|41||Bo
+1|2015-2016|3|Samedi 05 Septembre|Grenoble|Pau|41|15|Bo|
+2|2015-2016|3|Samedi 05 Septembre|La Rochelle|Brive|21|18||Bd
+3|2015-2016|3|Samedi 05 Septembre|Agen|Racing 92|30|18||
+4|2015-2016|3|Samedi 05 Septembre|Toulouse|Castres|37|20||
+5|2015-2016|3|Dimanche 06 Septembre|Bordeaux-Bègles|Montpellier|22|24|Bd|
+6|2015-2016|3|Dimanche 06 Septembre|Paris|Toulon|13|20||
+0|2015-2016|4|Vendredi 11 Septembre|Castres|Oyonnax|35|26||
+1|2015-2016|4|Samedi 12 Septembre|Toulon|La Rochelle|45|24|Bo|
+2|2015-2016|4|Samedi 12 Septembre|Racing 92|Grenoble|23|14||
+3|2015-2016|4|Samedi 12 Septembre|Montpellier|Paris|44|20|Bo|
+4|2015-2016|4|Samedi 12 Septembre|Clermont|Bordeaux-Bègles|26|26||
+5|2015-2016|4|Dimanche 13 Septembre|Brive|Agen|18|12||
+6|2015-2016|4|Dimanche 13 Septembre|Pau|Toulouse|9|6||Bd
+0|2015-2016|5|Vendredi 16 Octobre|Clermont|Pau|35|10|Bo|
+1|2015-2016|5|Vendredi 16 Octobre|Oyonnax|Racing 92|9|18||
+2|2015-2016|5|Vendredi 16 Octobre|Grenoble|Montpellier|19|30||
+3|2015-2016|5|Vendredi 16 Octobre|Agen|Bordeaux-Bègles|16|31||
+4|2015-2016|5|Vendredi 16 Octobre|Paris|Castres|22|9||
+5|2015-2016|5|Vendredi 16 Octobre|Toulouse|La Rochelle|39|22||
+6|2015-2016|5|Samedi 17 Octobre|Brive|Toulon|29|26||Bd
+0|2015-2016|6|Vendredi 23 Octobre|Racing 92|Paris|27|18||
+1|2015-2016|6|Samedi 24 Octobre|Castres|Grenoble|23|31||
+2|2015-2016|6|Samedi 24 Octobre|Pau|Brive|13|18|Bd|
+3|2015-2016|6|Samedi 24 Octobre|Toulon|Oyonnax|61|3|Bo|
+4|2015-2016|6|Samedi 24 Octobre|Bordeaux-Bègles|Toulouse|12|10||Bd
+5|2015-2016|6|Samedi 24 Octobre|Montpellier|Clermont|24|19||Bd
+6|2015-2016|6|Dimanche 25 Octobre|La Rochelle|Agen|23|6|Bo|
+0|2015-2016|7|Samedi 31 Octobre|Oyonnax|Pau|42|23|Bo|
+1|2015-2016|7|Samedi 31 Octobre|Agen|Paris|28|23||Bd
+2|2015-2016|7|Samedi 31 Octobre|Bordeaux-Bègles|La Rochelle|21|16||Bd
+3|2015-2016|7|Samedi 31 Octobre|Racing 92|Brive|17|14||Bd
+4|2015-2016|7|Samedi 31 Octobre|Montpellier|Toulouse|25|33||
+5|2015-2016|7|Samedi 31 Octobre|Clermont|Castres|42|13|Bo|
+6|2015-2016|7|Dimanche 01 Novembre|Grenoble|Toulon|33|29||Bd
+0|2015-2016|8|Samedi 07 Novembre|Toulon|Montpellier|52|8|Bo|
+1|2015-2016|8|Samedi 07 Novembre|La Rochelle|Oyonnax|38|3|Bo|
+2|2015-2016|8|Samedi 07 Novembre|Pau|Agen|33|31||Bd
+3|2015-2016|8|Samedi 07 Novembre|Brive|Bordeaux-Bègles|16|3||
+4|2015-2016|8|Samedi 07 Novembre|Toulouse|Grenoble|52|12|Bo|
+5|2015-2016|8|Dimanche 08 Novembre|Castres|Racing 92|34|8|Bo|
+6|2015-2016|8|Dimanche 08 Novembre|Paris|Clermont|14|9||Bd
+0|2015-2016|9|Vendredi 27 Novembre|Montpellier|La Rochelle|25|20||Bd
+1|2015-2016|9|Samedi 28 Novembre|Racing 92|Toulouse|28|13||
+2|2015-2016|9|Samedi 28 Novembre|Oyonnax|Brive|9|34||Bo
+3|2015-2016|9|Samedi 28 Novembre|Bordeaux-Bègles|Pau|46|10|Bo|
+4|2015-2016|9|Samedi 28 Novembre|Agen|Castres|18|23|Bd|
+5|2015-2016|9|Samedi 28 Novembre|Clermont|Toulon|9|35||Bo
+6|2015-2016|9|Dimanche 29 Novembre|Grenoble|Paris|19|21|Bd|
+0|2015-2016|10|Vendredi 04 Décembre|Pau|Racing 92|15|15||
+1|2015-2016|10|Samedi 05 Décembre|Toulon|Agen|53|23|Bo|
+2|2015-2016|10|Samedi 05 Décembre|Castres|Montpellier|34|19|Bo|
+3|2015-2016|10|Samedi 05 Décembre|La Rochelle|Grenoble|33|16||
+4|2015-2016|10|Samedi 05 Décembre|Paris|Bordeaux-Bègles|21|24|Bd|
+5|2015-2016|10|Samedi 05 Décembre|Toulouse|Oyonnax|27|3|Bo|
+6|2015-2016|10|Dimanche 06 Décembre|Brive|Clermont|21|26|Bd|
+0|2015-2016|11|Dimanche 27 Décembre|Oyonnax|Paris|25|12||
+1|2015-2016|11|Dimanche 27 Décembre|Pau|La Rochelle|15|11||Bd
+2|2015-2016|11|Dimanche 27 Décembre|Montpellier|Agen|45|20|Bo|
+3|2015-2016|11|Dimanche 27 Décembre|Castres|Brive|23|8||
+4|2015-2016|11|Dimanche 27 Décembre|Bordeaux-Bègles|Grenoble|25|19||
+5|2015-2016|11|Dimanche 27 Décembre|Clermont|Racing 92|16|20|Bd|
+6|2015-2016|11|Dimanche 27 Décembre|Toulouse|Toulon|31|8|Bo|
+0|2015-2016|12|Samedi 02 Janvier|Agen|Clermont|16|33||
+1|2015-2016|12|Samedi 02 Janvier|La Rochelle|Castres|25|21||Bd
+2|2015-2016|12|Samedi 02 Janvier|Grenoble|Oyonnax|42|17|Bo|
+3|2015-2016|12|Samedi 02 Janvier|Racing 92|Bordeaux-Bègles|23|18||Bd
+4|2015-2016|12|Samedi 02 Janvier|Brive|Montpellier|19|18||Bd
+5|2015-2016|12|Dimanche 03 Janvier|Toulon|Pau|21|17||Bd
+6|2015-2016|12|Dimanche 03 Janvier|Paris|Toulouse|18|17||Bd
+0|2015-2016|14|Vendredi 29 Janvier|Brive|La Rochelle|28|6||
+1|2015-2016|14|Samedi 30 Janvier|Clermont|Montpellier|15|19|Bd|
+2|2015-2016|14|Samedi 30 Janvier|Racing 92|Oyonnax|26|3|Bo|
+3|2015-2016|14|Samedi 30 Janvier|Castres|Bordeaux-Bègles|19|9||
+4|2015-2016|14|Samedi 30 Janvier|Agen|Grenoble|27|33||
+5|2015-2016|14|Samedi 30 Janvier|Toulouse|Pau|54|3|Bo|
+6|2015-2016|14|Dimanche 31 Janvier|Toulon|Paris|23|16||
+0|2015-2016|15|Vendredi 19 Février|Paris|Brive|32|17||
+1|2015-2016|15|Samedi 20 Février|Castres|Clermont|17|28||
+2|2015-2016|15|Samedi 20 Février|Bordeaux-Bègles|Agen|24|19||Bd
+3|2015-2016|15|Samedi 20 Février|Montpellier|Pau|16|19|Bd|
+4|2015-2016|15|Samedi 20 Février|Grenoble|Racing 92|35|39|Bd|Bo
+5|2015-2016|15|Samedi 20 Février|La Rochelle|Toulouse|28|8||
+6|2015-2016|15|Dimanche 21 Février|Oyonnax|Toulon|13|44||Bo
+0|2015-2016|16|Samedi 27 Février|Toulon|Brive|44|15|Bo|
+1|2015-2016|16|Samedi 27 Février|Paris|Grenoble|18|33||
+2|2015-2016|16|Samedi 27 Février|Agen|La Rochelle|31|27||Bd
+3|2015-2016|16|Samedi 27 Février|Clermont|Oyonnax|44|16|Bo|
+4|2015-2016|16|Samedi 27 Février|Pau|Bordeaux-Bègles|3|15||
+5|2015-2016|16|Samedi 27 Février|Racing 92|Castres|9|13|Bd|
+6|2015-2016|16|Dimanche 28 Février|Toulouse|Montpellier|29|31|Bd|
+0|2015-2016|17|Vendredi 04 Mars|Grenoble|Clermont|12|45||Bo
+1|2015-2016|17|Samedi 05 Mars|Brive|Toulouse|21|21||
+2|2015-2016|17|Samedi 05 Mars|Pau|Paris|19|12||
+3|2015-2016|17|Samedi 05 Mars|Racing 92|Agen|38|13|Bo|
+4|2015-2016|17|Samedi 05 Mars|Bordeaux-Bègles|Oyonnax|48|20|Bo|
+5|2015-2016|17|Samedi 05 Mars|Montpellier|Castres|22|19||Bd
+6|2015-2016|17|Dimanche 06 Mars|La Rochelle|Toulon|19|14||Bd
+0|2015-2016|18|Vendredi 11 Mars|Toulouse|Bordeaux-Bègles|13|13||
+1|2015-2016|18|Samedi 12 Mars|Paris|Racing 92|16|34||Bo
+2|2015-2016|18|Samedi 12 Mars|Clermont|Brive|25|6|Bo|
+3|2015-2016|18|Samedi 12 Mars|La Rochelle|Pau|35|16|Bo|
+4|2015-2016|18|Samedi 12 Mars|Castres|Agen|50|6|Bo|
+5|2015-2016|18|Samedi 12 Mars|Toulon|Grenoble|38|8|Bo|
+6|2015-2016|18|Dimanche 13 Mars|Oyonnax|Montpellier|10|31||Bo
+0|2015-2016|19|Samedi 26 Mars|Racing 92|Toulon|20|21|Bd|
+1|2015-2016|19|Samedi 26 Mars|Brive|Castres|23|22||Bd
+2|2015-2016|19|Samedi 26 Mars|Grenoble|La Rochelle|39|23|Bo|
+3|2015-2016|19|Samedi 26 Mars|Agen|Montpellier|21|45||Bo
+4|2015-2016|19|Samedi 26 Mars|Pau|Oyonnax|25|6|Bo|
+5|2015-2016|19|Dimanche 27 Mars|Bordeaux-Bègles|Clermont|19|24|Bd|
+6|2015-2016|19|Dimanche 27 Mars|Toulouse|Paris|36|3|Bo|
+0|2015-2016|20|Vendredi 01 Avril|Montpellier|Brive|19|3||
+1|2015-2016|20|Samedi 02 Avril|Castres|Toulouse|15|9||
+2|2015-2016|20|Samedi 02 Avril|La Rochelle|Paris|21|18||Bd
+3|2015-2016|20|Samedi 02 Avril|Agen|Pau|26|33||
+4|2015-2016|20|Samedi 02 Avril|Oyonnax|Grenoble|20|27||
+5|2015-2016|20|Samedi 02 Avril|Bordeaux-Bègles|Racing 92|20|28||
+6|2015-2016|20|Dimanche 03 Avril|Toulon|Clermont|18|19|Bd|
+0|2015-2016|21|Vendredi 15 Avril|Grenoble|Castres|28|33|Bd|
+1|2015-2016|21|Samedi 16 Avril|Pau|Toulon|9|25||Bo
+2|2015-2016|21|Samedi 16 Avril|Brive|Oyonnax|31|13|Bo|
+3|2015-2016|21|Samedi 16 Avril|Clermont|Agen|38|10|Bo|
+4|2015-2016|21|Samedi 16 Avril|La Rochelle|Bordeaux-Bègles|22|15||
+5|2015-2016|21|Dimanche 17 Avril|Paris|Montpellier|20|26||
+6|2015-2016|21|Dimanche 17 Avril|Toulouse|Racing 92|14|3||
+0|2015-2016|22|Samedi 30 Avril|Toulon|Toulouse|10|12|Bd|
+1|2015-2016|22|Samedi 30 Avril|Castres|Pau|37|6|Bo|
+2|2015-2016|22|Samedi 30 Avril|Agen|Brive|37|19|Bo|
+3|2015-2016|22|Samedi 30 Avril|Montpellier|Grenoble|51|10|Bo|
+4|2015-2016|22|Samedi 30 Avril|Oyonnax|La Rochelle|17|16||Bd
+5|2015-2016|22|Samedi 30 Avril|Bordeaux-Bègles|Paris|35|25||
+6|2015-2016|22|Dimanche 01 Mai|Racing 92|Clermont|26|20||
+0|2015-2016|23|Vendredi 06 Mai|Grenoble|Bordeaux-Bègles|14|20||
+1|2015-2016|23|Samedi 07 Mai|Paris|Oyonnax|69|8|Bo|
+2|2015-2016|23|Samedi 07 Mai|La Rochelle|Montpellier|36|10|Bo|
+3|2015-2016|23|Samedi 07 Mai|Pau|Clermont|10|16||
+4|2015-2016|23|Samedi 07 Mai|Brive|Racing 92|33|27||
+5|2015-2016|23|Dimanche 08 Mai|Toulouse|Agen|52|19|Bo|
+6|2015-2016|23|Dimanche 08 Mai|Toulon|Castres|17|7||
+0|2015-2016|24|Samedi 21 Mai|Agen|Toulon|13|52||Bo
+1|2015-2016|24|Samedi 21 Mai|Castres|La Rochelle|67|20|Bo|
+2|2015-2016|24|Samedi 21 Mai|Racing 92|Pau|43|13|Bo|
+3|2015-2016|24|Samedi 21 Mai|Oyonnax|Toulouse|17|25||
+4|2015-2016|24|Samedi 21 Mai|Brive|Grenoble|45|24|Bo|
+5|2015-2016|24|Samedi 21 Mai|Montpellier|Bordeaux-Bègles|19|16||Bd
+6|2015-2016|24|Dimanche 22 Mai|Clermont|Paris|36|10||
+0|2015-2016|25|Vendredi 27 Mai|La Rochelle|Racing 92|14|30||
+1|2015-2016|25|Samedi 28 Mai|Bordeaux-Bègles|Brive|34|7|Bo|
+2|2015-2016|25|Samedi 28 Mai|Paris|Agen|28|26||Bd
+3|2015-2016|25|Samedi 28 Mai|Pau|Grenoble|29|12|Bo|
+4|2015-2016|25|Samedi 28 Mai|Oyonnax|Castres|20|25|Bd|
+5|2015-2016|25|Dimanche 29 Mai|Toulouse|Clermont|22|11||
+6|2015-2016|25|Dimanche 29 Mai|Montpellier|Toulon|36|21||
+0|2015-2016|26|Dimanche 05 Juin|Grenoble|Toulouse|14|53||Bo
+1|2015-2016|26|Dimanche 05 Juin|Toulon|Bordeaux-Bègles|44|3|Bo|
+2|2015-2016|26|Dimanche 05 Juin|Racing 92|Montpellier|40|25||
+3|2015-2016|26|Dimanche 05 Juin|Brive|Pau|46|10|Bo|
+4|2015-2016|26|Dimanche 05 Juin|Agen|Oyonnax|23|19||Bd
+5|2015-2016|26|Dimanche 05 Juin|Clermont|La Rochelle|57|8|Bo|
+6|2015-2016|26|Dimanche 05 Juin|Castres|Paris|35|14||
+0|2015-2016|Barrages|Samedi 11 Juin|Racing 92|Toulouse|21|16||Bd
+1|2015-2016|Barrages|Dimanche 12 Juin|Montpellier|Castres|28|9|Bo|
+0|2015-2016|Demi-finales|Vendredi 17 Juin|Clermont|Racing 92|33|34|Bd|
+1|2015-2016|Demi-finales|Samedi 18 Juin|Toulon|Montpellier|27|18||
+0|2015-2016|Finale|Vendredi 24 Juin|Toulon|Racing 92|21|29||
+0|2016-2017|1|Samedi 20 Août|Paris|Grenoble|54|20|Bo|
+1|2016-2017|1|Samedi 20 Août|Lyon|Brive|15|15||
+2|2016-2017|1|Samedi 20 Août|Toulouse|Montpellier|20|12||
+3|2016-2017|1|Samedi 20 Août|Bordeaux-Bègles|Racing 92|15|9||
+4|2016-2017|1|Samedi 20 Août|Castres|Pau|28|11||
+5|2016-2017|1|Samedi 20 Août|La Rochelle|Clermont|30|30||
+6|2016-2017|1|Dimanche 21 Août|Bayonne|Toulon|28|23||Bd
+0|2016-2017|2|Samedi 27 Août|Pau|Toulon|18|22|Bd|
+1|2016-2017|2|Samedi 27 Août|Grenoble|La Rochelle|19|22|Bd|
+2|2016-2017|2|Samedi 27 Août|Racing 92|Lyon|29|16|Bo|
+3|2016-2017|2|Samedi 27 Août|Bayonne|Castres|12|12||
+4|2016-2017|2|Samedi 27 Août|Brive|Paris|28|20||
+5|2016-2017|2|Samedi 27 Août|Toulouse|Bordeaux-Bègles|22|17||Bd
+6|2016-2017|2|Dimanche 28 Août|Montpellier|Clermont|22|26|Bd|
+0|2016-2017|3|Samedi 03 Septembre|Paris|Clermont|30|30||
+1|2016-2017|3|Samedi 03 Septembre|Pau|Bayonne|25|9|Bo|
+2|2016-2017|3|Samedi 03 Septembre|Lyon|Grenoble|32|13|Bo|
+3|2016-2017|3|Samedi 03 Septembre|Castres|La Rochelle|18|26||
+4|2016-2017|3|Samedi 03 Septembre|Toulon|Brive|21|25|Bd|
+5|2016-2017|3|Dimanche 04 Septembre|Bordeaux-Bègles|Montpellier|15|32||
+6|2016-2017|3|Dimanche 04 Septembre|Racing 92|Toulouse|28|14||
+0|2016-2017|4|Samedi 10 Septembre|Paris|Castres|29|25||Bd
+1|2016-2017|4|Samedi 10 Septembre|Montpellier|Pau|41|13|Bo|
+2|2016-2017|4|Samedi 10 Septembre|La Rochelle|Lyon|43|18|Bo|
+3|2016-2017|4|Samedi 10 Septembre|Bordeaux-Bègles|Bayonne|40|20||
+4|2016-2017|4|Samedi 10 Septembre|Clermont|Racing 92|47|10|Bo|
+5|2016-2017|4|Dimanche 11 Septembre|Grenoble|Brive|36|23||
+6|2016-2017|4|Dimanche 11 Septembre|Toulouse|Toulon|15|32||Bo
+0|2016-2017|5|Samedi 17 Septembre|Lyon|Toulouse|25|20||Bd
+1|2016-2017|5|Samedi 17 Septembre|Bayonne|Montpellier|9|21||
+2|2016-2017|5|Samedi 17 Septembre|Pau|Paris|23|6||
+3|2016-2017|5|Samedi 17 Septembre|Brive|La Rochelle|29|28||Bd
+4|2016-2017|5|Samedi 17 Septembre|Clermont|Bordeaux-Bègles|40|16|Bo|
+5|2016-2017|5|Dimanche 18 Septembre|Castres|Grenoble|46|9|Bo|
+6|2016-2017|5|Dimanche 18 Septembre|Racing 92|Toulon|41|30|Bo|
+0|2016-2017|6|Samedi 24 Septembre|Castres|Racing 92|31|23||
+1|2016-2017|6|Samedi 24 Septembre|Bordeaux-Bègles|Lyon|32|10|Bo|
+2|2016-2017|6|Samedi 24 Septembre|Grenoble|Pau|38|39|Bd|
+3|2016-2017|6|Samedi 24 Septembre|La Rochelle|Bayonne|34|17|Bo|
+4|2016-2017|6|Samedi 24 Septembre|Toulouse|Paris|23|18||Bd
+5|2016-2017|6|Dimanche 25 Septembre|Montpellier|Brive|42|13|Bo|
+6|2016-2017|6|Dimanche 25 Septembre|Toulon|Clermont|23|21||Bd
+0|2016-2017|7|Samedi 01 Octobre|Clermont|Castres|29|19||
+1|2016-2017|7|Samedi 01 Octobre|Pau|Bordeaux-Bègles|28|30|Bd|
+2|2016-2017|7|Samedi 01 Octobre|Bayonne|Lyon|22|22||
+3|2016-2017|7|Samedi 01 Octobre|Toulouse|Grenoble|31|3|Bo|
+4|2016-2017|7|Samedi 01 Octobre|Brive|Racing 92|25|16||
+5|2016-2017|7|Dimanche 02 Octobre|Paris|La Rochelle|31|26||Bd
+6|2016-2017|7|Dimanche 02 Octobre|Toulon|Montpellier|28|6|Bo|
+0|2016-2017|8|Samedi 08 Octobre|Racing 92|Paris|29|22||
+1|2016-2017|8|Samedi 08 Octobre|Montpellier|Castres|28|19||
+2|2016-2017|8|Samedi 08 Octobre|Bordeaux-Bègles|Brive|27|25||Bd
+3|2016-2017|8|Samedi 08 Octobre|Grenoble|Bayonne|44|16|Bo|
+4|2016-2017|8|Samedi 08 Octobre|La Rochelle|Toulon|17|17||
+5|2016-2017|8|Dimanche 09 Octobre|Lyon|Pau|27|22||Bd
+6|2016-2017|8|Dimanche 09 Octobre|Clermont|Toulouse|29|25||Bd
+0|2016-2017|9|Samedi 29 Octobre|Pau|Toulouse|20|24|Bd|
+1|2016-2017|9|Samedi 29 Octobre|Paris|Lyon|25|19||
+2|2016-2017|9|Samedi 29 Octobre|Montpellier|La Rochelle|12|11||Bd
+3|2016-2017|9|Samedi 29 Octobre|Toulon|Grenoble|42|12|Bo|
+4|2016-2017|9|Samedi 29 Octobre|Bayonne|Racing 92|3|16||
+5|2016-2017|9|Dimanche 30 Octobre|Castres|Bordeaux-Bègles|33|27||
+6|2016-2017|9|Dimanche 30 Octobre|Brive|Clermont|16|40||Bo
+0|2016-2017|10|Samedi 05 Novembre|Bordeaux-Bègles|Paris|37|19||
+1|2016-2017|10|Samedi 05 Novembre|Toulouse|Castres|16|15||Bd
+2|2016-2017|10|Samedi 05 Novembre|Brive|Bayonne|26|9||
+3|2016-2017|10|Samedi 05 Novembre|Clermont|Grenoble|21|20||Bd
+4|2016-2017|10|Samedi 05 Novembre|Racing 92|Montpellier|21|9||
+5|2016-2017|10|Dimanche 06 Novembre|La Rochelle|Pau|27|6|Bo|
+6|2016-2017|10|Dimanche 06 Novembre|Lyon|Toulon|27|13||
+0|2016-2017|11|Samedi 12 Novembre|Pau|Racing 92|26|17||
+1|2016-2017|11|Samedi 12 Novembre|Castres|Brive|32|13||
+2|2016-2017|11|Samedi 12 Novembre|Montpellier|Lyon|25|20||Bd
+3|2016-2017|11|Samedi 12 Novembre|Grenoble|Bordeaux-Bègles|22|24|Bd|
+4|2016-2017|11|Samedi 12 Novembre|Bayonne|Clermont|22|14||
+5|2016-2017|11|Dimanche 13 Novembre|La Rochelle|Toulouse|25|19||
+6|2016-2017|11|Dimanche 13 Novembre|Toulon|Paris|31|12||
+0|2016-2017|12|Samedi 19 Novembre|Castres|Toulon|34|17|Bo|
+1|2016-2017|12|Samedi 19 Novembre|Racing 92|Grenoble|29|24||Bd
+2|2016-2017|12|Samedi 19 Novembre|Brive|Pau|38|25||
+3|2016-2017|12|Samedi 19 Novembre|Clermont|Lyon|16|13||Bd
+4|2016-2017|12|Samedi 19 Novembre|Bordeaux-Bègles|La Rochelle|26|0||
+5|2016-2017|12|Dimanche 20 Novembre|Paris|Montpellier|21|17||Bd
+6|2016-2017|12|Dimanche 20 Novembre|Bayonne|Toulouse|16|13||Bd
+0|2016-2017|13|Samedi 03 Décembre|Pau|Clermont|40|35||Bd
+1|2016-2017|13|Samedi 03 Décembre|Paris|Bayonne|51|5|Bo|
+2|2016-2017|13|Samedi 03 Décembre|Lyon|Castres|19|23|Bd|
+3|2016-2017|13|Samedi 03 Décembre|Grenoble|Montpellier|37|51||Bo
+4|2016-2017|13|Samedi 03 Décembre|La Rochelle|Racing 92|23|23||
+5|2016-2017|13|Dimanche 04 Décembre|Toulouse|Brive|30|12|Bo|
+6|2016-2017|13|Dimanche 04 Décembre|Toulon|Bordeaux-Bègles|37|10|Bo|
+0|2016-2017|14|Jeudi 22 Décembre|Grenoble|Toulouse|26|22||Bd
+1|2016-2017|14|Vendredi 23 Décembre|Brive|Lyon|22|6||
+2|2016-2017|14|Vendredi 23 Décembre|Clermont|Paris|46|10|Bo|
+3|2016-2017|14|Vendredi 23 Décembre|Bordeaux-Bègles|Pau|16|18|Bd|
+4|2016-2017|14|Vendredi 23 Décembre|Bayonne|La Rochelle|17|42||Bo
+5|2016-2017|14|Vendredi 23 Décembre|Racing 92|Castres|23|10||
+6|2016-2017|14|Vendredi 23 Décembre|Montpellier|Toulon|33|29||Bd
+0|2016-2017|15|Vendredi 30 Décembre|Lyon|Bordeaux-Bègles|19|16||Bd
+1|2016-2017|15|Samedi 31 Décembre|Pau|Montpellier|32|27||Bd
+2|2016-2017|15|Samedi 31 Décembre|Castres|Bayonne|47|18|Bo|
+3|2016-2017|15|Samedi 31 Décembre|Paris|Brive|12|10||Bd
+4|2016-2017|15|Samedi 31 Décembre|Toulouse|Clermont|26|20||
+5|2016-2017|15|Dimanche 01 Janvier|La Rochelle|Grenoble|40|3|Bo|
+6|2016-2017|15|Dimanche 01 Janvier|Toulon|Racing 92|17|11||
+0|2016-2017|16|Vendredi 06 Janvier|Montpellier|Bordeaux-Bègles|31|26||Bd
+1|2016-2017|16|Samedi 07 Janvier|Brive|Grenoble|23|22||Bd
+2|2016-2017|16|Samedi 07 Janvier|La Rochelle|Castres|22|8||
+3|2016-2017|16|Dimanche 08 Janvier|Paris|Toulouse|15|18|Bd|
+4|2016-2017|16|Dimanche 08 Janvier|Clermont|Toulon|30|6|Bo|
+0|2016-2017|17|Samedi 28 Janvier|Toulon|La Rochelle|20|23|Bd|
+1|2016-2017|17|Samedi 28 Janvier|Grenoble|Paris|44|22||
+2|2016-2017|17|Samedi 28 Janvier|Toulouse|Pau|10|20||
+3|2016-2017|17|Samedi 28 Janvier|Castres|Montpellier|38|25||
+4|2016-2017|17|Samedi 28 Janvier|Lyon|Racing 92|37|25|Bo|
+5|2016-2017|17|Dimanche 29 Janvier|Bayonne|Brive|33|23||
+6|2016-2017|17|Dimanche 29 Janvier|Bordeaux-Bègles|Clermont|23|23||
+0|2016-2017|18|Samedi 18 Février|La Rochelle|Paris|37|18||
+1|2016-2017|18|Samedi 18 Février|Pau|Grenoble|39|22||
+2|2016-2017|18|Samedi 18 Février|Clermont|Bayonne|46|27|Bo|
+3|2016-2017|18|Samedi 18 Février|Racing 92|Brive|33|25||
+4|2016-2017|18|Samedi 18 Février|Toulon|Lyon|31|17||
+5|2016-2017|18|Dimanche 19 Février|Bordeaux-Bègles|Castres|17|29||
+6|2016-2017|18|Dimanche 19 Février|Montpellier|Toulouse|27|18||
+0|2016-2017|19|Samedi 04 Mars|Castres|Clermont|26|16||
+1|2016-2017|19|Samedi 04 Mars|Grenoble|Racing 92|19|10||
+2|2016-2017|19|Samedi 04 Mars|Bayonne|Pau|25|25||
+3|2016-2017|19|Samedi 04 Mars|Brive|Toulon|15|5||
+4|2016-2017|19|Dimanche 05 Mars|Lyon|Montpellier|16|3||
+5|2016-2017|19|Dimanche 05 Mars|Paris|Bordeaux-Bègles|32|9|Bo|
+6|2016-2017|19|Dimanche 05 Mars|Toulouse|La Rochelle|21|27||
+0|2016-2017|20|Samedi 11 Mars|Bordeaux-Bègles|Grenoble|46|14|Bo|
+1|2016-2017|20|Samedi 11 Mars|Lyon|Paris|35|33||Bd
+2|2016-2017|20|Samedi 11 Mars|Toulon|Bayonne|82|14|Bo|
+3|2016-2017|20|Samedi 11 Mars|Brive|Toulouse|21|19||Bd
+4|2016-2017|20|Samedi 11 Mars|Racing 92|La Rochelle|15|38||
+5|2016-2017|20|Dimanche 12 Mars|Pau|Castres|18|12||
+6|2016-2017|20|Dimanche 12 Mars|Clermont|Montpellier|19|28||Bo
+0|2016-2017|21|Samedi 18 Mars|Bayonne|Bordeaux-Bègles|24|20||Bd
+1|2016-2017|21|Samedi 18 Mars|Clermont|Pau|65|13|Bo|
+2|2016-2017|21|Samedi 18 Mars|La Rochelle|Brive|36|17|Bo|
+3|2016-2017|21|Dimanche 19 Mars|Toulouse|Lyon|42|26||
+4|2016-2017|21|Dimanche 19 Mars|Grenoble|Toulon|23|23||
+0|2016-2017|22|Samedi 25 Mars|Racing 92|Clermont|27|24||Bd
+1|2016-2017|22|Samedi 25 Mars|Grenoble|Castres|21|20||Bd
+2|2016-2017|22|Samedi 25 Mars|Lyon|Bayonne|52|7|Bo|
+3|2016-2017|22|Samedi 25 Mars|Pau|La Rochelle|13|23||
+4|2016-2017|22|Samedi 25 Mars|Bordeaux-Bègles|Toulouse|20|11||
+5|2016-2017|22|Dimanche 26 Mars|Brive|Montpellier|28|25||Bd
+6|2016-2017|22|Dimanche 26 Mars|Paris|Toulon|17|11||
+0|2016-2017|23|Samedi 08 Avril|La Rochelle|Bordeaux-Bègles|16|5||
+1|2016-2017|23|Samedi 08 Avril|Montpellier|Grenoble|54|14|Bo|
+2|2016-2017|23|Samedi 08 Avril|Bayonne|Paris|16|32||Bo
+3|2016-2017|23|Samedi 08 Avril|Castres|Lyon|16|17|Bd|
+4|2016-2017|23|Samedi 08 Avril|Clermont|Brive|21|26|Bd|
+5|2016-2017|23|Dimanche 09 Avril|Racing 92|Pau|34|32||Bd
+6|2016-2017|23|Dimanche 09 Avril|Toulon|Toulouse|33|23||
+0|2016-2017|24|Samedi 15 Avril|Toulon|Castres|23|14||
+1|2016-2017|24|Samedi 15 Avril|Brive|Bordeaux-Bègles|19|22|Bd|
+2|2016-2017|24|Samedi 15 Avril|Paris|Pau|51|16|Bo|
+3|2016-2017|24|Samedi 15 Avril|Grenoble|Clermont|18|59||Bo
+4|2016-2017|24|Samedi 15 Avril|Lyon|La Rochelle|29|25||Bd
+5|2016-2017|24|Dimanche 16 Avril|Montpellier|Bayonne|61|22|Bo|
+6|2016-2017|24|Dimanche 16 Avril|Toulouse|Racing 92|8|10|Bd|
+0|2016-2017|25|Samedi 29 Avril|Castres|Toulouse|52|7|Bo|
+1|2016-2017|25|Samedi 29 Avril|Pau|Brive|32|27||Bd
+2|2016-2017|25|Samedi 29 Avril|Bayonne|Grenoble|43|35||
+3|2016-2017|25|Samedi 29 Avril|Lyon|Clermont|20|23|Bd|
+4|2016-2017|25|Samedi 29 Avril|Bordeaux-Bègles|Toulon|13|26||
+5|2016-2017|25|Dimanche 30 Avril|La Rochelle|Montpellier|40|37||Bd
+6|2016-2017|25|Dimanche 30 Avril|Paris|Racing 92|27|23||Bd
+0|2016-2017|26|Samedi 06 Mai|Clermont|La Rochelle|30|26||Bd
+1|2016-2017|26|Samedi 06 Mai|Racing 92|Bordeaux-Bègles|22|20||Bd
+2|2016-2017|26|Samedi 06 Mai|Toulon|Pau|32|12||
+3|2016-2017|26|Samedi 06 Mai|Toulouse|Bayonne|40|12|Bo|
+4|2016-2017|26|Samedi 06 Mai|Grenoble|Lyon|53|21|Bo|
+5|2016-2017|26|Samedi 06 Mai|Brive|Castres|33|27||
+6|2016-2017|26|Samedi 06 Mai|Montpellier|Paris|27|26||Bd
+0|2016-2017|Barrages|Vendredi 19 Mai|Toulon|Castres|26|22||Bd
+1|2016-2017|Barrages|Samedi 20 Mai|Montpellier|Racing 92|13|22||
+0|2016-2017|Demi Finales|Vendredi 26 Mai|La Rochelle|Toulon|15|18|Bd|
+1|2016-2017|Demi Finales|Samedi 27 Mai|Clermont|Racing 92|37|31||
+0|2016-2017|Finale|Dimanche 04 Juin|Clermont|Toulon|22|16||
+0|2017-2018|1|Samedi 26 Août|Oyonnax|Toulouse|23|23||
+1|2017-2018|1|Samedi 26 Août|Racing 92|Castres|25|21||Bd
+2|2017-2018|1|Samedi 26 Août|Montpellier|Agen|48|19|Bo|
+3|2017-2018|1|Samedi 26 Août|Paris|Lyon|16|25||
+4|2017-2018|1|Samedi 26 Août|Brive|La Rochelle|10|19||
+5|2017-2018|1|Samedi 26 Août|Bordeaux-Bègles|Clermont|32|25||
+6|2017-2018|1|Dimanche 27 Août|Toulon|Pau|41|14||
+0|2017-2018|2|Samedi 02 Septembre|Agen|Racing 92|23|19||Bd
+1|2017-2018|2|Samedi 02 Septembre|Paris|La Rochelle|35|24||
+2|2017-2018|2|Samedi 02 Septembre|Montpellier|Oyonnax|37|6|Bo|
+3|2017-2018|2|Samedi 02 Septembre|Lyon|Brive|29|14||
+4|2017-2018|2|Samedi 02 Septembre|Castres|Bordeaux-Bègles|33|19|Bo|
+5|2017-2018|2|Samedi 02 Septembre|Toulouse|Pau|23|19||Bd
+6|2017-2018|2|Dimanche 03 Septembre|Clermont|Toulon|21|16||Bd
+0|2017-2018|3|Samedi 09 Septembre|La Rochelle|Clermont|51|20|Bo|
+1|2017-2018|3|Samedi 09 Septembre|Bordeaux-Bègles|Paris|30|10||
+2|2017-2018|3|Samedi 09 Septembre|Oyonnax|Agen|12|10||Bd
+3|2017-2018|3|Samedi 09 Septembre|Brive|Racing 92|6|25||Bo
+4|2017-2018|3|Samedi 09 Septembre|Castres|Montpellier|17|22|Bd|
+5|2017-2018|3|Dimanche 10 Septembre|Pau|Lyon|30|14||
+6|2017-2018|3|Dimanche 10 Septembre|Toulon|Toulouse|20|16||Bd
+0|2017-2018|4|Samedi 16 Septembre|Toulouse|Paris|53|17|Bo|
+1|2017-2018|4|Samedi 16 Septembre|Lyon|Bordeaux-Bègles|49|14|Bo|
+2|2017-2018|4|Samedi 16 Septembre|Pau|Castres|28|13||
+3|2017-2018|4|Samedi 16 Septembre|Agen|La Rochelle|15|20|Bd|
+4|2017-2018|4|Samedi 16 Septembre|Clermont|Brive|62|6|Bo|
+5|2017-2018|4|Dimanche 17 Septembre|Racing 92|Oyonnax|25|13||
+6|2017-2018|4|Dimanche 17 Septembre|Montpellier|Toulon|43|20|Bo|
+0|2017-2018|5|Samedi 23 Septembre|Clermont|Racing 92|23|21||Bd
+1|2017-2018|5|Samedi 23 Septembre|Bordeaux-Bègles|Montpellier|47|17|Bo|
+2|2017-2018|5|Samedi 23 Septembre|Agen|Pau|14|20||
+3|2017-2018|5|Samedi 23 Septembre|La Rochelle|Oyonnax|57|12|Bo|
+4|2017-2018|5|Samedi 23 Septembre|Brive|Toulouse|19|22|Bd|
+5|2017-2018|5|Dimanche 24 Septembre|Lyon|Castres|31|12|Bo|
+6|2017-2018|5|Dimanche 24 Septembre|Paris|Toulon|15|19|Bd|Bo
+0|2017-2018|6|Samedi 30 Septembre|Toulon|La Rochelle|26|20||
+1|2017-2018|6|Samedi 30 Septembre|Pau|Paris|23|25|Bd|
+2|2017-2018|6|Samedi 30 Septembre|Toulouse|Agen|30|10||
+3|2017-2018|6|Samedi 30 Septembre|Oyonnax|Bordeaux-Bègles|9|39||Bo
+4|2017-2018|6|Samedi 30 Septembre|Racing 92|Lyon|17|20|Bd|
+5|2017-2018|6|Dimanche 01 Octobre|Montpellier|Brive|54|10|Bo|
+6|2017-2018|6|Dimanche 01 Octobre|Castres|Clermont|29|23||
+0|2017-2018|7|Samedi 07 Octobre|Paris|Montpellier|31|20||
+1|2017-2018|7|Samedi 07 Octobre|Bordeaux-Bègles|Toulon|30|27||Bd
+2|2017-2018|7|Samedi 07 Octobre|Oyonnax|Pau|16|19|Bd|
+3|2017-2018|7|Samedi 07 Octobre|Brive|Castres|27|22||Bd
+4|2017-2018|7|Samedi 07 Octobre|Agen|Lyon|6|25||Bo
+5|2017-2018|7|Dimanche 08 Octobre|La Rochelle|Racing 92|16|9||
+6|2017-2018|7|Dimanche 08 Octobre|Toulouse|Clermont|28|18||
+0|2017-2018|8|Samedi 28 Octobre|Toulon|Brive|41|24|Bo|
+1|2017-2018|8|Samedi 28 Octobre|Racing 92|Bordeaux-Bègles|29|13||
+2|2017-2018|8|Samedi 28 Octobre|Pau|Montpellier|16|22||
+3|2017-2018|8|Samedi 28 Octobre|Lyon|Oyonnax|52|18|Bo|
+4|2017-2018|8|Samedi 28 Octobre|Clermont|Paris|33|10||
+5|2017-2018|8|Dimanche 29 Octobre|Castres|Agen|43|28|Bo|
+6|2017-2018|8|Dimanche 29 Octobre|La Rochelle|Toulouse|37|21||
+0|2017-2018|9|Samedi 04 Novembre|Toulouse|Bordeaux-Bègles|38|37||Bd
+1|2017-2018|9|Samedi 04 Novembre|Oyonnax|Castres|19|32||
+2|2017-2018|9|Samedi 04 Novembre|Racing 92|Pau|23|20||Bd
+3|2017-2018|9|Samedi 04 Novembre|Lyon|La Rochelle|15|19|Bd|
+4|2017-2018|9|Samedi 04 Novembre|Agen|Toulon|26|24||Bd
+5|2017-2018|9|Dimanche 05 Novembre|Brive|Paris|20|19||Bd
+6|2017-2018|9|Dimanche 05 Novembre|Montpellier|Clermont|28|24||Bd
+0|2017-2018|10|Samedi 18 Novembre|Clermont|Lyon|39|18|Bo|
+1|2017-2018|10|Samedi 18 Novembre|Pau|Brive|34|15||
+2|2017-2018|10|Samedi 18 Novembre|Castres|La Rochelle|31|15||
+3|2017-2018|10|Samedi 18 Novembre|Bordeaux-Bègles|Agen|33|23||
+4|2017-2018|10|Samedi 18 Novembre|Montpellier|Toulouse|32|22|Bo|
+5|2017-2018|10|Dimanche 19 Novembre|Paris|Oyonnax|39|35||Bd
+6|2017-2018|10|Dimanche 19 Novembre|Toulon|Racing 92|29|40||
+0|2017-2018|11|Samedi 25 Novembre|Castres|Toulon|20|19||Bd
+1|2017-2018|11|Samedi 25 Novembre|La Rochelle|Pau|44|14|Bo|
+2|2017-2018|11|Samedi 25 Novembre|Bordeaux-Bègles|Brive|27|27||
+3|2017-2018|11|Samedi 25 Novembre|Agen|Paris|29|13||
+4|2017-2018|11|Samedi 25 Novembre|Oyonnax|Clermont|32|32||
+5|2017-2018|11|Dimanche 26 Novembre|Racing 92|Montpellier|26|0|Bo|
+6|2017-2018|11|Dimanche 26 Novembre|Lyon|Toulouse|9|17||
+0|2017-2018|12|Samedi 02 Décembre|La Rochelle|Montpellier|26|14||
+1|2017-2018|12|Samedi 02 Décembre|Toulouse|Castres|31|41||
+2|2017-2018|12|Samedi 02 Décembre|Brive|Oyonnax|33|30||Bd
+3|2017-2018|12|Samedi 02 Décembre|Pau|Bordeaux-Bègles|27|17||
+4|2017-2018|12|Samedi 02 Décembre|Toulon|Lyon|39|11|Bo|
+5|2017-2018|12|Dimanche 03 Décembre|Clermont|Agen|35|26||
+6|2017-2018|12|Dimanche 03 Décembre|Paris|Racing 92|27|17||
+0|2017-2018|13|Vendredi 22 Décembre|Racing 92|Toulouse|23|19||Bd
+1|2017-2018|13|Samedi 23 Décembre|Agen|Brive|27|13||
+2|2017-2018|13|Samedi 23 Décembre|Bordeaux-Bègles|La Rochelle|29|19||
+3|2017-2018|13|Samedi 23 Décembre|Montpellier|Lyon|38|17|Bo|
+4|2017-2018|13|Samedi 23 Décembre|Castres|Paris|28|6|Bo|
+5|2017-2018|13|Samedi 23 Décembre|Pau|Clermont|22|21||Bd
+6|2017-2018|13|Samedi 23 Décembre|Toulon|Oyonnax|49|25|Bo|
+0|2017-2018|14|Samedi 30 Décembre|La Rochelle|Agen|47|6|Bo|
+1|2017-2018|14|Samedi 30 Décembre|Paris|Bordeaux-Bègles|22|12|Bo|
+2|2017-2018|14|Samedi 30 Décembre|Brive|Montpellier|29|10|Bo|
+3|2017-2018|14|Samedi 30 Décembre|Oyonnax|Racing 92|12|16|Bd|
+4|2017-2018|14|Samedi 30 Décembre|Toulouse|Toulon|18|13||Bd
+5|2017-2018|14|Dimanche 31 Décembre|Lyon|Pau|35|23||
+6|2017-2018|14|Dimanche 31 Décembre|Clermont|Castres|27|31|Bd|
+0|2017-2018|15|Samedi 06 Janvier|Bordeaux-Bègles|Lyon|19|10||
+1|2017-2018|15|Samedi 06 Janvier|Brive|Toulon|13|12||Bd
+2|2017-2018|15|Samedi 06 Janvier|Agen|Castres|30|3|Bo|
+3|2017-2018|15|Samedi 06 Janvier|Oyonnax|La Rochelle|38|38||
+4|2017-2018|15|Samedi 06 Janvier|Montpellier|Paris|28|16|Bo|
+5|2017-2018|15|Dimanche 07 Janvier|Pau|Toulouse|11|10||Bd
+6|2017-2018|15|Dimanche 07 Janvier|Racing 92|Clermont|58|6|Bo|
+0|2017-2018|16|Samedi 27 Janvier|Toulon|Bordeaux-Bègles|36|12|Bo|
+1|2017-2018|16|Samedi 27 Janvier|Toulouse|Oyonnax|37|15|Bo|
+2|2017-2018|16|Samedi 27 Janvier|La Rochelle|Brive|33|24||
+3|2017-2018|16|Samedi 27 Janvier|Lyon|Agen|71|17|Bo|
+4|2017-2018|16|Samedi 27 Janvier|Castres|Racing 92|13|18|Bd|
+5|2017-2018|16|Dimanche 28 Janvier|Paris|Pau|5|40||Bo
+6|2017-2018|16|Dimanche 28 Janvier|Clermont|Montpellier|29|30|Bd|
+0|2017-2018|17|Samedi 17 Février|Toulon|Paris|43|5|Bo|
+1|2017-2018|17|Samedi 17 Février|Oyonnax|Montpellier|30|43||Bo
+2|2017-2018|17|Samedi 17 Février|Brive|Pau|16|21|Bd|
+3|2017-2018|17|Samedi 17 Février|Agen|Toulouse|25|52||Bo
+4|2017-2018|17|Samedi 17 Février|Lyon|Clermont|36|10|Bo|
+5|2017-2018|17|Dimanche 18 Février|Bordeaux-Bègles|Castres|6|7|Bd|
+6|2017-2018|17|Dimanche 18 Février|Racing 92|La Rochelle|19|12||
+0|2017-2018|18|Samedi 24 Février|Montpellier|Bordeaux-Bègles|11|10||Bd
+1|2017-2018|18|Samedi 24 Février|Clermont|Oyonnax|12|18||
+2|2017-2018|18|Samedi 24 Février|Paris|Agen|34|36|Bd|
+3|2017-2018|18|Samedi 24 Février|Castres|Lyon|33|22||
+4|2017-2018|18|Samedi 24 Février|Pau|Racing 92|24|15||
+5|2017-2018|18|Dimanche 25 Février|Toulouse|Brive|45|28|Bo|
+6|2017-2018|18|Dimanche 25 Février|La Rochelle|Toulon|20|27||
+0|2017-2018|19|Samedi 03 Mars|Lyon|Toulon|15|6||
+1|2017-2018|19|Samedi 03 Mars|Racing 92|Brive|17|13||Bd
+2|2017-2018|19|Samedi 03 Mars|Castres|Pau|27|29|Bd|
+3|2017-2018|19|Samedi 03 Mars|Agen|Montpellier|31|29||Bd
+4|2017-2018|19|Samedi 03 Mars|Bordeaux-Bègles|Toulouse|19|25||
+5|2017-2018|19|Dimanche 04 Mars|Oyonnax|Paris|33|27||
+6|2017-2018|19|Dimanche 04 Mars|Clermont|La Rochelle|21|17||Bd
+0|2017-2018|20|Samedi 10 Mars|Montpellier|Racing 92|41|3|Bo|
+1|2017-2018|20|Samedi 10 Mars|Toulon|Agen|54|5|Bo|
+2|2017-2018|20|Samedi 10 Mars|Pau|La Rochelle|18|15||Bd
+3|2017-2018|20|Samedi 10 Mars|Bordeaux-Bègles|Oyonnax|20|26||
+4|2017-2018|20|Samedi 10 Mars|Brive|Clermont|9|11|Bd|
+5|2017-2018|20|Dimanche 11 Mars|Paris|Castres|23|17||
+6|2017-2018|20|Dimanche 11 Mars|Toulouse|Lyon|20|27||
+0|2017-2018|21|Samedi 17 Mars|Racing 92|Paris|28|22||
+1|2017-2018|21|Samedi 17 Mars|Agen|Bordeaux-Bègles|10|15|Bd|
+2|2017-2018|21|Samedi 17 Mars|La Rochelle|Lyon|19|15||Bd
+3|2017-2018|21|Samedi 17 Mars|Oyonnax|Toulon|29|26||Bd
+4|2017-2018|21|Samedi 17 Mars|Clermont|Pau|38|14|Bo|
+5|2017-2018|21|Dimanche 18 Mars|Castres|Brive|37|28||
+6|2017-2018|21|Dimanche 18 Mars|Toulouse|Montpellier|22|14||
+0|2017-2018|22|Samedi 24 Mars|La Rochelle|Bordeaux-Bègles|31|20|Bo|
+1|2017-2018|22|Samedi 24 Mars|Paris|Toulouse|33|37|Bd|
+2|2017-2018|22|Samedi 24 Mars|Brive|Agen|15|12||Bd
+3|2017-2018|22|Samedi 24 Mars|Pau|Oyonnax|33|12|Bo|
+4|2017-2018|22|Samedi 24 Mars|Montpellier|Castres|45|7|Bo|
+5|2017-2018|22|Dimanche 25 Mars|Toulon|Clermont|49|0|Bo|
+6|2017-2018|22|Dimanche 25 Mars|Lyon|Racing 92|22|24|Bd|
+0|2017-2018|23|Samedi 07 Avril|Castres|Toulouse|28|23||Bd
+1|2017-2018|23|Samedi 07 Avril|Paris|Clermont|50|13|Bo|
+2|2017-2018|23|Samedi 07 Avril|Bordeaux-Bègles|Pau|19|18||Bd
+3|2017-2018|23|Samedi 07 Avril|Brive|Lyon|25|27|Bd|
+4|2017-2018|23|Samedi 07 Avril|Agen|Oyonnax|36|21|Bo|
+5|2017-2018|23|Dimanche 08 Avril|Montpellier|La Rochelle|40|24|Bo|
+6|2017-2018|23|Dimanche 08 Avril|Racing 92|Toulon|17|13||Bd
+0|2017-2018|24|Samedi 14 Avril|Toulon|Montpellier|32|17||
+1|2017-2018|24|Samedi 14 Avril|Pau|Agen|22|33||
+2|2017-2018|24|Samedi 14 Avril|Oyonnax|Brive|40|17||
+3|2017-2018|24|Samedi 14 Avril|Clermont|Bordeaux-Bègles|33|3|Bo|
+4|2017-2018|24|Samedi 14 Avril|Lyon|Paris|44|3|Bo|
+5|2017-2018|24|Dimanche 15 Avril|La Rochelle|Castres|18|26||
+6|2017-2018|24|Dimanche 15 Avril|Toulouse|Racing 92|42|27||
+0|2017-2018|25|Samedi 28 Avril|Toulon|Castres|59|13|Bo|
+1|2017-2018|25|Samedi 28 Avril|Agen|Clermont|27|17||
+2|2017-2018|25|Samedi 28 Avril|Montpellier|Pau|45|13|Bo|
+3|2017-2018|25|Samedi 28 Avril|Oyonnax|Lyon|39|18|Bo|
+4|2017-2018|25|Samedi 28 Avril|Paris|Brive|30|22||
+5|2017-2018|25|Dimanche 29 Avril|Bordeaux-Bègles|Racing 92|15|39||Bo
+6|2017-2018|25|Dimanche 29 Avril|Toulouse|La Rochelle|19|14||Bd
+0|2017-2018|26|Samedi 05 Mai|Brive|Bordeaux-Bègles|22|20||Bd
+1|2017-2018|26|Samedi 05 Mai|Castres|Oyonnax|54|3|Bo|
+2|2017-2018|26|Samedi 05 Mai|Lyon|Montpellier|32|24||
+3|2017-2018|26|Samedi 05 Mai|La Rochelle|Paris|31|7|Bo|
+4|2017-2018|26|Samedi 05 Mai|Pau|Toulon|38|26||
+5|2017-2018|26|Samedi 05 Mai|Racing 92|Agen|42|13|Bo|
+6|2017-2018|26|Samedi 05 Mai|Clermont|Toulouse|36|26||
+0|2017-2018|Match accession|Samedi 12 Mai|Grenoble|Oyonnax|47|22|Bo|
+0|2017-2018|Barrages|Vendredi 18 Mai|Toulon|Lyon|19|19||
+1|2017-2018|Barrages|Samedi 19 Mai|Toulouse|Castres|11|23||
+0|2017-2018|Demi-finales|Vendredi 25 Mai|Montpellier|Lyon|40|14|Bo|
+1|2017-2018|Demi-finales|Samedi 26 Mai|Racing 92|Castres|14|19|Bd|
+0|2017-2018|Finale|Samedi 02 Juin|Montpellier|Castres|13|29||
+0|2018-2019|1|Samedi 25 Août|Perpignan|Paris|15|46||Bo
+1|2018-2019|1|Samedi 25 Août|Bordeaux-Bègles|Pau|41|19|Bo|
+2|2018-2019|1|Samedi 25 Août|Lyon|Toulouse|16|16||
+3|2018-2019|1|Samedi 25 Août|La Rochelle|Grenoble|28|21||
+4|2018-2019|1|Samedi 25 Août|Clermont|Agen|67|23|Bo|
+5|2018-2019|1|Samedi 25 Août|Toulon|Racing 92|9|25||Bo
+6|2018-2019|1|Dimanche 26 Août|Montpellier|Castres|20|25|Bd|
+0|2018-2019|2|Samedi 01 Septembre|Pau|Toulon|20|10||
+1|2018-2019|2|Samedi 01 Septembre|Castres|Lyon|19|16||Bd
+2|2018-2019|2|Samedi 01 Septembre|Paris|Bordeaux-Bègles|20|8||
+3|2018-2019|2|Samedi 01 Septembre|Montpellier|La Rochelle|36|14||
+4|2018-2019|2|Samedi 01 Septembre|Grenoble|Toulouse|20|23|Bd|
+5|2018-2019|2|Dimanche 02 Septembre|Agen|Perpignan|25|23||Bd
+6|2018-2019|2|Dimanche 02 Septembre|Racing 92|Clermont|17|40||
+0|2018-2019|3|Samedi 08 Septembre|Bordeaux-Bègles|Montpellier|9|9||
+1|2018-2019|3|Samedi 08 Septembre|Toulouse|La Rochelle|33|26||
+2|2018-2019|3|Samedi 08 Septembre|Perpignan|Lyon|16|22||
+3|2018-2019|3|Samedi 08 Septembre|Racing 92|Agen|59|7|Bo|
+4|2018-2019|3|Samedi 08 Septembre|Clermont|Paris|42|20|Bo|
+5|2018-2019|3|Dimanche 09 Septembre|Grenoble|Pau|21|24|Bd|
+6|2018-2019|3|Dimanche 09 Septembre|Toulon|Castres|28|27||Bd
+0|2018-2019|4|Samedi 15 Septembre|Lyon|Montpellier|55|13|Bo|
+1|2018-2019|4|Samedi 15 Septembre|Pau|Clermont|23|27|Bd|
+2|2018-2019|4|Samedi 15 Septembre|Castres|Grenoble|29|13|Bo|
+3|2018-2019|4|Samedi 15 Septembre|Agen|Bordeaux-Bègles|22|17||Bd
+4|2018-2019|4|Samedi 15 Septembre|Toulouse|Racing 92|30|17||
+5|2018-2019|4|Dimanche 16 Septembre|La Rochelle|Perpignan|37|10|Bo|
+6|2018-2019|4|Dimanche 16 Septembre|Paris|Toulon|37|10|Bo|
+0|2018-2019|5|Samedi 22 Septembre|Bordeaux-Bègles|Clermont|23|19||Bd
+1|2018-2019|5|Samedi 22 Septembre|La Rochelle|Lyon|30|13||
+2|2018-2019|5|Samedi 22 Septembre|Toulon|Agen|33|3|Bo|
+3|2018-2019|5|Samedi 22 Septembre|Grenoble|Perpignan|31|22||
+4|2018-2019|5|Samedi 22 Septembre|Racing 92|Castres|27|11||
+5|2018-2019|5|Dimanche 23 Septembre|Pau|Paris|13|25||
+6|2018-2019|5|Dimanche 23 Septembre|Montpellier|Toulouse|66|15|Bo|
+0|2018-2019|6|Samedi 29 Septembre|Toulouse|Castres|22|26|Bd|
+1|2018-2019|6|Samedi 29 Septembre|Perpignan|Montpellier|20|23|Bd|
+2|2018-2019|6|Samedi 29 Septembre|Agen|Pau|25|28|Bd|
+3|2018-2019|6|Samedi 29 Septembre|Bordeaux-Bègles|La Rochelle|34|22||
+4|2018-2019|6|Samedi 29 Septembre|Lyon|Grenoble|34|6|Bo|
+5|2018-2019|6|Samedi 29 Septembre|Clermont|Toulon|28|8|Bo|
+6|2018-2019|6|Dimanche 30 Septembre|Paris|Racing 92|16|17|Bd|
+0|2018-2019|7|Samedi 06 Octobre|La Rochelle|Clermont|16|12||Bd
+1|2018-2019|7|Samedi 06 Octobre|Grenoble|Bordeaux-Bègles|28|25||Bd
+2|2018-2019|7|Samedi 06 Octobre|Pau|Perpignan|12|9||Bd
+3|2018-2019|7|Samedi 06 Octobre|Racing 92|Lyon|13|19||
+4|2018-2019|7|Samedi 06 Octobre|Toulouse|Agen|10|0||
+5|2018-2019|7|Dimanche 07 Octobre|Castres|Paris|9|14|Bd|
+6|2018-2019|7|Dimanche 07 Octobre|Montpellier|Toulon|29|17||
+0|2018-2019|8|Samedi 27 Octobre|Clermont|Castres|41|6|Bo|
+1|2018-2019|8|Samedi 27 Octobre|Racing 92|Pau|48|28||
+2|2018-2019|8|Samedi 27 Octobre|Perpignan|Toulouse|18|36||Bo
+3|2018-2019|8|Samedi 27 Octobre|Agen|Grenoble|9|9||
+4|2018-2019|8|Samedi 27 Octobre|Paris|Montpellier|25|20||Bd
+5|2018-2019|8|Dimanche 28 Octobre|Bordeaux-Bègles|Lyon|35|13|Bo|
+6|2018-2019|8|Dimanche 28 Octobre|Toulon|La Rochelle|9|13|Bd|
+0|2018-2019|9|Samedi 03 Novembre|Grenoble|Clermont|27|27||
+1|2018-2019|9|Samedi 03 Novembre|Castres|Pau|37|10|Bo|
+2|2018-2019|9|Samedi 03 Novembre|Toulon|Perpignan|26|16||
+3|2018-2019|9|Samedi 03 Novembre|La Rochelle|Agen|33|29||Bd
+4|2018-2019|9|Samedi 03 Novembre|Toulouse|Bordeaux-Bègles|40|0|Bo|
+5|2018-2019|9|Dimanche 04 Novembre|Lyon|Paris|41|6|Bo|
+6|2018-2019|9|Dimanche 04 Novembre|Montpellier|Racing 92|13|27||
+0|2018-2019|10|Samedi 24 Novembre|Bordeaux-Bègles|Toulon|36|25||
+1|2018-2019|10|Samedi 24 Novembre|Agen|Montpellier|15|18|Bd|
+2|2018-2019|10|Samedi 24 Novembre|Pau|Toulouse|13|15|Bd|
+3|2018-2019|10|Samedi 24 Novembre|Racing 92|Grenoble|24|23||Bd
+4|2018-2019|10|Samedi 24 Novembre|Perpignan|Castres|12|16|Bd|
+5|2018-2019|10|Dimanche 25 Novembre|Paris|La Rochelle|12|14|Bd|
+6|2018-2019|10|Dimanche 25 Novembre|Clermont|Lyon|31|11|Bo|
+0|2018-2019|11|Samedi 01 Décembre|Montpellier|Clermont|23|28|Bd|
+1|2018-2019|11|Samedi 01 Décembre|Lyon|Pau|30|10|Bo|
+2|2018-2019|11|Samedi 01 Décembre|Castres|Agen|13|16|Bd|
+3|2018-2019|11|Samedi 01 Décembre|La Rochelle|Racing 92|16|11||Bd
+4|2018-2019|11|Samedi 01 Décembre|Toulon|Grenoble|22|3|Bo|
+5|2018-2019|11|Dimanche 02 Décembre|Perpignan|Bordeaux-Bègles|11|22||
+6|2018-2019|11|Dimanche 02 Décembre|Toulouse|Paris|49|20|Bo|
+0|2018-2019|12|Samedi 22 Décembre|Agen|Paris|6|19||
+1|2018-2019|12|Samedi 22 Décembre|Toulon|Lyon|40|7|Bo|
+2|2018-2019|12|Samedi 22 Décembre|Pau|La Rochelle|23|28|Bd|
+3|2018-2019|12|Samedi 22 Décembre|Racing 92|Perpignan|64|28|Bo|
+4|2018-2019|12|Samedi 22 Décembre|Grenoble|Montpellier|17|16||Bd
+5|2018-2019|12|Dimanche 23 Décembre|Castres|Bordeaux-Bègles|13|32||
+6|2018-2019|12|Dimanche 23 Décembre|Clermont|Toulouse|20|20||
+0|2018-2019|13|Samedi 29 Décembre|Lyon|Agen|52|20|Bo|
+1|2018-2019|13|Samedi 29 Décembre|Paris|Grenoble|23|20||Bd
+2|2018-2019|13|Samedi 29 Décembre|La Rochelle|Castres|53|27|Bo|
+3|2018-2019|13|Samedi 29 Décembre|Perpignan|Clermont|16|37||Bo
+4|2018-2019|13|Dimanche 30 Décembre|Montpellier|Pau|41|13|Bo|
+5|2018-2019|13|Dimanche 30 Décembre|Bordeaux-Bègles|Racing 92|40|7|Bo|
+6|2018-2019|13|Dimanche 30 Décembre|Toulouse|Toulon|39|0|Bo|
+0|2018-2019|14|Samedi 05 Janvier|Paris|Perpignan|27|8|Bo|
+1|2018-2019|14|Samedi 05 Janvier|Grenoble|Castres|6|16||
+2|2018-2019|14|Samedi 05 Janvier|Pau|Bordeaux-Bègles|40|23|Bo|
+3|2018-2019|14|Samedi 05 Janvier|Montpellier|Lyon|14|25||
+4|2018-2019|14|Samedi 05 Janvier|Agen|Toulouse|20|27||
+5|2018-2019|14|Samedi 05 Janvier|Racing 92|Toulon|22|13||
+6|2018-2019|14|Dimanche 06 Janvier|Clermont|La Rochelle|44|19||
+0|2018-2019|15|Samedi 26 Janvier|Castres|Clermont|24|16||
+1|2018-2019|15|Samedi 26 Janvier|Bordeaux-Bègles|Agen|25|17||
+2|2018-2019|15|Samedi 26 Janvier|Perpignan|Pau|24|30||
+3|2018-2019|15|Samedi 26 Janvier|La Rochelle|Montpellier|27|25||Bd
+4|2018-2019|15|Samedi 26 Janvier|Lyon|Racing 92|32|11||
+5|2018-2019|15|Dimanche 27 Janvier|Toulouse|Grenoble|29|16|Bo|
+6|2018-2019|15|Dimanche 27 Janvier|Toulon|Paris|33|30||Bd
+0|2018-2019|16|Samedi 16 Février|Clermont|Bordeaux-Bègles|40|20||
+1|2018-2019|16|Samedi 16 Février|Paris|Lyon|13|24||
+2|2018-2019|16|Samedi 16 Février|Montpellier|Perpignan|10|28||
+3|2018-2019|16|Samedi 16 Février|Pau|Castres|9|14|Bd|
+4|2018-2019|16|Samedi 16 Février|Agen|Toulon|19|10||
+5|2018-2019|16|Dimanche 17 Février|Grenoble|La Rochelle|21|28||Bo
+6|2018-2019|16|Dimanche 17 Février|Racing 92|Toulouse|29|34|Bd|
+0|2018-2019|17|Samedi 23 Février|Bordeaux-Bègles|Grenoble|47|31|Bo|
+1|2018-2019|17|Samedi 23 Février|Toulouse|Montpellier|27|14||
+2|2018-2019|17|Samedi 23 Février|Toulon|Pau|38|11|Bo|
+3|2018-2019|17|Samedi 23 Février|Perpignan|Agen|13|20||
+4|2018-2019|17|Samedi 23 Février|La Rochelle|Paris|14|27||
+5|2018-2019|17|Dimanche 24 Février|Castres|Racing 92|18|9||
+6|2018-2019|17|Dimanche 24 Février|Lyon|Clermont|19|13||
+0|2018-2019|18|Samedi 02 Mars|Racing 92|La Rochelle|50|14|Bo|
+1|2018-2019|18|Samedi 02 Mars|Montpellier|Bordeaux-Bègles|37|10|Bo|
+2|2018-2019|18|Samedi 02 Mars|Clermont|Grenoble|52|17|Bo|
+3|2018-2019|18|Samedi 02 Mars|Pau|Agen|27|17||
+4|2018-2019|18|Samedi 02 Mars|Lyon|Castres|15|23||
+5|2018-2019|18|Dimanche 03 Mars|Perpignan|Toulon|11|24||
+6|2018-2019|18|Dimanche 03 Mars|Paris|Toulouse|9|28||Bo
